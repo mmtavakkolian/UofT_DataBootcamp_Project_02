@@ -1,0 +1,4283 @@
+Year,Country / territory of asylum/residence,Origin,Refugees (incl. refugee-like situations),Asylum-seekers (pending cases),Returned refugees,Internally displaced persons (IDPs),Returned IDPs,Stateless persons,Others of concern,Total Population
+#date+year,#country+residence,#country+origin,#affected+refugees,#affected+asylum,#affected+returned_refugees,#affected+idps,#affected+returned_idps,#affected+stateless,#affected+others,#affected+total
+1951,Canada,Various/Unknown,168511,,,,,,,168511
+1952,Canada,Various/Unknown,154828,,,,,,,154828
+1953,Canada,Various/Unknown,107004,,,,,,,107004
+1954,Canada,Various/Unknown,75828,,,,,,,75828
+1955,Canada,Various/Unknown,52551,,,,,,,52551
+1956,Canada,Various/Unknown,17485,,,,,,,17485
+1957,Canada,Various/Unknown,46334,,,,,,,46334
+1958,Canada,Various/Unknown,46908,,,,,,,46908
+1959,Canada,Various/Unknown,47934,,,,,,,47934
+1960,Canada,Various/Unknown,48629,,,,,,,48629
+1961,Canada,Various/Unknown,44492,,,,,,,44492
+1962,Canada,Various/Unknown,12282,,,,,,,12282
+1963,Canada,Various/Unknown,10946,,,,,,,10946
+1964,Canada,Various/Unknown,10178,,,,,,,10178
+1965,Canada,Various/Unknown,9980,,,,,,,9980
+1966,Canada,Various/Unknown,10225,,,,,,,10225
+1967,Canada,Various/Unknown,9991,,,,,,,9991
+1968,Canada,Various/Unknown,17950,,,,,,,17950
+1969,Canada,Various/Unknown,19275,,,,,,,19275
+1970,Canada,Various/Unknown,18518,,,,,,,18518
+1971,Canada,Various/Unknown,17196,,,,,,,17196
+1972,Canada,Various/Unknown,20933,,,,,,,20933
+1973,Canada,Various/Unknown,13358,,,,,,,13358
+1974,Canada,Various/Unknown,11410,,,,,,,11410
+1975,Canada,Various/Unknown,16349,,,,,,,16349
+1976,Canada,Various/Unknown,27387,,,,,,,27387
+1977,Canada,Various/Unknown,29537,,,,,,,29537
+1978,Canada,Various/Unknown,31295,,,,,,,31295
+1979,Canada,Various/Unknown,57913,,,,,,,57913
+1980,Canada,Various/Unknown,92679,,,,,,,92679
+1981,Canada,Various/Unknown,96415,,,,,,,96415
+1982,Canada,Various/Unknown,107591,,,,,,,107591
+1983,Canada,Various/Unknown,120947,,,,,,,120947
+1984,Canada,Various/Unknown,112966,,,,,,,112966
+1985,Canada,Various/Unknown,92194,,,,,,,92194
+1986,Canada,Various/Unknown,98743,,,,,,,98743
+1987,Canada,Various/Unknown,104843,,,,,,,104843
+1988,Canada,Various/Unknown,116434,,,,,,,116434
+1989,Canada,Various/Unknown,135752,,,,,,,135752
+1990,Canada,Various/Unknown,154761,,,,,,,154761
+1991,Canada,Various/Unknown,170916,,,,,,,170916
+1992,Canada,Various/Unknown,183723,,,,,,,183723
+1993,Canada,Chile,,,65,,,,,65
+1993,Canada,Iran (Islamic Rep. of),,,1,,,,,1
+1993,Canada,South Africa,,,9,,,,,9
+1993,Canada,Various/Unknown,183241,,,,,,,183241
+1994,Canada,Afghanistan,4399,,,,,,,4399
+1994,Canada,Albania,228,,,,,,,228
+1994,Canada,Algeria,557,,,,,,,557
+1994,Canada,Andorra,1,,,,,,,1
+1994,Canada,Angola,113,,,,,,,113
+1994,Canada,Argentina,364,,,,,,,364
+1994,Canada,Armenia,30,,,,,,,30
+1994,Canada,Australia,2,,,,,,,2
+1994,Canada,Austria,60,,,,,,,60
+1994,Canada,Azerbaijan,40,,,,,,,40
+1994,Canada,Bahrain,15,,,,,,,15
+1994,Canada,Bangladesh,1363,,,,,,,1363
+1994,Canada,Barbados,3,,,,,,,3
+1994,Canada,Belarus,30,,,,,,,30
+1994,Canada,Belgium,2,,,,,,,2
+1994,Canada,Belize,8,,,,,,,8
+1994,Canada,Benin,15,,,,,,,15
+1994,Canada,Bhutan,4,,,,,,,4
+1994,Canada,Bolivia (Plurinational State of),82,,,,,,,82
+1994,Canada,Bosnia and Herzegovina,6234,,,,,,,6234
+1994,Canada,Botswana,17,,,,,,,17
+1994,Canada,Brazil,27,,,,,,,27
+1994,Canada,Bulgaria,1645,,,,,,,1645
+1994,Canada,Burkina Faso,6,,,,,,,6
+1994,Canada,Burundi,476,,,,,,,476
+1994,Canada,Cambodia,1520,,,,,,,1520
+1994,Canada,Cameroon,58,,,,,,,58
+1994,Canada,Central African Rep.,5,,,,,,,5
+1994,Canada,Chad,34,,,,,,,34
+1994,Canada,Chile,922,,25,,,,,947
+1994,Canada,China,2067,,,,,,,2067
+1994,Canada,"China, Hong Kong SAR",257,,,,,,,257
+1994,Canada,Colombia,101,,,,,,,101
+1994,Canada,Comoros,3,,,,,,,3
+1994,Canada,Congo,16,,,,,,,16
+1994,Canada,Costa Rica,217,,,,,,,217
+1994,Canada,Croatia,625,,,,,,,625
+1994,Canada,Cuba,722,,,,,,,722
+1994,Canada,Cyprus,6,,,,,,,6
+1994,Canada,Czech Rep.,1535,,,,,,,1535
+1994,Canada,Cote d'Ivoire,32,,,,,,,32
+1994,Canada,Dem. People's Rep. of Korea,2,,,,,,,2
+1994,Canada,Dem. Rep. of the Congo,1560,,,,,,,1560
+1994,Canada,Denmark,11,,,,,,,11
+1994,Canada,Djibouti,55,,,,,,,55
+1994,Canada,Dominican Rep.,25,,,,,,,25
+1994,Canada,Ecuador,111,,,,,,,111
+1994,Canada,Egypt,146,,,,,,,146
+1994,Canada,El Salvador,11082,,,,,,,11082
+1994,Canada,Equatorial Guinea,2,,,,,,,2
+1994,Canada,Eritrea,6,,,,,,,6
+1994,Canada,Estonia,176,,,,,,,176
+1994,Canada,Ethiopia,7786,,2,,,,,7788
+1994,Canada,Fiji,38,,,,,,,38
+1994,Canada,France,20,,,,,,,20
+1994,Canada,Gabon,5,,,,,,,5
+1994,Canada,Gambia,2,,,,,,,2
+1994,Canada,Georgia,36,,,,,,,36
+1994,Canada,Germany,441,,,,,,,441
+1994,Canada,Ghana,973,,,,,,,973
+1994,Canada,Greece,93,,,,,,,93
+1994,Canada,Grenada,3,,,,,,,3
+1994,Canada,Guatemala,3636,,,,,,,3636
+1994,Canada,Guinea,46,,,,,,,46
+1994,Canada,Guinea-Bissau,5,,,,,,,5
+1994,Canada,Guyana,69,,,,,,,69
+1994,Canada,Haiti,1217,,,,,,,1217
+1994,Canada,Honduras,692,,,,,,,692
+1994,Canada,Hungary,1161,,,,,,,1161
+1994,Canada,India,1124,,,,,,,1124
+1994,Canada,Indonesia,58,,,,,,,58
+1994,Canada,Iran (Islamic Rep. of),10281,,,,,,,10281
+1994,Canada,Iraq,6690,,,,,,,6690
+1994,Canada,Ireland,3,,,,,,,3
+1994,Canada,Israel,732,,,,,,,732
+1994,Canada,Italy,139,,,,,,,139
+1994,Canada,Jamaica,4,,,,,,,4
+1994,Canada,Japan,7,,,,,,,7
+1994,Canada,Jordan,147,,,,,,,147
+1994,Canada,Kazakhstan,24,,,,,,,24
+1994,Canada,Kenya,492,,,,,,,492
+1994,Canada,Kuwait,672,,,,,,,672
+1994,Canada,Kyrgyzstan,13,,,,,,,13
+1994,Canada,Lao People's Dem. Rep.,1620,,,,,,,1620
+1994,Canada,Latvia,78,,,,,,,78
+1994,Canada,Lebanon,5298,,,,,,,5298
+1994,Canada,Liberia,192,,,,,,,192
+1994,Canada,Libya,132,,,,,,,132
+1994,Canada,Lithuania,37,,,,,,,37
+1994,Canada,Madagascar,1,,,,,,,1
+1994,Canada,Malawi,29,,,,,,,29
+1994,Canada,Malaysia,78,,,,,,,78
+1994,Canada,Mali,154,,,,,,,154
+1994,Canada,Malta,7,,,,,,,7
+1994,Canada,Mauritania,16,,,,,,,16
+1994,Canada,Mauritius,1,,,,,,,1
+1994,Canada,Mexico,239,,,,,,,239
+1994,Canada,Mongolia,1,,,,,,,1
+1994,Canada,Morocco,63,,,,,,,63
+1994,Canada,Mozambique,16,,4,,,,,20
+1994,Canada,Myanmar,168,,,,,,,168
+1994,Canada,Namibia,1,,,,,,,1
+1994,Canada,Nepal,3,,,,,,,3
+1994,Canada,Netherlands,75,,,,,,,75
+1994,Canada,Nicaragua,967,,,,,,,967
+1994,Canada,Niger,2,,,,,,,2
+1994,Canada,Nigeria,459,,,,,,,459
+1994,Canada,Norway,2,,,,,,,2
+1994,Canada,Oman,3,,,,,,,3
+1994,Canada,Pakistan,2721,,,,,,,2721
+1994,Canada,Panama,143,,,,,,,143
+1994,Canada,Paraguay,39,,,,,,,39
+1994,Canada,Peru,1273,,,,,,,1273
+1994,Canada,Philippines,248,,,,,,,248
+1994,Canada,Poland,27732,,,,,,,27732
+1994,Canada,Portugal,25,,,,,,,25
+1994,Canada,Puerto Rico,12,,,,,,,12
+1994,Canada,Qatar,49,,,,,,,49
+1994,Canada,Rep. of Korea,7,,,,,,,7
+1994,Canada,Rep. of Moldova,445,,,,,,,445
+1994,Canada,Romania,3085,,,,,,,3085
+1994,Canada,Russian Federation,2611,,,,,,,2611
+1994,Canada,Rwanda,436,,,,,,,436
+1994,Canada,Saint Vincent and the Grenadines,7,,,,,,,7
+1994,Canada,Samoa,1,,,,,,,1
+1994,Canada,Sao Tome and Principe,1,,,,,,,1
+1994,Canada,Saudi Arabia,175,,,,,,,175
+1994,Canada,Senegal,14,,,,,,,14
+1994,Canada,Serbia and Kosovo (S/RES/1244 (1999)),1552,,,,,,,1552
+1994,Canada,Seychelles,528,,,,,,,528
+1994,Canada,Sierra Leone,50,,,,,,,50
+1994,Canada,Singapore,8,,,,,,,8
+1994,Canada,Slovakia,6,,,,,,,6
+1994,Canada,Slovenia,15,,,,,,,15
+1994,Canada,Somalia,17817,,,,,,,17817
+1994,Canada,South Africa,123,,7,,,,,130
+1994,Canada,Spain,42,,,,,,,42
+1994,Canada,Sri Lanka,21501,,,,,,,21501
+1994,Canada,Sudan,2021,,,,,,,2021
+1994,Canada,Suriname,13,,,,,,,13
+1994,Canada,Swaziland,11,,,,,,,11
+1994,Canada,Sweden,11,,,,,,,11
+1994,Canada,Switzerland,8,,,,,,,8
+1994,Canada,Syrian Arab Rep.,415,,,,,,,415
+1994,Canada,Tajikistan,1,,,,,,,1
+1994,Canada,Thailand,89,,,,,,,89
+1994,Canada,The former Yugoslav Republic of Macedonia,7,,,,,,,7
+1994,Canada,Togo,57,,,,,,,57
+1994,Canada,Trinidad and Tobago,12,,,,,,,12
+1994,Canada,Tunisia,76,,,,,,,76
+1994,Canada,Turkey,536,,,,,,,536
+1994,Canada,Uganda,350,,,,,,,350
+1994,Canada,Ukraine,462,,,,,,,462
+1994,Canada,United Kingdom,106,,,,,,,106
+1994,Canada,United Rep. of Tanzania,33,,,,,,,33
+1994,Canada,United States of America,354,,,,,,,354
+1994,Canada,Uruguay,297,,,,,,,297
+1994,Canada,Uzbekistan,26,,,,,,,26
+1994,Canada,Various/Unknown,3255,,,,,,,3255
+1994,Canada,Venezuela (Bolivarian Republic of),363,,,,,,,363
+1994,Canada,Viet Nam,14007,,,,,,,14007
+1994,Canada,Yemen,79,,,,,,,79
+1994,Canada,Zambia,15,,,,,,,15
+1994,Canada,Zimbabwe,25,,,,,,,25
+1995,Canada,Afghanistan,4575,,,,,,,4575
+1995,Canada,Albania,239,,,,,,,239
+1995,Canada,Algeria,905,,,,,,,905
+1995,Canada,Andorra,1,,,,,,,1
+1995,Canada,Angola,110,,,,,,,110
+1995,Canada,Argentina,247,,,,,,,247
+1995,Canada,Armenia,43,,,,,,,43
+1995,Canada,Australia,1,,,,,,,1
+1995,Canada,Austria,49,,,,,,,49
+1995,Canada,Azerbaijan,56,,,,,,,56
+1995,Canada,Bahrain,11,,,,,,,11
+1995,Canada,Bangladesh,1639,,,,,,,1639
+1995,Canada,Barbados,2,,,,,,,2
+1995,Canada,Belarus,36,,,,,,,36
+1995,Canada,Belgium,3,,,,,,,3
+1995,Canada,Belize,8,,,,,,,8
+1995,Canada,Benin,15,,,,,,,15
+1995,Canada,Bhutan,6,,,,,,,6
+1995,Canada,Bolivia (Plurinational State of),72,,,,,,,72
+1995,Canada,Bosnia and Herzegovina,12171,,,,,,,12171
+1995,Canada,Botswana,22,,,,,,,22
+1995,Canada,Brazil,24,,,,,,,24
+1995,Canada,Bulgaria,1053,,,,,,,1053
+1995,Canada,Burkina Faso,9,,,,,,,9
+1995,Canada,Burundi,637,,,,,,,637
+1995,Canada,Cambodia,822,,,,,,,822
+1995,Canada,Cameroon,89,,,,,,,89
+1995,Canada,Central African Rep.,5,,,,,,,5
+1995,Canada,Chad,46,,,,,,,46
+1995,Canada,Chile,501,,,,,,,501
+1995,Canada,China,1597,,,,,,,1597
+1995,Canada,"China, Hong Kong SAR",202,,,,,,,202
+1995,Canada,Colombia,112,,,,,,,112
+1995,Canada,Comoros,4,,,,,,,4
+1995,Canada,Congo,19,,,,,,,19
+1995,Canada,Costa Rica,204,,,,,,,204
+1995,Canada,Croatia,984,,,,,,,984
+1995,Canada,Cuba,696,,,,,,,696
+1995,Canada,Cyprus,9,,,,,,,9
+1995,Canada,Czech Rep.,394,,,,,,,394
+1995,Canada,Cote d'Ivoire,50,,,,,,,50
+1995,Canada,Dem. People's Rep. of Korea,1,,,,,,,1
+1995,Canada,Dem. Rep. of the Congo,1564,,,,,,,1564
+1995,Canada,Denmark,18,,,,,,,18
+1995,Canada,Djibouti,57,,,,,,,57
+1995,Canada,Dominican Rep.,25,,,,,,,25
+1995,Canada,Ecuador,130,,,,,,,130
+1995,Canada,Egypt,181,,,,,,,181
+1995,Canada,El Salvador,7261,,,,,,,7261
+1995,Canada,Equatorial Guinea,2,,,,,,,2
+1995,Canada,Eritrea,17,,,,,,,17
+1995,Canada,Estonia,193,,,,,,,193
+1995,Canada,Ethiopia,5673,,,,,,,5673
+1995,Canada,Fiji,28,,,,,,,28
+1995,Canada,Finland,1,,,,,,,1
+1995,Canada,France,14,,,,,,,14
+1995,Canada,Gabon,5,,,,,,,5
+1995,Canada,Gambia,2,,,,,,,2
+1995,Canada,Georgia,45,,,,,,,45
+1995,Canada,Germany,376,,,,,,,376
+1995,Canada,Ghana,751,,,,,,,751
+1995,Canada,Greece,129,,,,,,,129
+1995,Canada,Grenada,6,,,,,,,6
+1995,Canada,Guatemala,3052,,,,,,,3052
+1995,Canada,Guinea,60,,,,,,,60
+1995,Canada,Guinea-Bissau,5,,,,,,,5
+1995,Canada,Guyana,59,,,,,,,59
+1995,Canada,Haiti,1145,,,,,,,1145
+1995,Canada,Honduras,497,,,,,,,497
+1995,Canada,Hungary,651,,,,,,,651
+1995,Canada,India,1528,,,,,,,1528
+1995,Canada,Indonesia,62,,,,,,,62
+1995,Canada,Iran (Islamic Rep. of),8131,,,,,,,8131
+1995,Canada,Iraq,7308,,,,,,,7308
+1995,Canada,Ireland,2,,,,,,,2
+1995,Canada,Israel,794,,,,,,,794
+1995,Canada,Italy,114,,,,,,,114
+1995,Canada,Jamaica,6,,,,,,,6
+1995,Canada,Japan,3,,,,,,,3
+1995,Canada,Jordan,148,,,,,,,148
+1995,Canada,Kazakhstan,115,,,,,,,115
+1995,Canada,Kenya,453,,,,,,,453
+1995,Canada,Kuwait,616,,,,,,,616
+1995,Canada,Kyrgyzstan,14,,,,,,,14
+1995,Canada,Lao People's Dem. Rep.,1055,,,,,,,1055
+1995,Canada,Latvia,81,,,,,,,81
+1995,Canada,Lebanon,3177,,,,,,,3177
+1995,Canada,Liberia,205,,,,,,,205
+1995,Canada,Libya,120,,,,,,,120
+1995,Canada,Lithuania,43,,,,,,,43
+1995,Canada,Madagascar,1,,,,,,,1
+1995,Canada,Malawi,27,,,,,,,27
+1995,Canada,Malaysia,72,,,,,,,72
+1995,Canada,Mali,103,,,,,,,103
+1995,Canada,Malta,13,,,,,,,13
+1995,Canada,Mauritania,22,,,,,,,22
+1995,Canada,Mauritius,1,,,,,,,1
+1995,Canada,Mexico,250,,,,,,,250
+1995,Canada,Mongolia,1,,,,,,,1
+1995,Canada,Morocco,46,,,,,,,46
+1995,Canada,Mozambique,21,,,,,,,21
+1995,Canada,Myanmar,208,,,,,,,208
+1995,Canada,Namibia,1,,,,,,,1
+1995,Canada,Nepal,5,,,,,,,5
+1995,Canada,Netherlands,81,,,,,,,81
+1995,Canada,Nicaragua,541,,,,,,,541
+1995,Canada,Niger,4,,,,,,,4
+1995,Canada,Nigeria,492,,,,,,,492
+1995,Canada,Norway,1,,,,,,,1
+1995,Canada,Oman,9,,,,,,,9
+1995,Canada,Pakistan,2573,,,,,,,2573
+1995,Canada,Panama,102,,,,,,,102
+1995,Canada,Paraguay,35,,,,,,,35
+1995,Canada,Peru,1266,,,,,,,1266
+1995,Canada,Philippines,268,,,,,,,268
+1995,Canada,Poland,15690,,,,,,,15690
+1995,Canada,Portugal,23,,,,,,,23
+1995,Canada,Puerto Rico,12,,,,,,,12
+1995,Canada,Qatar,30,,,,,,,30
+1995,Canada,Rep. of Korea,13,,,,,,,13
+1995,Canada,Rep. of Moldova,499,,,,,,,499
+1995,Canada,Romania,1813,,,,,,,1813
+1995,Canada,Russian Federation,1613,,,,,,,1613
+1995,Canada,Rwanda,519,,,,,,,519
+1995,Canada,Saint Lucia,2,,,,,,,2
+1995,Canada,Saint Vincent and the Grenadines,7,,,,,,,7
+1995,Canada,Sao Tome and Principe,1,,,,,,,1
+1995,Canada,Saudi Arabia,251,,,,,,,251
+1995,Canada,Senegal,16,,,,,,,16
+1995,Canada,Serbia and Kosovo (S/RES/1244 (1999)),1953,,,,,,,1953
+1995,Canada,Seychelles,305,,,,,,,305
+1995,Canada,Sierra Leone,52,,,,,,,52
+1995,Canada,Singapore,8,,,,,,,8
+1995,Canada,Slovakia,7,,,,,,,7
+1995,Canada,Slovenia,23,,,,,,,23
+1995,Canada,Somalia,14673,,,,,,,14673
+1995,Canada,South Africa,71,,,,,,,71
+1995,Canada,Spain,29,,,,,,,29
+1995,Canada,Sri Lanka,17975,,,,,,,17975
+1995,Canada,Sudan,1992,,,,,,,1992
+1995,Canada,Suriname,14,,,,,,,14
+1995,Canada,Swaziland,15,,,,,,,15
+1995,Canada,Sweden,25,,,,,,,25
+1995,Canada,Switzerland,27,,,,,,,27
+1995,Canada,Syrian Arab Rep.,365,,,,,,,365
+1995,Canada,Tajikistan,1,,,,,,,1
+1995,Canada,Thailand,163,,,,,,,163
+1995,Canada,The former Yugoslav Republic of Macedonia,17,,,,,,,17
+1995,Canada,Togo,65,,,,,,,65
+1995,Canada,Trinidad and Tobago,12,,,,,,,12
+1995,Canada,Tunisia,60,,,,,,,60
+1995,Canada,Turkey,558,,,,,,,558
+1995,Canada,Uganda,268,,,,,,,268
+1995,Canada,Ukraine,594,,,,,,,594
+1995,Canada,United Kingdom,65,,,,,,,65
+1995,Canada,United Rep. of Tanzania,33,,,,,,,33
+1995,Canada,United States of America,233,,,,,,,233
+1995,Canada,Uruguay,236,,,,,,,236
+1995,Canada,Uzbekistan,50,,,,,,,50
+1995,Canada,Various/Unknown,2567,,,,,,,2567
+1995,Canada,Venezuela (Bolivarian Republic of),466,,,,,,,466
+1995,Canada,Viet Nam,8853,,,,,,,8853
+1995,Canada,Yemen,90,,,,,,,90
+1995,Canada,Zambia,17,,,,,,,17
+1995,Canada,Zimbabwe,20,,,,,,,20
+1996,Canada,Afghanistan,5056,,,,,,,5056
+1996,Canada,Albania,202,,,,,,,202
+1996,Canada,Algeria,1212,,,,,,,1212
+1996,Canada,Andorra,1,,,,,,,1
+1996,Canada,Angola,96,,,,,,,96
+1996,Canada,Argentina,130,,,,,,,130
+1996,Canada,Armenia,68,,,,,,,68
+1996,Canada,Australia,1,,,,,,,1
+1996,Canada,Austria,48,,,,,,,48
+1996,Canada,Azerbaijan,64,,,,,,,64
+1996,Canada,Bahrain,3,,,,,,,3
+1996,Canada,Bangladesh,1892,,,,,,,1892
+1996,Canada,Barbados,1,,,,,,,1
+1996,Canada,Belarus,39,,,,,,,39
+1996,Canada,Belgium,5,,,,,,,5
+1996,Canada,Belize,3,,,,,,,3
+1996,Canada,Benin,9,,,,,,,9
+1996,Canada,Bhutan,6,,,,,,,6
+1996,Canada,Bolivia (Plurinational State of),60,,,,,,,60
+1996,Canada,Bosnia and Herzegovina,17069,,,,,,,17069
+1996,Canada,Botswana,22,,,,,,,22
+1996,Canada,Brazil,20,,,,,,,20
+1996,Canada,Bulgaria,499,,,,,,,499
+1996,Canada,Burkina Faso,10,,,,,,,10
+1996,Canada,Burundi,778,,,,,,,778
+1996,Canada,Cambodia,495,,,,,,,495
+1996,Canada,Cameroon,93,,,,,,,93
+1996,Canada,Central African Rep.,6,,,,,,,6
+1996,Canada,Chad,52,,,,,,,52
+1996,Canada,Chile,309,,,,,,,309
+1996,Canada,China,1132,,,,,,,1132
+1996,Canada,"China, Hong Kong SAR",102,,,,,,,102
+1996,Canada,Colombia,132,,,,,,,132
+1996,Canada,Comoros,4,,,,,,,4
+1996,Canada,Congo,18,,,,,,,18
+1996,Canada,Costa Rica,131,,,,,,,131
+1996,Canada,Croatia,1485,,,,,,,1485
+1996,Canada,Cuba,686,,,,,,,686
+1996,Canada,Cyprus,9,,,,,,,9
+1996,Canada,Czech Rep.,152,,,,,,,152
+1996,Canada,Cote d'Ivoire,60,,,,,,,60
+1996,Canada,Dem. People's Rep. of Korea,1,,,,,,,1
+1996,Canada,Dem. Rep. of the Congo,1777,,,,,,,1777
+1996,Canada,Denmark,34,,,,,,,34
+1996,Canada,Djibouti,56,,,,,,,56
+1996,Canada,Dominican Rep.,24,,,,,,,24
+1996,Canada,Ecuador,139,,,,,,,139
+1996,Canada,Egypt,276,,,,,,,276
+1996,Canada,El Salvador,3584,,,,,,,3584
+1996,Canada,Equatorial Guinea,4,,,,,,,4
+1996,Canada,Eritrea,36,,,,,,,36
+1996,Canada,Estonia,204,,,,,,,204
+1996,Canada,Ethiopia,3750,,,,,,,3750
+1996,Canada,Fiji,17,,,,,,,17
+1996,Canada,Finland,1,,,,,,,1
+1996,Canada,France,34,,,,,,,34
+1996,Canada,Gabon,2,,,,,,,2
+1996,Canada,Gambia,4,,,,,,,4
+1996,Canada,Georgia,69,,,,,,,69
+1996,Canada,Germany,390,,,,,,,390
+1996,Canada,Ghana,535,,,,,,,535
+1996,Canada,Greece,153,,,,,,,153
+1996,Canada,Grenada,10,,,,,,,10
+1996,Canada,Guatemala,2397,,,,,,,2397
+1996,Canada,Guinea,59,,,,,,,59
+1996,Canada,Guinea-Bissau,4,,,,,,,4
+1996,Canada,Guyana,47,,,,,,,47
+1996,Canada,Haiti,1057,,,,,,,1057
+1996,Canada,Honduras,370,,,,,,,370
+1996,Canada,Hungary,331,,,,,,,331
+1996,Canada,Iceland,4,,,,,,,4
+1996,Canada,India,1868,,,,,,,1868
+1996,Canada,Indonesia,62,,,,,,,62
+1996,Canada,Iran (Islamic Rep. of),6677,,,,,,,6677
+1996,Canada,Iraq,8157,,,,,,,8157
+1996,Canada,Ireland,2,,,,,,,2
+1996,Canada,Israel,828,,,,,,,828
+1996,Canada,Italy,103,,,,,,,103
+1996,Canada,Jamaica,10,,,,,,,10
+1996,Canada,Japan,2,,,,,,,2
+1996,Canada,Jordan,275,,,,,,,275
+1996,Canada,Kazakhstan,300,,,,,,,300
+1996,Canada,Kenya,440,,,,,,,440
+1996,Canada,Kuwait,631,,,,,,,631
+1996,Canada,Kyrgyzstan,14,,,,,,,14
+1996,Canada,Lao People's Dem. Rep.,91,,,,,,,91
+1996,Canada,Latvia,97,,,,,,,97
+1996,Canada,Lebanon,1274,,,,,,,1274
+1996,Canada,Lesotho,2,,,,,,,2
+1996,Canada,Liberia,202,,,,,,,202
+1996,Canada,Libya,120,,,,,,,120
+1996,Canada,Lithuania,40,,,,,,,40
+1996,Canada,Madagascar,1,,,,,,,1
+1996,Canada,Malawi,25,,,,,,,25
+1996,Canada,Malaysia,77,,,,,,,77
+1996,Canada,Mali,46,,,,,,,46
+1996,Canada,Malta,18,,,,,,,18
+1996,Canada,Mauritania,24,,,,,,,24
+1996,Canada,Mauritius,1,,,,,,,1
+1996,Canada,Mexico,312,,,,,,,312
+1996,Canada,Mongolia,1,,,,,,,1
+1996,Canada,Morocco,38,,,,,,,38
+1996,Canada,Mozambique,11,,,,,,,11
+1996,Canada,Myanmar,286,,,,,,,286
+1996,Canada,Namibia,1,,,,,,,1
+1996,Canada,Nepal,9,,,,,,,9
+1996,Canada,Netherlands,92,,,,,,,92
+1996,Canada,Nicaragua,361,,,,,,,361
+1996,Canada,Niger,5,,,,,,,5
+1996,Canada,Nigeria,561,,,,,,,561
+1996,Canada,Oman,8,,,,,,,8
+1996,Canada,Pakistan,2315,,,,,,,2315
+1996,Canada,Panama,83,,,,,,,83
+1996,Canada,Paraguay,30,,,,,,,30
+1996,Canada,Peru,1266,,,,,,,1266
+1996,Canada,Philippines,259,,,,,,,259
+1996,Canada,Poland,5710,,,,,,,5710
+1996,Canada,Portugal,12,,,,,,,12
+1996,Canada,Puerto Rico,12,,,,,,,12
+1996,Canada,Qatar,17,,,,,,,17
+1996,Canada,Rep. of Korea,17,,,,,,,17
+1996,Canada,Rep. of Moldova,570,,,,,,,570
+1996,Canada,Romania,1113,,,,,,,1113
+1996,Canada,Russian Federation,1206,,,,,,,1206
+1996,Canada,Rwanda,602,,,,,,,602
+1996,Canada,Saint Lucia,2,,,,,,,2
+1996,Canada,Saint Vincent and the Grenadines,13,,,,,,,13
+1996,Canada,Saudi Arabia,229,,,,,,,229
+1996,Canada,Senegal,37,,,,,,,37
+1996,Canada,Serbia and Kosovo (S/RES/1244 (1999)),2315,,,,,,,2315
+1996,Canada,Seychelles,103,,,,,,,103
+1996,Canada,Sierra Leone,64,,,,,,,64
+1996,Canada,Singapore,8,,,,,,,8
+1996,Canada,Slovakia,7,,,,,,,7
+1996,Canada,Slovenia,37,,,,,,,37
+1996,Canada,Somalia,11422,,,,,,,11422
+1996,Canada,South Africa,42,,,,,,,42
+1996,Canada,Spain,51,,,,,,,51
+1996,Canada,Sri Lanka,14868,,,,,,,14868
+1996,Canada,Sudan,2015,,,,,,,2015
+1996,Canada,Suriname,12,,,,,,,12
+1996,Canada,Swaziland,16,,,,,,,16
+1996,Canada,Sweden,37,,,,,,,37
+1996,Canada,Switzerland,32,,,,,,,32
+1996,Canada,Syrian Arab Rep.,340,,,,,,,340
+1996,Canada,Tajikistan,3,,,,,,,3
+1996,Canada,Thailand,220,,,,,,,220
+1996,Canada,The former Yugoslav Republic of Macedonia,21,,,,,,,21
+1996,Canada,Togo,74,,,,,,,74
+1996,Canada,Trinidad and Tobago,12,,,,,,,12
+1996,Canada,Tunisia,47,,,,,,,47
+1996,Canada,Turkey,578,,,,,,,578
+1996,Canada,Uganda,206,,,,,,,206
+1996,Canada,Ukraine,698,,,,,,,698
+1996,Canada,United Kingdom,41,,,,,,,41
+1996,Canada,United Rep. of Tanzania,28,,,,,,,28
+1996,Canada,United States of America,130,,,,,,,130
+1996,Canada,Uruguay,177,,,,,,,177
+1996,Canada,Uzbekistan,63,,,,,,,63
+1996,Canada,Various/Unknown,14185,,,,,,,14185
+1996,Canada,Venezuela (Bolivarian Republic of),546,,,,,,,546
+1996,Canada,Viet Nam,5765,,,,,,,5765
+1996,Canada,Yemen,130,,,,,,,130
+1996,Canada,Zambia,32,,,,,,,32
+1996,Canada,Zimbabwe,16,,,,,,,16
+1997,Canada,Afghanistan,6046,,,,,,,6046
+1997,Canada,Albania,215,,,,,,,215
+1997,Canada,Algeria,1641,,,,,,,1641
+1997,Canada,Angola,113,,,,,,,113
+1997,Canada,Antigua and Barbuda,1,,,,,,,1
+1997,Canada,Argentina,85,,,,,,,85
+1997,Canada,Armenia,89,,,,,,,89
+1997,Canada,Australia,1,,,,,,,1
+1997,Canada,Austria,42,,,,,,,42
+1997,Canada,Azerbaijan,103,,,,,,,103
+1997,Canada,Bahrain,4,,,,,,,4
+1997,Canada,Bangladesh,1941,,,,,,,1941
+1997,Canada,Barbados,2,,,,,,,2
+1997,Canada,Belarus,39,,,,,,,39
+1997,Canada,Belgium,9,,,,,,,9
+1997,Canada,Benin,7,,,,,,,7
+1997,Canada,Bhutan,5,,,,,,,5
+1997,Canada,Bolivia (Plurinational State of),36,,,,,,,36
+1997,Canada,Bosnia and Herzegovina,20661,,,,,,,20661
+1997,Canada,Botswana,16,,,,,,,16
+1997,Canada,Brazil,20,,,,,,,20
+1997,Canada,Bulgaria,420,,,,,,,420
+1997,Canada,Burkina Faso,8,,,,,,,8
+1997,Canada,Burundi,900,,,,,,,900
+1997,Canada,Cambodia,283,,,,,,,283
+1997,Canada,Cameroon,104,,,,,,,104
+1997,Canada,Central African Rep.,10,,,,,,,10
+1997,Canada,Chad,70,,,,,,,70
+1997,Canada,Chile,249,,,,,,,249
+1997,Canada,China,1023,,,,,,,1023
+1997,Canada,"China, Hong Kong SAR",47,,,,,,,47
+1997,Canada,Colombia,151,,,,,,,151
+1997,Canada,Comoros,4,,,,,,,4
+1997,Canada,Congo,40,,,,,,,40
+1997,Canada,Costa Rica,81,,,,,,,81
+1997,Canada,Croatia,2441,,,,,,,2441
+1997,Canada,Cuba,648,,,,,,,648
+1997,Canada,Cyprus,7,,,,,,,7
+1997,Canada,Czech Rep.,49,,,,,,,49
+1997,Canada,Cote d'Ivoire,77,,,,,,,77
+1997,Canada,Dem. Rep. of the Congo,1892,,,,,,,1892
+1997,Canada,Denmark,33,,,,,,,33
+1997,Canada,Djibouti,75,,,,,,,75
+1997,Canada,Dominican Rep.,40,,,,,,,40
+1997,Canada,Ecuador,127,,,,,,,127
+1997,Canada,Egypt,544,,,,,,,544
+1997,Canada,El Salvador,1720,,,,,,,1720
+1997,Canada,Equatorial Guinea,3,,,,,,,3
+1997,Canada,Eritrea,72,,,,,,,72
+1997,Canada,Estonia,192,,,,,,,192
+1997,Canada,Ethiopia,2543,,,,,,,2543
+1997,Canada,Fiji,20,,,,,,,20
+1997,Canada,Finland,2,,,,,,,2
+1997,Canada,France,39,,,,,,,39
+1997,Canada,Gambia,4,,,,,,,4
+1997,Canada,Georgia,76,,,,,,,76
+1997,Canada,Germany,401,,,,,,,401
+1997,Canada,Ghana,323,,,,,,,323
+1997,Canada,Greece,170,,,,,,,170
+1997,Canada,Grenada,11,,,,,,,11
+1997,Canada,Guatemala,1753,,,,,,,1753
+1997,Canada,Guinea,92,,,,,,,92
+1997,Canada,Guinea-Bissau,4,,,,,,,4
+1997,Canada,Guyana,29,,,,,,,29
+1997,Canada,Haiti,811,,,,,,,811
+1997,Canada,Honduras,279,,,,,,,279
+1997,Canada,Hungary,153,,,,,,,153
+1997,Canada,Iceland,4,,,,,,,4
+1997,Canada,India,2048,,,,,,,2048
+1997,Canada,Indonesia,59,,,,,,,59
+1997,Canada,Iran (Islamic Rep. of),6461,,,,,,,6461
+1997,Canada,Iraq,7986,,,,,,,7986
+1997,Canada,Ireland,1,,,,,,,1
+1997,Canada,Israel,806,,,,,,,806
+1997,Canada,Italy,101,,,,,,,101
+1997,Canada,Jamaica,12,,,,,,,12
+1997,Canada,Japan,1,,,,,,,1
+1997,Canada,Jordan,276,,,,,,,276
+1997,Canada,Kazakhstan,462,,,,,,,462
+1997,Canada,Kenya,479,,,,,,,479
+1997,Canada,Kuwait,570,,,,,,,570
+1997,Canada,Kyrgyzstan,24,,,,,,,24
+1997,Canada,Lao People's Dem. Rep.,34,,,,,,,34
+1997,Canada,Latvia,110,,,,,,,110
+1997,Canada,Lebanon,932,,,,,,,932
+1997,Canada,Lesotho,2,,,,,,,2
+1997,Canada,Liberia,191,,,,,,,191
+1997,Canada,Libya,115,,,,,,,115
+1997,Canada,Lithuania,26,,,,,,,26
+1997,Canada,Madagascar,5,,,,,,,5
+1997,Canada,Malawi,17,,,,,,,17
+1997,Canada,Malaysia,68,,,,,,,68
+1997,Canada,Mali,33,,,,,,,33
+1997,Canada,Malta,14,,,,,,,14
+1997,Canada,Mauritania,24,,,,,,,24
+1997,Canada,Mexico,391,,,,,,,391
+1997,Canada,Mongolia,1,,,,,,,1
+1997,Canada,Morocco,35,,,,,,,35
+1997,Canada,Mozambique,10,,,,,,,10
+1997,Canada,Myanmar,418,,,,,,,418
+1997,Canada,Nepal,16,,,,,,,16
+1997,Canada,Netherlands,72,,,,,,,72
+1997,Canada,Nicaragua,311,,,,,,,311
+1997,Canada,Niger,8,,,,,,,8
+1997,Canada,Nigeria,692,,,,,,,692
+1997,Canada,Norway,2,,,,,,,2
+1997,Canada,Oman,8,,,,,,,8
+1997,Canada,Pakistan,1989,,,,,,,1989
+1997,Canada,Panama,44,,,,,,,44
+1997,Canada,Paraguay,9,,,,,,,9
+1997,Canada,Peru,1084,,,,,,,1084
+1997,Canada,Philippines,159,,,,,,,159
+1997,Canada,Poland,987,,,,,,,987
+1997,Canada,Portugal,6,,,,,,,6
+1997,Canada,Qatar,18,,,,,,,18
+1997,Canada,Rep. of Korea,19,,,,,,,19
+1997,Canada,Rep. of Moldova,609,,,,,,,609
+1997,Canada,Romania,817,,,,,,,817
+1997,Canada,Russian Federation,1254,,,,,,,1254
+1997,Canada,Rwanda,679,,,,,,,679
+1997,Canada,Saint Lucia,2,,,,,,,2
+1997,Canada,Saint Vincent and the Grenadines,13,,,,,,,13
+1997,Canada,Saudi Arabia,218,,,,,,,218
+1997,Canada,Senegal,50,,,,,,,50
+1997,Canada,Serbia and Kosovo (S/RES/1244 (1999)),2709,,,,,,,2709
+1997,Canada,Seychelles,7,,,,,,,7
+1997,Canada,Sierra Leone,77,,,,,,,77
+1997,Canada,Singapore,10,,,,,,,10
+1997,Canada,Slovakia,7,,,,,,,7
+1997,Canada,Slovenia,70,,,,,,,70
+1997,Canada,Somalia,8944,,,,,,,8944
+1997,Canada,South Africa,26,,,,,,,26
+1997,Canada,Spain,50,,,,,,,50
+1997,Canada,Sri Lanka,11793,,,,,,,11793
+1997,Canada,Sudan,1952,,,,,,,1952
+1997,Canada,Suriname,9,,,,,,,9
+1997,Canada,Swaziland,17,,,,,,,17
+1997,Canada,Sweden,39,,,,,,,39
+1997,Canada,Switzerland,54,,,,,,,54
+1997,Canada,Syrian Arab Rep.,324,,,,,,,324
+1997,Canada,Tajikistan,8,,,,,,,8
+1997,Canada,Thailand,208,,,,,,,208
+1997,Canada,The former Yugoslav Republic of Macedonia,22,,,,,,,22
+1997,Canada,Togo,99,,,,,,,99
+1997,Canada,Trinidad and Tobago,14,,,,,,,14
+1997,Canada,Tunisia,61,,,,,,,61
+1997,Canada,Turkey,536,,,,,,,536
+1997,Canada,Uganda,110,,,,,,,110
+1997,Canada,Ukraine,748,,,,,,,748
+1997,Canada,United Kingdom,39,,,,,,,39
+1997,Canada,United Rep. of Tanzania,21,,,,,,,21
+1997,Canada,United States of America,57,,,,,,,57
+1997,Canada,Uruguay,72,,,,,,,72
+1997,Canada,Uzbekistan,77,,,,,,,77
+1997,Canada,Various/Unknown,12771,,,,,,,12771
+1997,Canada,Venezuela (Bolivarian Republic of),588,,,,,,,588
+1997,Canada,Viet Nam,3565,,,,,,,3565
+1997,Canada,Yemen,160,,,,,,,160
+1997,Canada,Zambia,46,,,,,,,46
+1997,Canada,Zimbabwe,16,,,,,,,16
+1998,Canada,Afghanistan,6754,,,,,,,6754
+1998,Canada,Albania,382,,,,,,,382
+1998,Canada,Algeria,2392,,,,,,,2392
+1998,Canada,Angola,137,,,,,,,137
+1998,Canada,Antigua and Barbuda,1,,,,,,,1
+1998,Canada,Argentina,56,,,,,,,56
+1998,Canada,Armenia,87,,,,,,,87
+1998,Canada,Austria,41,,,,,,,41
+1998,Canada,Azerbaijan,99,,,,,,,99
+1998,Canada,Bahrain,9,,,,,,,9
+1998,Canada,Bangladesh,1864,,,,,,,1864
+1998,Canada,Barbados,2,,,,,,,2
+1998,Canada,Belarus,36,,,,,,,36
+1998,Canada,Belgium,9,,,,,,,9
+1998,Canada,Benin,7,,,,,,,7
+1998,Canada,Bermuda,1,,,,,,,1
+1998,Canada,Bhutan,4,,,,,,,4
+1998,Canada,Bolivia (Plurinational State of),36,,,,,,,36
+1998,Canada,Bosnia and Herzegovina,22580,,2,,,,,22582
+1998,Canada,Botswana,16,,,,,,,16
+1998,Canada,Brazil,18,,,,,,,18
+1998,Canada,Bulgaria,455,,,,,,,455
+1998,Canada,Burkina Faso,11,,,,,,,11
+1998,Canada,Burundi,941,,,,,,,941
+1998,Canada,Cambodia,126,,,,,,,126
+1998,Canada,Cameroon,156,,,,,,,156
+1998,Canada,Central African Rep.,17,,,,,,,17
+1998,Canada,Chad,215,,1,,,,,216
+1998,Canada,Chile,245,,,,,,,245
+1998,Canada,China,1106,,,,,,,1106
+1998,Canada,"China, Hong Kong SAR",39,,,,,,,39
+1998,Canada,Colombia,235,,,,,,,235
+1998,Canada,Comoros,7,,,,,,,7
+1998,Canada,Congo,123,,,,,,,123
+1998,Canada,Costa Rica,45,,,,,,,45
+1998,Canada,Croatia,3502,,,,,,,3502
+1998,Canada,Cuba,641,,,,,,,641
+1998,Canada,Cyprus,10,,,,,,,10
+1998,Canada,Czech Rep.,775,,,,,,,775
+1998,Canada,Cote d'Ivoire,116,,,,,,,116
+1998,Canada,Dem. People's Rep. of Korea,2,,,,,,,2
+1998,Canada,Dem. Rep. of the Congo,2306,,,,,,,2306
+1998,Canada,Denmark,28,,,,,,,28
+1998,Canada,Djibouti,134,,,,,,,134
+1998,Canada,Dominican Rep.,32,,,,,,,32
+1998,Canada,Ecuador,135,,,,,,,135
+1998,Canada,Egypt,776,,,,,,,776
+1998,Canada,El Salvador,800,,,,,,,800
+1998,Canada,Equatorial Guinea,2,,,,,,,2
+1998,Canada,Eritrea,109,,,,,,,109
+1998,Canada,Estonia,132,,,,,,,132
+1998,Canada,Ethiopia,1724,,,,,,,1724
+1998,Canada,Fiji,23,,,,,,,23
+1998,Canada,Finland,2,,,,,,,2
+1998,Canada,France,40,,,,,,,40
+1998,Canada,Gabon,2,,,,,,,2
+1998,Canada,Gambia,12,,,,,,,12
+1998,Canada,Georgia,102,,,,,,,102
+1998,Canada,Germany,614,,,,,,,614
+1998,Canada,Ghana,281,,,,,,,281
+1998,Canada,Greece,153,,,,,,,153
+1998,Canada,Grenada,19,,,,,,,19
+1998,Canada,Guatemala,1140,,,,,,,1140
+1998,Canada,Guinea,181,,,,,,,181
+1998,Canada,Guinea-Bissau,2,,,,,,,2
+1998,Canada,Guyana,28,,,,,,,28
+1998,Canada,Haiti,504,,,,,,,504
+1998,Canada,Honduras,243,,,,,,,243
+1998,Canada,Hungary,215,,,,,,,215
+1998,Canada,Iceland,4,,,,,,,4
+1998,Canada,India,2296,,,,,,,2296
+1998,Canada,Indonesia,34,,,,,,,34
+1998,Canada,Iran (Islamic Rep. of),6467,,,,,,,6467
+1998,Canada,Iraq,6584,,,,,,,6584
+1998,Canada,Israel,671,,,,,,,671
+1998,Canada,Italy,64,,,,,,,64
+1998,Canada,Jamaica,12,,,,,,,12
+1998,Canada,Japan,2,,,,,,,2
+1998,Canada,Jordan,295,,,,,,,295
+1998,Canada,Kazakhstan,511,,,,,,,511
+1998,Canada,Kenya,504,,,,,,,504
+1998,Canada,Kuwait,437,,,,,,,437
+1998,Canada,Kyrgyzstan,39,,,,,,,39
+1998,Canada,Lao People's Dem. Rep.,33,,,,,,,33
+1998,Canada,Latvia,102,,,,,,,102
+1998,Canada,Lebanon,723,,,,,,,723
+1998,Canada,Lesotho,2,,,,,,,2
+1998,Canada,Liberia,178,,,,,,,178
+1998,Canada,Libya,123,,,,,,,123
+1998,Canada,Lithuania,23,,,,,,,23
+1998,Canada,Madagascar,5,,,,,,,5
+1998,Canada,Malawi,9,,,,,,,9
+1998,Canada,Malaysia,60,,,,,,,60
+1998,Canada,Maldives,2,,,,,,,2
+1998,Canada,Mali,34,,,,,,,34
+1998,Canada,Malta,15,,,,,,,15
+1998,Canada,Mauritania,28,,,,,,,28
+1998,Canada,Mexico,657,,,,,,,657
+1998,Canada,Mongolia,1,,,,,,,1
+1998,Canada,Morocco,37,,,,,,,37
+1998,Canada,Mozambique,9,,,,,,,9
+1998,Canada,Myanmar,419,,,,,,,419
+1998,Canada,Namibia,1,,,,,,,1
+1998,Canada,Nepal,19,,,,,,,19
+1998,Canada,Netherlands,52,,,,,,,52
+1998,Canada,Nicaragua,295,,,,,,,295
+1998,Canada,Niger,10,,,,,,,10
+1998,Canada,Nigeria,861,,,,,,,861
+1998,Canada,Norway,2,,,,,,,2
+1998,Canada,Oman,8,,,,,,,8
+1998,Canada,Pakistan,2266,,,,,,,2266
+1998,Canada,Panama,29,,,,,,,29
+1998,Canada,Paraguay,6,,,,,,,6
+1998,Canada,Peru,846,,,,,,,846
+1998,Canada,Philippines,105,,,,,,,105
+1998,Canada,Poland,332,,,,,,,332
+1998,Canada,Portugal,4,,,,,,,4
+1998,Canada,Qatar,21,,,,,,,21
+1998,Canada,Rep. of Korea,19,,,,,,,19
+1998,Canada,Rep. of Moldova,429,,,,,,,429
+1998,Canada,Romania,642,,,,,,,642
+1998,Canada,Russian Federation,1655,,,,,,,1655
+1998,Canada,Rwanda,1001,,,,,,,1001
+1998,Canada,Saint Lucia,4,,,,,,,4
+1998,Canada,Saint Vincent and the Grenadines,24,,,,,,,24
+1998,Canada,Saudi Arabia,210,,,,,,,210
+1998,Canada,Senegal,62,,,,,,,62
+1998,Canada,Serbia and Kosovo (S/RES/1244 (1999)),2899,,,,,,,2899
+1998,Canada,Seychelles,4,,,,,,,4
+1998,Canada,Sierra Leone,100,,,,,,,100
+1998,Canada,Singapore,10,,,,,,,10
+1998,Canada,Slovakia,12,,,,,,,12
+1998,Canada,Slovenia,84,,,,,,,84
+1998,Canada,Somalia,7098,,,,,,,7098
+1998,Canada,South Africa,17,,,,,,,17
+1998,Canada,Spain,52,,,,,,,52
+1998,Canada,Sri Lanka,10218,,,,,,,10218
+1998,Canada,Sudan,2091,,,,,,,2091
+1998,Canada,Suriname,7,,,,,,,7
+1998,Canada,Swaziland,29,,,,,,,29
+1998,Canada,Sweden,39,,,,,,,39
+1998,Canada,Switzerland,76,,,,,,,76
+1998,Canada,Syrian Arab Rep.,333,,,,,,,333
+1998,Canada,Tajikistan,104,,,,,,,104
+1998,Canada,Thailand,194,,,,,,,194
+1998,Canada,The former Yugoslav Republic of Macedonia,37,,,,,,,37
+1998,Canada,Tibetan,4,,,,,,,4
+1998,Canada,Togo,97,,,,,,,97
+1998,Canada,Trinidad and Tobago,18,,,,,,,18
+1998,Canada,Tunisia,68,,,,,,,68
+1998,Canada,Turkey,545,,,,,,,545
+1998,Canada,Turkmenistan,3,,,,,,,3
+1998,Canada,Uganda,80,,,,,,,80
+1998,Canada,Ukraine,643,,,,,,,643
+1998,Canada,United Kingdom,38,,,,,,,38
+1998,Canada,United Rep. of Tanzania,23,,,,,,,23
+1998,Canada,United States of America,30,,,,,,,30
+1998,Canada,Uruguay,52,,,,,,,52
+1998,Canada,Uzbekistan,81,,,,,,,81
+1998,Canada,Various/Unknown,9602,,,,,,,9602
+1998,Canada,Venezuela (Bolivarian Republic of),531,,,,,,,531
+1998,Canada,Viet Nam,1583,,,,,,,1583
+1998,Canada,Yemen,183,,,,,,,183
+1998,Canada,Zambia,52,,,,,,,52
+1998,Canada,Zimbabwe,14,,,,,,,14
+1999,Canada,Afghanistan,7922,,,,,,,7922
+1999,Canada,Albania,599,,,,,,,599
+1999,Canada,Algeria,2607,,,,,,,2607
+1999,Canada,Andorra,1,,,,,,,1
+1999,Canada,Angola,161,,,,,,,161
+1999,Canada,Antigua and Barbuda,1,,,,,,,1
+1999,Canada,Argentina,60,,,,,,,60
+1999,Canada,Armenia,94,,,,,,,94
+1999,Canada,Austria,32,,,,,,,32
+1999,Canada,Azerbaijan,118,,,,,,,118
+1999,Canada,Bahrain,9,,,,,,,9
+1999,Canada,Bangladesh,1567,,,,,,,1567
+1999,Canada,Barbados,1,,,,,,,1
+1999,Canada,Belarus,34,,,,,,,34
+1999,Canada,Belgium,10,,,,,,,10
+1999,Canada,Benin,9,,,,,,,9
+1999,Canada,Bermuda,1,,,,,,,1
+1999,Canada,Bhutan,9,,,,,,,9
+1999,Canada,Bolivia (Plurinational State of),30,,,,,,,30
+1999,Canada,Bosnia and Herzegovina,20770,,,,,,,20770
+1999,Canada,Botswana,10,,,,,,,10
+1999,Canada,Brazil,19,,,,,,,19
+1999,Canada,Bulgaria,491,,,,,,,491
+1999,Canada,Burkina Faso,16,,,,,,,16
+1999,Canada,Burundi,768,,,,,,,768
+1999,Canada,Cabo Verde,1,,,,,,,1
+1999,Canada,Cambodia,82,,,,,,,82
+1999,Canada,Cameroon,165,,,,,,,165
+1999,Canada,Central African Rep.,17,,,,,,,17
+1999,Canada,Chad,379,,,,,,,379
+1999,Canada,Chile,249,,,,,,,249
+1999,Canada,China,1381,,,,,,,1381
+1999,Canada,"China, Hong Kong SAR",17,,,,,,,17
+1999,Canada,Colombia,450,,,,,,,450
+1999,Canada,Comoros,7,,,,,,,7
+1999,Canada,Congo,197,,,,,,,197
+1999,Canada,Costa Rica,68,,,,,,,68
+1999,Canada,Croatia,4299,,,,,,,4299
+1999,Canada,Cuba,655,,,,,,,655
+1999,Canada,Cyprus,12,,,,,,,12
+1999,Canada,Czech Rep.,895,,,,,,,895
+1999,Canada,Cote d'Ivoire,132,,,,,,,132
+1999,Canada,Dem. People's Rep. of Korea,2,,,,,,,2
+1999,Canada,Dem. Rep. of the Congo,2699,,,,,,,2699
+1999,Canada,Denmark,25,,,,,,,25
+1999,Canada,Djibouti,271,,,,,,,271
+1999,Canada,Dominica,2,,,,,,,2
+1999,Canada,Dominican Rep.,35,,,,,,,35
+1999,Canada,Ecuador,111,,,,,,,111
+1999,Canada,Egypt,1084,,,,,,,1084
+1999,Canada,El Salvador,616,,,,,,,616
+1999,Canada,Equatorial Guinea,2,,,,,,,2
+1999,Canada,Eritrea,153,,,,,,,153
+1999,Canada,Estonia,59,,,,,,,59
+1999,Canada,Ethiopia,1405,,,,,,,1405
+1999,Canada,Fiji,19,,,,,,,19
+1999,Canada,Finland,2,,,,,,,2
+1999,Canada,France,37,,,,,,,37
+1999,Canada,Gabon,3,,,,,,,3
+1999,Canada,Gambia,19,,,,,,,19
+1999,Canada,Georgia,141,,,,,,,141
+1999,Canada,Germany,1240,,,,,,,1240
+1999,Canada,Ghana,208,,,,,,,208
+1999,Canada,Greece,153,,,,,,,153
+1999,Canada,Grenada,35,,,,,,,35
+1999,Canada,Guatemala,829,,,,,,,829
+1999,Canada,Guinea,245,,,,,,,245
+1999,Canada,Guinea-Bissau,1,,,,,,,1
+1999,Canada,Guyana,37,,,,,,,37
+1999,Canada,Haiti,165,,,,,,,165
+1999,Canada,Honduras,212,,,,,,,212
+1999,Canada,Hungary,268,,,,,,,268
+1999,Canada,Iceland,4,,,,,,,4
+1999,Canada,India,2096,,,,,,,2096
+1999,Canada,Indonesia,93,,,,,,,93
+1999,Canada,Iran (Islamic Rep. of),6361,,,,,,,6361
+1999,Canada,Iraq,5975,,,,,,,5975
+1999,Canada,Israel,322,,,,,,,322
+1999,Canada,Italy,37,,,,,,,37
+1999,Canada,Jamaica,18,,,,,,,18
+1999,Canada,Japan,1,,,,,,,1
+1999,Canada,Jordan,320,,,,,,,320
+1999,Canada,Kazakhstan,570,,,,,,,570
+1999,Canada,Kenya,510,,,,,,,510
+1999,Canada,Kuwait,363,,,,,,,363
+1999,Canada,Kyrgyzstan,53,,,,,,,53
+1999,Canada,Lao People's Dem. Rep.,15,,,,,,,15
+1999,Canada,Latvia,75,,,,,,,75
+1999,Canada,Lebanon,596,,,,,,,596
+1999,Canada,Lesotho,2,,,,,,,2
+1999,Canada,Liberia,149,,,,,,,149
+1999,Canada,Libya,138,,,,,,,138
+1999,Canada,Lithuania,22,,,,,,,22
+1999,Canada,Madagascar,5,,,,,,,5
+1999,Canada,Malawi,16,,,,,,,16
+1999,Canada,Malaysia,46,,,,,,,46
+1999,Canada,Maldives,2,,,,,,,2
+1999,Canada,Mali,40,,,,,,,40
+1999,Canada,Malta,18,,,,,,,18
+1999,Canada,Mauritania,26,,,,,,,26
+1999,Canada,Mexico,903,,,,,,,903
+1999,Canada,Mongolia,8,,,,,,,8
+1999,Canada,Morocco,43,,,,,,,43
+1999,Canada,Mozambique,6,,,,,,,6
+1999,Canada,Myanmar,390,,,,,,,390
+1999,Canada,Namibia,3,,,,,,,3
+1999,Canada,Nepal,39,,,,,,,39
+1999,Canada,Netherlands,24,,,,,,,24
+1999,Canada,Nicaragua,236,,,,,,,236
+1999,Canada,Niger,11,,,,,,,11
+1999,Canada,Nigeria,868,,,,,,,868
+1999,Canada,Norway,2,,,,,,,2
+1999,Canada,Oman,8,,,,,,,8
+1999,Canada,Pakistan,2956,,,,,,,2956
+1999,Canada,Panama,16,,,,,,,16
+1999,Canada,Paraguay,4,,,,,,,4
+1999,Canada,Peru,735,,,,,,,735
+1999,Canada,Philippines,47,,,,,,,47
+1999,Canada,Poland,293,,,,,,,293
+1999,Canada,Portugal,5,,,,,,,5
+1999,Canada,Qatar,6,,,,,,,6
+1999,Canada,Rep. of Korea,33,,,,,,,33
+1999,Canada,Rep. of Moldova,223,,,,,,,223
+1999,Canada,Romania,558,,,,,,,558
+1999,Canada,Russian Federation,1657,,,,,,,1657
+1999,Canada,Rwanda,1194,,,,,,,1194
+1999,Canada,Saint Lucia,5,,,,,,,5
+1999,Canada,Saint Vincent and the Grenadines,36,,,,,,,36
+1999,Canada,Saudi Arabia,180,,,,,,,180
+1999,Canada,Senegal,69,,,,,,,69
+1999,Canada,Serbia and Kosovo (S/RES/1244 (1999)),2903,,1787,,,,,4690
+1999,Canada,Seychelles,1,,,,,,,1
+1999,Canada,Sierra Leone,108,,,,,,,108
+1999,Canada,Singapore,12,,,,,,,12
+1999,Canada,Slovakia,10,,,,,,,10
+1999,Canada,Slovenia,76,,,,,,,76
+1999,Canada,Somalia,5178,,,,,,,5178
+1999,Canada,South Africa,31,,,,,,,31
+1999,Canada,Spain,49,,,,,,,49
+1999,Canada,Sri Lanka,9717,,,,,,,9717
+1999,Canada,Sudan,2215,,,,,,,2215
+1999,Canada,Suriname,3,,,,,,,3
+1999,Canada,Swaziland,27,,,,,,,27
+1999,Canada,Sweden,30,,,,,,,30
+1999,Canada,Switzerland,90,,,,,,,90
+1999,Canada,Syrian Arab Rep.,364,,,,,,,364
+1999,Canada,Tajikistan,123,,,,,,,123
+1999,Canada,Thailand,202,,,,,,,202
+1999,Canada,The former Yugoslav Republic of Macedonia,47,,,,,,,47
+1999,Canada,Tibetan,4,,,,,,,4
+1999,Canada,Togo,98,,,,,,,98
+1999,Canada,Trinidad and Tobago,17,,,,,,,17
+1999,Canada,Tunisia,85,,,,,,,85
+1999,Canada,Turkey,667,,,,,,,667
+1999,Canada,Turkmenistan,7,,,,,,,7
+1999,Canada,Uganda,96,,,,,,,96
+1999,Canada,Ukraine,579,,,,,,,579
+1999,Canada,United Kingdom,29,,,,,,,29
+1999,Canada,United Rep. of Tanzania,35,,,,,,,35
+1999,Canada,United States of America,19,,,,,,,19
+1999,Canada,Uruguay,21,,,,,,,21
+1999,Canada,Uzbekistan,106,,,,,,,106
+1999,Canada,Various/Unknown,16391,,,,,,,16391
+1999,Canada,Venezuela (Bolivarian Republic of),496,,,,,,,496
+1999,Canada,Viet Nam,395,,,,,,,395
+1999,Canada,Yemen,165,,,,,,,165
+1999,Canada,Zambia,52,,,,,,,52
+1999,Canada,Zimbabwe,14,,,,,,,14
+2000,Canada,Afghanistan,9115,308,,,,,,9423
+2000,Canada,Albania,625,595,,,,,,1220
+2000,Canada,Algeria,2600,348,,,,,,2948
+2000,Canada,Angola,140,589,,,,,,729
+2000,Canada,Antigua and Barbuda,,6,,,,,,6
+2000,Canada,Argentina,87,1337,,,,,,1424
+2000,Canada,Armenia,94,53,,,,,,147
+2000,Canada,Austria,19,,,,,,,19
+2000,Canada,Azerbaijan,102,195,,,,,,297
+2000,Canada,Bahamas,,2,,,,,,2
+2000,Canada,Bahrain,6,2,,,,,,8
+2000,Canada,Bangladesh,2007,397,,,,,,2404
+2000,Canada,Barbados,5,8,,,,,,13
+2000,Canada,Belarus,36,91,,,,,,127
+2000,Canada,Belgium,10,,,,,,,10
+2000,Canada,Belize,,1,,,,,,1
+2000,Canada,Benin,6,5,,,,,,11
+2000,Canada,Bermuda,1,,,,,,,1
+2000,Canada,Bhutan,6,2,,,,,,8
+2000,Canada,Bolivia (Plurinational State of),28,54,,,,,,82
+2000,Canada,Bosnia and Herzegovina,15494,26,11,,,,,15531
+2000,Canada,Botswana,3,1,,,,,,4
+2000,Canada,Brazil,32,55,,,,,,87
+2000,Canada,Bulgaria,588,264,,,,,,852
+2000,Canada,Burkina Faso,19,11,,,,,,30
+2000,Canada,Burundi,890,136,,,,,,1026
+2000,Canada,Cabo Verde,1,,,,,,,1
+2000,Canada,Cambodia,64,6,,,,,,70
+2000,Canada,Cameroon,139,87,,,,,,226
+2000,Canada,Central African Rep.,13,3,,,,,,16
+2000,Canada,Chad,295,81,,,,,,376
+2000,Canada,Chile,224,85,,,,,,309
+2000,Canada,China,1903,1230,,,,,,3133
+2000,Canada,"China, Hong Kong SAR",10,2,,,,,,12
+2000,Canada,"China, Macao SAR",,1,,,,,,1
+2000,Canada,Colombia,1077,927,,,,,,2004
+2000,Canada,Comoros,1,3,,,,,,4
+2000,Canada,Congo,1,99,,,,,,100
+2000,Canada,Costa Rica,50,211,,,,,,261
+2000,Canada,Croatia,4426,23,,,,,,4449
+2000,Canada,Cuba,812,151,,,,,,963
+2000,Canada,Cyprus,7,3,,,,,,10
+2000,Canada,Czech Rep.,625,47,,,,,,672
+2000,Canada,Cote d'Ivoire,102,60,,,,,,162
+2000,Canada,Dem. People's Rep. of Korea,,6,,,,,,6
+2000,Canada,Dem. Rep. of the Congo,3142,793,,,,,,3935
+2000,Canada,Denmark,21,3,,,,,,24
+2000,Canada,Djibouti,238,124,,,,,,362
+2000,Canada,Dominica,1,10,,,,,,11
+2000,Canada,Dominican Rep.,38,24,,,,,,62
+2000,Canada,Ecuador,121,90,,,,,,211
+2000,Canada,Egypt,1043,116,,,,,,1159
+2000,Canada,El Salvador,621,271,,,,,,892
+2000,Canada,Equatorial Guinea,4,4,,,,,,8
+2000,Canada,Eritrea,165,113,,,,,,278
+2000,Canada,Estonia,25,20,,,,,,45
+2000,Canada,Ethiopia,1635,168,,,,,,1803
+2000,Canada,Fiji,13,239,,,,,,252
+2000,Canada,Finland,1,1,,,,,,2
+2000,Canada,France,49,12,,,,,,61
+2000,Canada,Gabon,4,8,,,,,,12
+2000,Canada,Gambia,16,3,,,,,,19
+2000,Canada,Georgia,123,108,,,,,,231
+2000,Canada,Germany,1125,13,,,,,,1138
+2000,Canada,Ghana,303,189,,,,,,492
+2000,Canada,Greece,119,12,,,,,,131
+2000,Canada,Grenada,23,89,,,,,,112
+2000,Canada,Guatemala,710,152,,,,,,862
+2000,Canada,Guinea,227,186,,,,,,413
+2000,Canada,Guinea-Bissau,,4,,,,,,4
+2000,Canada,Guyana,22,136,,,,,,158
+2000,Canada,Haiti,439,271,,,,,,710
+2000,Canada,Honduras,241,143,,,,,,384
+2000,Canada,Hungary,202,1894,,,,,,2096
+2000,Canada,Iceland,4,,,,,,,4
+2000,Canada,India,3196,1315,,,,,,4511
+2000,Canada,Indonesia,89,27,,,,,,116
+2000,Canada,Iran (Islamic Rep. of),6319,794,,,,,,7113
+2000,Canada,Iraq,5798,279,,,,,,6077
+2000,Canada,Ireland,3,,,,,,,3
+2000,Canada,Israel,264,233,,,,,,497
+2000,Canada,Italy,31,14,,,,,,45
+2000,Canada,Jamaica,22,115,,,,,,137
+2000,Canada,Japan,3,1,,,,,,4
+2000,Canada,Jordan,296,49,,,,,,345
+2000,Canada,Kazakhstan,548,146,,,,,,694
+2000,Canada,Kenya,445,140,,,,,,585
+2000,Canada,Kuwait,125,43,,,,,,168
+2000,Canada,Kyrgyzstan,52,84,,,,,,136
+2000,Canada,Lao People's Dem. Rep.,7,2,,,,,,9
+2000,Canada,Latvia,36,21,,,,,,57
+2000,Canada,Lebanon,548,399,,,,,,947
+2000,Canada,Lesotho,2,,,,,,,2
+2000,Canada,Liberia,159,19,,,,,,178
+2000,Canada,Libya,106,99,,,,,,205
+2000,Canada,Lithuania,10,56,,,,,,66
+2000,Canada,Madagascar,5,4,,,,,,9
+2000,Canada,Malawi,16,,,,,,,16
+2000,Canada,Malaysia,35,111,,,,,,146
+2000,Canada,Maldives,2,1,,,,,,3
+2000,Canada,Mali,33,37,,,,,,70
+2000,Canada,Malta,12,4,,,,,,16
+2000,Canada,Mauritania,15,23,,,,,,38
+2000,Canada,Mauritius,,3,,,,,,3
+2000,Canada,Mexico,811,1156,,,,,,1967
+2000,Canada,Mongolia,4,21,,,,,,25
+2000,Canada,Morocco,55,39,,,,,,94
+2000,Canada,Mozambique,3,1,,,,,,4
+2000,Canada,Myanmar,391,11,,,,,,402
+2000,Canada,Namibia,,3,,,,,,3
+2000,Canada,Nepal,28,19,,,,,,47
+2000,Canada,Netherlands,14,8,,,,,,22
+2000,Canada,Nicaragua,192,33,,,,,,225
+2000,Canada,Niger,9,5,,,,,,14
+2000,Canada,Nigeria,852,795,,,,,,1647
+2000,Canada,Norway,2,,,,,,,2
+2000,Canada,Oman,3,,,,,,,3
+2000,Canada,Pakistan,3893,2495,,,,,,6388
+2000,Canada,Palestinian,26,60,,,,,,86
+2000,Canada,Panama,21,5,,,,,,26
+2000,Canada,Paraguay,5,3,,,,,,8
+2000,Canada,Peru,778,373,,,,,,1151
+2000,Canada,Philippines,23,103,,,,,,126
+2000,Canada,Poland,155,340,,,,,,495
+2000,Canada,Portugal,7,56,,,,,,63
+2000,Canada,Qatar,,5,,,,,,5
+2000,Canada,Rep. of Korea,26,265,,,,,,291
+2000,Canada,Rep. of Moldova,234,64,,,,,,298
+2000,Canada,Romania,572,411,,,,,,983
+2000,Canada,Russian Federation,1694,665,,,,,,2359
+2000,Canada,Rwanda,1118,223,,,,,,1341
+2000,Canada,Saint Kitts and Nevis,,1,,,,,,1
+2000,Canada,Saint Lucia,7,21,,,,,,28
+2000,Canada,Saint Vincent and the Grenadines,48,78,,,,,,126
+2000,Canada,Sao Tome and Principe,2,,,,,,,2
+2000,Canada,Saudi Arabia,26,32,,,,,,58
+2000,Canada,Senegal,58,20,,,,,,78
+2000,Canada,Serbia and Kosovo (S/RES/1244 (1999)),6632,188,426,,,,,7246
+2000,Canada,Sierra Leone,335,82,,,,,,417
+2000,Canada,Singapore,6,2,,,,,,8
+2000,Canada,Slovakia,8,52,,,,,,60
+2000,Canada,Slovenia,69,2,,,,,,71
+2000,Canada,Solomon Islands,,3,,,,,,3
+2000,Canada,Somalia,5159,555,,,,,,5714
+2000,Canada,South Africa,26,36,,,,,,62
+2000,Canada,Spain,44,11,,,,,,55
+2000,Canada,Sri Lanka,10591,2192,,,,,,12783
+2000,Canada,Stateless,627,,,,,,,627
+2000,Canada,Sudan,2968,332,,,,,,3300
+2000,Canada,Suriname,,1,,,,,,1
+2000,Canada,Swaziland,16,2,,,,,,18
+2000,Canada,Sweden,17,,,,,,,17
+2000,Canada,Switzerland,69,,,,,,,69
+2000,Canada,Syrian Arab Rep.,390,98,,,,,,488
+2000,Canada,Tajikistan,113,3,,,,,,116
+2000,Canada,Thailand,107,10,,,,,,117
+2000,Canada,The former Yugoslav Republic of Macedonia,45,26,,,,,,71
+2000,Canada,Tibetan,4,,,,,,,4
+2000,Canada,Togo,118,29,,,,,,147
+2000,Canada,Trinidad and Tobago,14,62,,,,,,76
+2000,Canada,Tunisia,68,108,,,,,,176
+2000,Canada,Turkey,765,731,,,,,,1496
+2000,Canada,Turkmenistan,1,2,,,,,,3
+2000,Canada,Uganda,89,105,,,,,,194
+2000,Canada,Ukraine,547,553,,,,,,1100
+2000,Canada,United Arab Emirates,7,8,,,,,,15
+2000,Canada,United Kingdom,32,8,,,,,,40
+2000,Canada,United Rep. of Tanzania,24,192,,,,,,216
+2000,Canada,United States of America,148,86,,,,,,234
+2000,Canada,Uruguay,33,141,,,,,,174
+2000,Canada,Uzbekistan,108,43,,,,,,151
+2000,Canada,Various/Unknown,15452,1,,,,,,15453
+2000,Canada,Venezuela (Bolivarian Republic of),407,127,,,,,,534
+2000,Canada,Viet Nam,155,85,,,,,,240
+2000,Canada,Yemen,168,95,,,,,,263
+2000,Canada,Zambia,50,2,,,,,,52
+2000,Canada,Zimbabwe,7,166,,,,,,173
+2001,Canada,Afghanistan,11371,406,,,,,,11777
+2001,Canada,Albania,998,1006,,,,,,2004
+2001,Canada,Algeria,2877,561,,,,,,3438
+2001,Canada,Angola,296,724,,,,,,1020
+2001,Canada,Antigua and Barbuda,4,6,,,,,,10
+2001,Canada,Argentina,144,1289,,,,,,1433
+2001,Canada,Armenia,102,71,,,,,,173
+2001,Canada,Australia,,1,,,,,,1
+2001,Canada,Austria,14,3,,,,,,17
+2001,Canada,Azerbaijan,153,209,,,,,,362
+2001,Canada,Bahrain,6,,,,,,,6
+2001,Canada,Bangladesh,2185,445,,,,,,2630
+2001,Canada,Barbados,6,19,,,,,,25
+2001,Canada,Belarus,70,101,,,,,,171
+2001,Canada,Belgium,6,1,,,,,,7
+2001,Canada,Belize,,8,,,,,,8
+2001,Canada,Benin,12,11,,,,,,23
+2001,Canada,Bermuda,1,,,,,,,1
+2001,Canada,Bhutan,9,1,,,,,,10
+2001,Canada,Bolivia (Plurinational State of),40,66,,,,,,106
+2001,Canada,Bosnia and Herzegovina,11156,34,16,,,,,11206
+2001,Canada,Botswana,2,2,,,,,,4
+2001,Canada,Brazil,38,198,,,,,,236
+2001,Canada,Bulgaria,708,331,,,,,,1039
+2001,Canada,Burkina Faso,24,21,,,,,,45
+2001,Canada,Burundi,1159,357,,,,,,1516
+2001,Canada,Cabo Verde,1,,,,,,,1
+2001,Canada,Cambodia,72,34,,,,,,106
+2001,Canada,Cameroon,205,140,,,,,,345
+2001,Canada,Central African Rep.,11,20,,,,,,31
+2001,Canada,Chad,377,156,,,,,,533
+2001,Canada,Chile,253,111,,,,,,364
+2001,Canada,China,2667,1907,,,,,,4574
+2001,Canada,"China, Hong Kong SAR",4,7,,,,,,11
+2001,Canada,Colombia,2339,1823,,,,,,4162
+2001,Canada,Comoros,3,4,,,,,,7
+2001,Canada,Congo,48,136,,,,,,184
+2001,Canada,Costa Rica,81,647,,,,,,728
+2001,Canada,Croatia,4150,25,,,,,,4175
+2001,Canada,Cuba,1025,200,,,,,,1225
+2001,Canada,Cyprus,5,2,,,,,,7
+2001,Canada,Czech Rep.,679,58,,,,,,737
+2001,Canada,Cote d'Ivoire,116,73,,,,,,189
+2001,Canada,Dem. People's Rep. of Korea,,1,,,,,,1
+2001,Canada,Dem. Rep. of the Congo,4033,1247,,,,,,5280
+2001,Canada,Denmark,3,,,,,,,3
+2001,Canada,Djibouti,301,148,,,,,,449
+2001,Canada,Dominica,5,23,,,,,,28
+2001,Canada,Dominican Rep.,40,66,,,,,,106
+2001,Canada,Ecuador,130,107,,,,,,237
+2001,Canada,Egypt,1254,188,,,,,,1442
+2001,Canada,El Salvador,636,573,,,,,,1209
+2001,Canada,Equatorial Guinea,4,,,,,,,4
+2001,Canada,Eritrea,316,188,,,,,,504
+2001,Canada,Estonia,27,30,,,,,,57
+2001,Canada,Ethiopia,2034,243,,,,,,2277
+2001,Canada,Fiji,33,183,,,,,,216
+2001,Canada,Finland,1,2,,,,,,3
+2001,Canada,France,32,19,,,,,,51
+2001,Canada,Gabon,7,29,,,,,,36
+2001,Canada,Gambia,18,12,,,,,,30
+2001,Canada,Georgia,179,123,,,,,,302
+2001,Canada,Germany,988,11,,,,,,999
+2001,Canada,Ghana,333,290,,,,,,623
+2001,Canada,Greece,93,20,,,,,,113
+2001,Canada,Grenada,53,175,,,,,,228
+2001,Canada,Guatemala,677,213,,,,,,890
+2001,Canada,Guinea,351,350,,,,,,701
+2001,Canada,Guinea-Bissau,1,3,,,,,,4
+2001,Canada,Guyana,36,293,,,,,,329
+2001,Canada,Haiti,511,229,,,,,,740
+2001,Canada,Honduras,270,187,,,,,,457
+2001,Canada,Hungary,406,3987,,,,,,4393
+2001,Canada,India,3803,1287,,,,,,5090
+2001,Canada,Indonesia,115,48,,,,,,163
+2001,Canada,Iran (Islamic Rep. of),7502,856,,,,,,8358
+2001,Canada,Iraq,6001,436,,,,,,6437
+2001,Canada,Ireland,3,1,,,,,,4
+2001,Canada,Israel,281,457,,,,,,738
+2001,Canada,Italy,24,12,,,,,,36
+2001,Canada,Jamaica,37,192,,,,,,229
+2001,Canada,Japan,3,2,,,,,,5
+2001,Canada,Jordan,156,77,,,,,,233
+2001,Canada,Kazakhstan,598,131,,,,,,729
+2001,Canada,Kenya,398,181,,,,,,579
+2001,Canada,Kuwait,126,57,,,,,,183
+2001,Canada,Kyrgyzstan,75,46,,,,,,121
+2001,Canada,Lao People's Dem. Rep.,2,1,,,,,,3
+2001,Canada,Latvia,42,51,,,,,,93
+2001,Canada,Lebanon,653,560,,,,,,1213
+2001,Canada,Lesotho,,6,,,,,,6
+2001,Canada,Liberia,187,26,,,,,,213
+2001,Canada,Libya,168,113,,,,,,281
+2001,Canada,Lithuania,17,107,,,,,,124
+2001,Canada,Madagascar,7,1,,,,,,8
+2001,Canada,Malawi,16,7,,,,,,23
+2001,Canada,Malaysia,61,166,,,,,,227
+2001,Canada,Maldives,2,1,,,,,,3
+2001,Canada,Mali,44,48,,,,,,92
+2001,Canada,Malta,7,3,,,,,,10
+2001,Canada,Mauritania,15,47,,,,,,62
+2001,Canada,Mauritius,,10,,,,,,10
+2001,Canada,Mexico,1108,1661,,,,,,2769
+2001,Canada,Mongolia,12,22,,,,,,34
+2001,Canada,Morocco,62,56,,,,,,118
+2001,Canada,Mozambique,3,,,,,,,3
+2001,Canada,Myanmar,350,21,,,,,,371
+2001,Canada,Namibia,,12,,,,,,12
+2001,Canada,Nepal,38,49,,,,,,87
+2001,Canada,Netherlands,4,4,,,,,,8
+2001,Canada,New Zealand,,1,,,,,,1
+2001,Canada,Nicaragua,210,64,,,,,,274
+2001,Canada,Niger,11,17,,,,,,28
+2001,Canada,Nigeria,1043,984,,,,,,2027
+2001,Canada,Norway,2,,,,,,,2
+2001,Canada,Oman,3,1,,,,,,4
+2001,Canada,Pakistan,5753,2975,,,,,,8728
+2001,Canada,Palestinian,41,159,,,,,,200
+2001,Canada,Panama,25,28,,,,,,53
+2001,Canada,Papua New Guinea,,1,,,,,,1
+2001,Canada,Paraguay,6,7,,,,,,13
+2001,Canada,Peru,993,724,,,,,,1717
+2001,Canada,Philippines,33,264,,,,,,297
+2001,Canada,Poland,217,336,,,,,,553
+2001,Canada,Portugal,7,115,,,,,,122
+2001,Canada,Qatar,,8,,,,,,8
+2001,Canada,Rep. of Korea,51,285,,,,,,336
+2001,Canada,Rep. of Moldova,252,49,,,,,,301
+2001,Canada,Romania,730,445,,,,,,1175
+2001,Canada,Russian Federation,2196,609,,,,,,2805
+2001,Canada,Rwanda,1322,206,,,,,,1528
+2001,Canada,Saint Kitts and Nevis,,1,,,,,,1
+2001,Canada,Saint Lucia,9,66,,,,,,75
+2001,Canada,Saint Vincent and the Grenadines,67,174,,,,,,241
+2001,Canada,Sao Tome and Principe,2,,,,,,,2
+2001,Canada,Saudi Arabia,15,60,,,,,,75
+2001,Canada,Senegal,45,17,,,,,,62
+2001,Canada,Serbia and Kosovo (S/RES/1244 (1999)),7990,243,180,,,,,8413
+2001,Canada,Seychelles,,3,,,,,,3
+2001,Canada,Sierra Leone,677,109,,,,,,786
+2001,Canada,Singapore,9,9,,,,,,18
+2001,Canada,Slovakia,13,52,,,,,,65
+2001,Canada,Slovenia,56,17,,,,,,73
+2001,Canada,Somalia,5754,747,,,,,,6501
+2001,Canada,South Africa,34,33,,,,,,67
+2001,Canada,Spain,14,7,,,,,,21
+2001,Canada,Sri Lanka,13161,3042,,,,,,16203
+2001,Canada,Stateless,1624,1,,,,,,1625
+2001,Canada,Sudan,3692,410,,,,,,4102
+2001,Canada,Suriname,,4,,,,,,4
+2001,Canada,Swaziland,15,3,,,,,,18
+2001,Canada,Sweden,5,8,,,,,,13
+2001,Canada,Switzerland,60,,,,,,,60
+2001,Canada,Syrian Arab Rep.,427,134,,,,,,561
+2001,Canada,Tajikistan,124,10,,,,,,134
+2001,Canada,Thailand,22,7,,,,,,29
+2001,Canada,The former Yugoslav Republic of Macedonia,59,70,,,,,,129
+2001,Canada,Tibetan,4,,,,,,,4
+2001,Canada,Togo,169,51,,,,,,220
+2001,Canada,Trinidad and Tobago,16,97,,,,,,113
+2001,Canada,Tunisia,103,141,,,,,,244
+2001,Canada,Turkey,1172,1779,,,,,,2951
+2001,Canada,Turkmenistan,7,2,,,,,,9
+2001,Canada,Uganda,103,88,,,,,,191
+2001,Canada,Ukraine,726,546,,,,,,1272
+2001,Canada,United Arab Emirates,7,19,,,,,,26
+2001,Canada,United Kingdom,27,3,,,,,,30
+2001,Canada,United Rep. of Tanzania,58,264,,,,,,322
+2001,Canada,United States of America,191,99,,,,,,290
+2001,Canada,Uruguay,37,264,,,,,,301
+2001,Canada,Uzbekistan,129,65,,,,,,194
+2001,Canada,Various/Unknown,758,1,,,,,,759
+2001,Canada,Venezuela (Bolivarian Republic of),457,190,,,,,,647
+2001,Canada,Viet Nam,116,86,,,,,,202
+2001,Canada,Yemen,207,111,,,,,,318
+2001,Canada,Zambia,42,18,,,,,,60
+2001,Canada,Zimbabwe,17,2566,,,,,,2583
+2002,Canada,Afghanistan,12957,305,,,,,,13262
+2002,Canada,Albania,1186,1140,,,,,,2326
+2002,Canada,Algeria,2477,305,,,,,,2782
+2002,Canada,Angola,433,589,,,,,,1022
+2002,Canada,Antigua and Barbuda,5,36,,,,,,41
+2002,Canada,Argentina,190,1003,,,,,,1193
+2002,Canada,Armenia,76,36,,,,,,112
+2002,Canada,Australia,,3,,,,,,3
+2002,Canada,Austria,8,5,,,,,,13
+2002,Canada,Azerbaijan,222,190,,,,,,412
+2002,Canada,Bahamas,1,,,,,,,1
+2002,Canada,Bahrain,6,2,,,,,,8
+2002,Canada,Bangladesh,1612,548,,,,,,2160
+2002,Canada,Barbados,6,56,,,,,,62
+2002,Canada,Belarus,90,81,,,,,,171
+2002,Canada,Belgium,2,,,,,,,2
+2002,Canada,Belize,,10,,,,,,10
+2002,Canada,Benin,13,15,,,,,,28
+2002,Canada,Bermuda,1,,,,,,,1
+2002,Canada,Bhutan,7,,,,,,,7
+2002,Canada,Bolivia (Plurinational State of),31,99,,,,,,130
+2002,Canada,Bosnia and Herzegovina,7666,38,494,,,,,8198
+2002,Canada,Botswana,2,10,,,,,,12
+2002,Canada,Brazil,40,570,,,,,,610
+2002,Canada,Bulgaria,742,399,,,,,,1141
+2002,Canada,Burkina Faso,24,55,,,,,,79
+2002,Canada,Burundi,1274,307,,,,,,1581
+2002,Canada,Cabo Verde,1,,,,,,,1
+2002,Canada,Cambodia,61,49,,,,,,110
+2002,Canada,Cameroon,230,101,,,,,,331
+2002,Canada,Central African Rep.,15,31,,,,,,46
+2002,Canada,Chad,423,134,,,,,,557
+2002,Canada,Chile,212,193,,,,,,405
+2002,Canada,China,3771,2616,,,,,,6387
+2002,Canada,"China, Hong Kong SAR",2,2,,,,,,4
+2002,Canada,Colombia,4051,3148,,,,,,7199
+2002,Canada,Comoros,4,5,,,,,,9
+2002,Canada,Congo,86,110,,,,,,196
+2002,Canada,Costa Rica,90,1698,,,,,,1788
+2002,Canada,Croatia,3258,35,,,,,,3293
+2002,Canada,Cuba,1020,237,,,,,,1257
+2002,Canada,Cyprus,5,1,,,,,,6
+2002,Canada,Czech Rep.,717,60,,,,,,777
+2002,Canada,Cote d'Ivoire,135,82,,,,,,217
+2002,Canada,Dem. People's Rep. of Korea,,5,,,,,,5
+2002,Canada,Dem. Rep. of the Congo,4387,1122,,,,,,5509
+2002,Canada,Denmark,2,6,,,,,,8
+2002,Canada,Djibouti,312,94,,,,,,406
+2002,Canada,Dominica,6,47,,,,,,53
+2002,Canada,Dominican Rep.,31,79,,,,,,110
+2002,Canada,Ecuador,125,229,,,,,,354
+2002,Canada,Egypt,1287,189,,,,,,1476
+2002,Canada,El Salvador,514,570,,,,,,1084
+2002,Canada,Equatorial Guinea,4,1,,,,,,5
+2002,Canada,Eritrea,411,182,,,,,,593
+2002,Canada,Estonia,11,33,,,,,,44
+2002,Canada,Ethiopia,2244,302,,,,,,2546
+2002,Canada,Fiji,173,66,,,,,,239
+2002,Canada,Finland,,2,,,,,,2
+2002,Canada,France,23,33,,,,,,56
+2002,Canada,Gabon,6,32,,,,,,38
+2002,Canada,Gambia,18,16,,,,,,34
+2002,Canada,Georgia,198,90,,,,,,288
+2002,Canada,Germany,895,31,,,,,,926
+2002,Canada,Ghana,247,341,,,,,,588
+2002,Canada,Greece,62,18,,,,,,80
+2002,Canada,Grenada,73,374,,,,,,447
+2002,Canada,Guatemala,492,285,,,,,,777
+2002,Canada,Guinea,483,240,,,,,,723
+2002,Canada,Guinea-Bissau,2,7,,,,,,9
+2002,Canada,Guyana,39,939,,,,,,978
+2002,Canada,Haiti,392,259,,,,,,651
+2002,Canada,Honduras,219,285,,,,,,504
+2002,Canada,Hungary,558,2938,,,,,,3496
+2002,Canada,India,3807,1393,,,,,,5200
+2002,Canada,Indonesia,142,64,,,,,,206
+2002,Canada,Iran (Islamic Rep. of),7228,597,,,,,,7825
+2002,Canada,Iraq,5737,478,,,,,,6215
+2002,Canada,Ireland,2,2,,,,,,4
+2002,Canada,Israel,137,728,,,,,,865
+2002,Canada,Italy,20,17,,,,,,37
+2002,Canada,Jamaica,48,394,,,,,,442
+2002,Canada,Japan,2,9,,,,,,11
+2002,Canada,Jordan,112,103,,,,,,215
+2002,Canada,Kazakhstan,398,84,,,,,,482
+2002,Canada,Kenya,347,325,,,,,,672
+2002,Canada,Kuwait,105,27,,,,,,132
+2002,Canada,Kyrgyzstan,108,24,,,,,,132
+2002,Canada,Lao People's Dem. Rep.,1,8,,,,,,9
+2002,Canada,Latvia,38,42,,,,,,80
+2002,Canada,Lebanon,560,660,,,,,,1220
+2002,Canada,Liberia,188,21,,,,,,209
+2002,Canada,Libya,184,78,,,,,,262
+2002,Canada,Lithuania,20,112,,,,,,132
+2002,Canada,Madagascar,8,5,,,,,,13
+2002,Canada,Malawi,15,4,,,,,,19
+2002,Canada,Malaysia,75,350,,,,,,425
+2002,Canada,Maldives,2,,,,,,,2
+2002,Canada,Mali,56,76,,,,,,132
+2002,Canada,Malta,7,3,,,,,,10
+2002,Canada,Mauritania,20,67,,,,,,87
+2002,Canada,Mauritius,1,8,,,,,,9
+2002,Canada,Mexico,1162,2838,,,,,,4000
+2002,Canada,Mongolia,14,26,,,,,,40
+2002,Canada,Morocco,60,61,,,,,,121
+2002,Canada,Mozambique,3,3,,,,,,6
+2002,Canada,Myanmar,271,53,,,,,,324
+2002,Canada,Namibia,,13,,,,,,13
+2002,Canada,Nepal,52,56,,,,,,108
+2002,Canada,Netherlands,3,7,,,,,,10
+2002,Canada,New Zealand,,2,,,,,,2
+2002,Canada,Nicaragua,160,120,,,,,,280
+2002,Canada,Niger,15,26,,,,,,41
+2002,Canada,Nigeria,1056,1328,,,,,,2384
+2002,Canada,Oman,3,2,,,,,,5
+2002,Canada,Pakistan,6960,4577,,,,,,11537
+2002,Canada,Palestinian,55,196,,,,,,251
+2002,Canada,Panama,15,57,,,,,,72
+2002,Canada,Papua New Guinea,,1,,,,,,1
+2002,Canada,Paraguay,2,28,,,,,,30
+2002,Canada,Peru,951,1342,,,,,,2293
+2002,Canada,Philippines,35,646,,,,,,681
+2002,Canada,Poland,273,315,,,,,,588
+2002,Canada,Portugal,4,514,,,,,,518
+2002,Canada,Qatar,,9,,,,,,9
+2002,Canada,Rep. of Korea,59,388,,,,,,447
+2002,Canada,Rep. of Moldova,141,67,,,,,,208
+2002,Canada,Romania,695,440,,,,,,1135
+2002,Canada,Russian Federation,1990,514,,,,,,2504
+2002,Canada,Rwanda,1390,189,,,,,,1579
+2002,Canada,Saint Kitts and Nevis,,5,,,,,,5
+2002,Canada,Saint Lucia,7,270,,,,,,277
+2002,Canada,Saint Vincent and the Grenadines,81,510,,,,,,591
+2002,Canada,Saudi Arabia,22,56,,,,,,78
+2002,Canada,Senegal,42,28,,,,,,70
+2002,Canada,Serbia and Kosovo (S/RES/1244 (1999)),7494,274,,,,,,7768
+2002,Canada,Seychelles,,11,,,,,,11
+2002,Canada,Sierra Leone,1037,83,,,,,,1120
+2002,Canada,Singapore,8,15,,,,,,23
+2002,Canada,Slovakia,16,52,,,,,,68
+2002,Canada,Slovenia,23,16,,,,,,39
+2002,Canada,Solomon Islands,4,,,,,,,4
+2002,Canada,Somalia,5545,475,1,,,,,6021
+2002,Canada,South Africa,32,19,,,,,,51
+2002,Canada,Spain,8,12,,,,,,20
+2002,Canada,Sri Lanka,12873,2360,,,,,,15233
+2002,Canada,Stateless,1568,,,,,,,1568
+2002,Canada,Sudan,4179,266,,,,,,4445
+2002,Canada,Suriname,1,5,,,,,,6
+2002,Canada,Swaziland,15,4,,,,,,19
+2002,Canada,Sweden,7,10,,,,,,17
+2002,Canada,Switzerland,38,4,,,,,,42
+2002,Canada,Syrian Arab Rep.,432,142,,,,,,574
+2002,Canada,Tajikistan,122,9,,,,,,131
+2002,Canada,Thailand,19,9,,,,,,28
+2002,Canada,The former Yugoslav Republic of Macedonia,82,109,,,,,,191
+2002,Canada,Tibetan,4,,,,,,,4
+2002,Canada,Togo,173,57,,,,,,230
+2002,Canada,Trinidad and Tobago,17,267,,,,,,284
+2002,Canada,Tunisia,92,90,,,,,,182
+2002,Canada,Turkey,1651,1887,,,,,,3538
+2002,Canada,Turkmenistan,7,5,,,,,,12
+2002,Canada,Uganda,114,190,,,,,,304
+2002,Canada,Ukraine,712,570,,,,,,1282
+2002,Canada,United Arab Emirates,2,24,,,,,,26
+2002,Canada,United Kingdom,27,18,,,,,,45
+2002,Canada,United Rep. of Tanzania,126,243,,,,,,369
+2002,Canada,United States of America,176,218,,,,,,394
+2002,Canada,Uruguay,32,438,,,,,,470
+2002,Canada,Uzbekistan,123,67,,,,,,190
+2002,Canada,Various/Unknown,1207,10,,,,,,1217
+2002,Canada,Venezuela (Bolivarian Republic of),307,388,,,,,,695
+2002,Canada,Viet Nam,97,104,,,,,,201
+2002,Canada,Yemen,204,137,,,,,,341
+2002,Canada,Zambia,17,23,,,,,,40
+2002,Canada,Zimbabwe,104,665,,,,,,769
+2003,Canada,Afghanistan,14616,175,,,,,,14791
+2003,Canada,Albania,1226,808,,,,,,2034
+2003,Canada,Algeria,2030,114,,,,,,2144
+2003,Canada,Angola,517,278,,,,,,795
+2003,Canada,Antigua and Barbuda,5,22,,,,,,27
+2003,Canada,Argentina,196,355,,,,,,551
+2003,Canada,Armenia,79,32,,,,,,111
+2003,Canada,Australia,,5,,,,,,5
+2003,Canada,Austria,4,5,,,,,,9
+2003,Canada,Azerbaijan,258,163,,,,,,421
+2003,Canada,Bahamas,1,1,,,,,,2
+2003,Canada,Bahrain,5,,,,,,,5
+2003,Canada,Bangladesh,1235,741,,,,,,1976
+2003,Canada,Barbados,8,43,,,,,,51
+2003,Canada,Belarus,127,62,,,,,,189
+2003,Canada,Belgium,3,4,,,,,,7
+2003,Canada,Belize,,6,,,,,,6
+2003,Canada,Benin,24,14,,,,,,38
+2003,Canada,Bhutan,8,,,,,,,8
+2003,Canada,Bolivia (Plurinational State of),46,90,,,,,,136
+2003,Canada,Bosnia and Herzegovina,4112,40,90,,,,,4242
+2003,Canada,Botswana,2,16,,,,,,18
+2003,Canada,Brazil,36,671,,,,,,707
+2003,Canada,Bulgaria,711,260,,,,,,971
+2003,Canada,Burkina Faso,30,22,,,,,,52
+2003,Canada,Burundi,1524,159,,,,,,1683
+2003,Canada,Cabo Verde,1,1,,,,,,2
+2003,Canada,Cambodia,57,29,,,,,,86
+2003,Canada,Cameroon,247,113,,,,,,360
+2003,Canada,Central African Rep.,17,17,,,,,,34
+2003,Canada,Chad,440,66,,,,,,506
+2003,Canada,Chile,169,173,,,,,,342
+2003,Canada,China,5722,2257,,,,,,7979
+2003,Canada,"China, Hong Kong SAR",,8,,,,,,8
+2003,Canada,Colombia,6689,2822,,,,,,9511
+2003,Canada,Comoros,4,5,,,,,,9
+2003,Canada,Congo,154,51,,,,,,205
+2003,Canada,Costa Rica,86,1433,,,,,,1519
+2003,Canada,Croatia,2000,36,,,,,,2036
+2003,Canada,Cuba,1005,171,,,,,,1176
+2003,Canada,Cyprus,2,4,,,,,,6
+2003,Canada,Czech Rep.,696,47,,,,,,743
+2003,Canada,Cote d'Ivoire,146,77,,,,,,223
+2003,Canada,Dem. People's Rep. of Korea,3,2,,,,,,5
+2003,Canada,Dem. Rep. of the Congo,4706,529,,,,,,5235
+2003,Canada,Denmark,2,1,,,,,,3
+2003,Canada,Djibouti,318,46,,,,,,364
+2003,Canada,Dominica,17,24,,,,,,41
+2003,Canada,Dominican Rep.,26,53,,,,,,79
+2003,Canada,Ecuador,113,235,,,,,,348
+2003,Canada,Egypt,1291,257,,,,,,1548
+2003,Canada,El Salvador,442,415,,,,,,857
+2003,Canada,Equatorial Guinea,5,6,,,,,,11
+2003,Canada,Eritrea,557,148,,,,,,705
+2003,Canada,Estonia,11,20,,,,,,31
+2003,Canada,Ethiopia,2873,300,,,,,,3173
+2003,Canada,Fiji,313,32,,,,,,345
+2003,Canada,France,29,26,,,,,,55
+2003,Canada,Gabon,8,8,,,,,,16
+2003,Canada,Gambia,18,15,,,,,,33
+2003,Canada,Georgia,219,74,,,,,,293
+2003,Canada,Germany,663,24,,,,,,687
+2003,Canada,Ghana,207,236,,,,,,443
+2003,Canada,Greece,42,11,,,,,,53
+2003,Canada,Grenada,76,258,,,,,,334
+2003,Canada,Guatemala,385,276,,,,,,661
+2003,Canada,Guinea,561,124,,,,,,685
+2003,Canada,Guinea-Bissau,6,6,,,,,,12
+2003,Canada,Guyana,49,909,,,,,,958
+2003,Canada,Haiti,413,156,,,,,,569
+2003,Canada,Honduras,177,224,,,,,,401
+2003,Canada,Hungary,657,832,,,,,,1489
+2003,Canada,India,3514,1147,,,,,,4661
+2003,Canada,Indonesia,148,224,,,,,,372
+2003,Canada,Iran (Islamic Rep. of),6794,402,,,,,,7196
+2003,Canada,Iraq,5441,277,,,,,,5718
+2003,Canada,Ireland,,4,,,,,,4
+2003,Canada,Israel,104,619,,,,,,723
+2003,Canada,Italy,14,18,,,,,,32
+2003,Canada,Jamaica,55,316,,,,,,371
+2003,Canada,Japan,1,4,,,,,,5
+2003,Canada,Jordan,86,198,,,,,,284
+2003,Canada,Kazakhstan,249,38,,,,,,287
+2003,Canada,Kenya,332,258,,,,,,590
+2003,Canada,Kuwait,92,16,,,,,,108
+2003,Canada,Kyrgyzstan,103,20,,,,,,123
+2003,Canada,Lao People's Dem. Rep.,,2,,,,,,2
+2003,Canada,Latvia,40,26,,,,,,66
+2003,Canada,Lebanon,521,586,,,,,,1107
+2003,Canada,Liberia,268,37,,,,,,305
+2003,Canada,Libya,198,55,,,,,,253
+2003,Canada,Lithuania,25,91,,,,,,116
+2003,Canada,Luxembourg,,1,,,,,,1
+2003,Canada,Madagascar,4,8,,,,,,12
+2003,Canada,Malawi,16,9,,,,,,25
+2003,Canada,Malaysia,100,201,,,,,,301
+2003,Canada,Mali,65,22,,,,,,87
+2003,Canada,Malta,6,,,,,,,6
+2003,Canada,Mauritania,30,45,,,,,,75
+2003,Canada,Mauritius,1,8,,,,,,9
+2003,Canada,Mexico,1195,3191,,,,,,4386
+2003,Canada,Mongolia,24,15,,,,,,39
+2003,Canada,Morocco,60,54,,,,,,114
+2003,Canada,Mozambique,3,4,,,,,,7
+2003,Canada,Myanmar,440,34,,,,,,474
+2003,Canada,Namibia,,9,,,,,,9
+2003,Canada,Nepal,83,65,,,,,,148
+2003,Canada,Netherlands,2,10,,,,,,12
+2003,Canada,New Zealand,,4,,,,,,4
+2003,Canada,Nicaragua,145,99,,,,,,244
+2003,Canada,Niger,18,9,,,,,,27
+2003,Canada,Nigeria,986,1058,,,,,,2044
+2003,Canada,Norway,,2,,,,,,2
+2003,Canada,Oman,1,2,,,,,,3
+2003,Canada,Pakistan,7994,4845,,,,,,12839
+2003,Canada,Palestinian,97,144,,,,,,241
+2003,Canada,Panama,8,54,,,,,,62
+2003,Canada,Papua New Guinea,,1,,,,,,1
+2003,Canada,Paraguay,3,22,,,,,,25
+2003,Canada,Peru,962,947,,,,,,1909
+2003,Canada,Philippines,60,728,,,,,,788
+2003,Canada,Poland,281,340,,,,,,621
+2003,Canada,Portugal,4,366,,,,,,370
+2003,Canada,Qatar,,9,,,,,,9
+2003,Canada,Rep. of Korea,71,442,,,,,,513
+2003,Canada,Rep. of Moldova,133,45,,,,,,178
+2003,Canada,Romania,715,334,,,,,,1049
+2003,Canada,Russian Federation,1994,360,,,,,,2354
+2003,Canada,Rwanda,1462,94,,,,,,1556
+2003,Canada,Saint Kitts and Nevis,,4,,,,,,4
+2003,Canada,Saint Lucia,11,272,,,,,,283
+2003,Canada,Saint Vincent and the Grenadines,105,419,,,,,,524
+2003,Canada,Saudi Arabia,25,24,,,,,,49
+2003,Canada,Senegal,46,23,,,,,,69
+2003,Canada,Serbia and Kosovo (S/RES/1244 (1999)),7020,215,,,,,,7235
+2003,Canada,Seychelles,,1,,,,,,1
+2003,Canada,Sierra Leone,1374,45,,,,,,1419
+2003,Canada,Singapore,8,9,,,,,,17
+2003,Canada,Slovakia,17,72,,,,,,89
+2003,Canada,Slovenia,7,10,,,,,,17
+2003,Canada,Solomon Islands,4,4,,,,,,8
+2003,Canada,Somalia,5080,220,1,,,,,5301
+2003,Canada,South Africa,32,22,,,,,,54
+2003,Canada,Spain,6,20,,,,,,26
+2003,Canada,Sri Lanka,12563,1213,31,,,,,13807
+2003,Canada,Stateless,1654,1,,,,,,1655
+2003,Canada,Sudan,5141,120,,,,,,5261
+2003,Canada,Suriname,2,10,,,,,,12
+2003,Canada,Swaziland,2,4,,,,,,6
+2003,Canada,Sweden,6,19,,,,,,25
+2003,Canada,Switzerland,17,,,,,,,17
+2003,Canada,Syrian Arab Rep.,424,162,,,,,,586
+2003,Canada,Tajikistan,29,6,,,,,,35
+2003,Canada,Thailand,20,15,,,,,,35
+2003,Canada,The former Yugoslav Republic of Macedonia,85,93,,,,,,178
+2003,Canada,Togo,194,28,,,,,,222
+2003,Canada,Trinidad and Tobago,22,242,,,,,,264
+2003,Canada,Tunisia,97,66,,,,,,163
+2003,Canada,Turkey,2000,1071,,,,,,3071
+2003,Canada,Turkmenistan,7,3,,,,,,10
+2003,Canada,Turks and Caicos Islands,,1,,,,,,1
+2003,Canada,Uganda,153,151,,,,,,304
+2003,Canada,Ukraine,817,421,,,,,,1238
+2003,Canada,United Arab Emirates,2,12,,,,,,14
+2003,Canada,United Kingdom,22,13,,,,,,35
+2003,Canada,United Rep. of Tanzania,236,118,,,,,,354
+2003,Canada,United States of America,167,340,,,,,,507
+2003,Canada,Uruguay,35,459,,,,,,494
+2003,Canada,Uzbekistan,133,53,,,,,,186
+2003,Canada,Various/Unknown,1005,33,,,,,,1038
+2003,Canada,Venezuela (Bolivarian Republic of),235,732,,,,,,967
+2003,Canada,Viet Nam,85,86,,,,,,171
+2003,Canada,Yemen,169,79,,,,,,248
+2003,Canada,Zambia,10,18,,,,,,28
+2003,Canada,Zimbabwe,654,84,,,,,,738
+2004,Canada,Afghanistan,15242,153,,,,,,15395
+2004,Canada,Albania,1273,458,,,,,,1731
+2004,Canada,Algeria,1430,72,,,,,,1502
+2004,Canada,Angola,700,53,,,,,,753
+2004,Canada,Antigua and Barbuda,7,13,,,,,,20
+2004,Canada,Argentina,226,66,,,,,,292
+2004,Canada,Armenia,77,41,,,,,,118
+2004,Canada,Australia,1,7,,,,,,8
+2004,Canada,Austria,1,,,,,,,1
+2004,Canada,Azerbaijan,376,98,,,,,,474
+2004,Canada,Bahamas,1,1,,,,,,2
+2004,Canada,Bahrain,3,1,,,,,,4
+2004,Canada,Bangladesh,1174,517,,,,,,1691
+2004,Canada,Barbados,4,12,,,,,,16
+2004,Canada,Belarus,158,50,,,,,,208
+2004,Canada,Belgium,1,1,,,,,,2
+2004,Canada,Belize,1,3,,,,,,4
+2004,Canada,Benin,26,2,,,,,,28
+2004,Canada,Bermuda,,1,,,,,,1
+2004,Canada,Bhutan,4,,,,,,,4
+2004,Canada,Bolivia (Plurinational State of),61,59,,,,,,120
+2004,Canada,Bosnia and Herzegovina,1435,27,28,,,,,1490
+2004,Canada,Botswana,2,7,,,,,,9
+2004,Canada,Brazil,30,124,,,,,,154
+2004,Canada,Bulgaria,693,145,,,,,,838
+2004,Canada,Burkina Faso,51,7,,,,,,58
+2004,Canada,Burundi,1862,158,1,,,,,2021
+2004,Canada,Cabo Verde,1,,,,,,,1
+2004,Canada,Cambodia,78,20,,,,,,98
+2004,Canada,Cameroon,277,98,,,,,,375
+2004,Canada,Cayman Islands,,1,,,,,,1
+2004,Canada,Central African Rep.,12,13,,,,,,25
+2004,Canada,Chad,398,59,,,,,,457
+2004,Canada,Chile,131,89,,,,,,220
+2004,Canada,China,8071,1812,,,,,,9883
+2004,Canada,"China, Hong Kong SAR",,2,,,,,,2
+2004,Canada,Colombia,9441,3271,,,,,,12712
+2004,Canada,Comoros,4,2,,,,,,6
+2004,Canada,Congo,272,32,,,,,,304
+2004,Canada,Costa Rica,120,326,,,,,,446
+2004,Canada,Croatia,835,32,,,,,,867
+2004,Canada,Cuba,958,149,,,,,,1107
+2004,Canada,Cyprus,,1,,,,,,1
+2004,Canada,Czech Rep.,388,23,,,,,,411
+2004,Canada,Cote d'Ivoire,161,56,,,,,,217
+2004,Canada,Dem. People's Rep. of Korea,4,1,,,,,,5
+2004,Canada,Dem. Rep. of the Congo,5069,361,,,,,,5430
+2004,Canada,Denmark,2,5,,,,,,7
+2004,Canada,Djibouti,261,18,,,,,,279
+2004,Canada,Dominica,24,17,,,,,,41
+2004,Canada,Dominican Rep.,28,70,,,,,,98
+2004,Canada,Ecuador,106,179,,,,,,285
+2004,Canada,Egypt,1109,168,,,,,,1277
+2004,Canada,El Salvador,468,356,,,,,,824
+2004,Canada,Equatorial Guinea,6,1,,,,,,7
+2004,Canada,Eritrea,852,140,,,,,,992
+2004,Canada,Estonia,11,7,,,,,,18
+2004,Canada,Ethiopia,3549,203,,,,,,3752
+2004,Canada,Fiji,433,19,,,,,,452
+2004,Canada,France,23,21,,,,,,44
+2004,Canada,Gabon,15,5,,,,,,20
+2004,Canada,Gambia,9,6,,,,,,15
+2004,Canada,Georgia,245,67,,,,,,312
+2004,Canada,Germany,17,23,,,,,,40
+2004,Canada,Ghana,204,67,,,,,,271
+2004,Canada,Greece,4,10,,,,,,14
+2004,Canada,Grenada,98,121,,,,,,219
+2004,Canada,Guatemala,363,256,,,,,,619
+2004,Canada,Guinea,691,130,,,,,,821
+2004,Canada,Guinea-Bissau,9,8,,,,,,17
+2004,Canada,Guyana,129,374,,,,,,503
+2004,Canada,Haiti,460,128,,,,,,588
+2004,Canada,Honduras,166,245,,,,,,411
+2004,Canada,Hungary,779,498,,,,,,1277
+2004,Canada,India,3589,990,,,,,,4579
+2004,Canada,Indonesia,264,251,,,,,,515
+2004,Canada,Iran (Islamic Rep. of),6508,349,,,,,,6857
+2004,Canada,Iraq,5402,111,,,,,,5513
+2004,Canada,Ireland,,2,,,,,,2
+2004,Canada,Israel,177,477,,,,,,654
+2004,Canada,Italy,3,13,,,,,,16
+2004,Canada,Jamaica,77,147,,,,,,224
+2004,Canada,Japan,5,4,,,,,,9
+2004,Canada,Jordan,82,125,,,,,,207
+2004,Canada,Kazakhstan,222,17,,,,,,239
+2004,Canada,Kenya,343,193,,,,,,536
+2004,Canada,Kuwait,82,19,,,,,,101
+2004,Canada,Kyrgyzstan,202,13,,,,,,215
+2004,Canada,Lao People's Dem. Rep.,3,3,,,,,,6
+2004,Canada,Latvia,42,14,,,,,,56
+2004,Canada,Lebanon,510,313,,,,,,823
+2004,Canada,Liberia,639,33,,,,,,672
+2004,Canada,Libya,189,31,,,,,,220
+2004,Canada,Lithuania,45,33,,,,,,78
+2004,Canada,Madagascar,4,1,,,,,,5
+2004,Canada,Malawi,5,3,,,,,,8
+2004,Canada,Malaysia,139,88,,,,,,227
+2004,Canada,Maldives,,1,,,,,,1
+2004,Canada,Mali,73,13,,,,,,86
+2004,Canada,Malta,1,,,,,,,1
+2004,Canada,Mauritania,69,97,,,,,,166
+2004,Canada,Mauritius,4,5,,,,,,9
+2004,Canada,Mexico,1307,3400,,,,,,4707
+2004,Canada,Mongolia,34,12,,,,,,46
+2004,Canada,Morocco,64,37,,,,,,101
+2004,Canada,Myanmar,538,37,,,,,,575
+2004,Canada,Namibia,,14,,,,,,14
+2004,Canada,Nepal,116,60,,,,,,176
+2004,Canada,Netherlands,3,22,,,,,,25
+2004,Canada,New Zealand,1,3,,,,,,4
+2004,Canada,Nicaragua,107,38,,,,,,145
+2004,Canada,Niger,15,20,,,,,,35
+2004,Canada,Nigeria,1046,700,,,,,,1746
+2004,Canada,Norway,,4,,,,,,4
+2004,Canada,Oman,3,2,,,,,,5
+2004,Canada,Pakistan,9662,1997,,,,,,11659
+2004,Canada,Palestinian,173,106,,,,,,279
+2004,Canada,Panama,14,37,,,,,,51
+2004,Canada,Papua New Guinea,,1,,,,,,1
+2004,Canada,Paraguay,8,20,,,,,,28
+2004,Canada,Peru,1049,632,,,,,,1681
+2004,Canada,Philippines,96,143,,,,,,239
+2004,Canada,Poland,330,106,,,,,,436
+2004,Canada,Portugal,2,179,,,,,,181
+2004,Canada,Rep. of Korea,114,270,,,,,,384
+2004,Canada,Rep. of Moldova,105,30,,,,,,135
+2004,Canada,Romania,711,150,,,,,,861
+2004,Canada,Russian Federation,2118,272,,,,,,2390
+2004,Canada,Rwanda,1310,89,,,,,,1399
+2004,Canada,Saint Kitts and Nevis,,1,,,,,,1
+2004,Canada,Saint Lucia,32,144,,,,,,176
+2004,Canada,Saint Vincent and the Grenadines,181,208,,,,,,389
+2004,Canada,Saudi Arabia,39,22,,,,,,61
+2004,Canada,Senegal,50,19,,,,,,69
+2004,Canada,Serbia and Kosovo (S/RES/1244 (1999)),6472,30,,,,,,6502
+2004,Canada,Seychelles,,4,,,,,,4
+2004,Canada,Sierra Leone,1668,41,,,,,,1709
+2004,Canada,Singapore,4,5,,,,,,9
+2004,Canada,Slovakia,19,17,,,,,,36
+2004,Canada,Slovenia,1,5,,,,,,6
+2004,Canada,Solomon Islands,4,10,,,,,,14
+2004,Canada,Somalia,4894,265,,,,,,5159
+2004,Canada,South Africa,20,20,,,,,,40
+2004,Canada,Spain,3,6,,,,,,9
+2004,Canada,Sri Lanka,12062,917,,,,,,12979
+2004,Canada,Stateless,1764,5,,,,,,1769
+2004,Canada,Sudan,6312,71,,,,,,6383
+2004,Canada,Suriname,2,11,,,,,,13
+2004,Canada,Swaziland,6,4,,,,,,10
+2004,Canada,Sweden,5,1,,,,,,6
+2004,Canada,Syrian Arab Rep.,459,95,,,,,,554
+2004,Canada,Tajikistan,15,6,,,,,,21
+2004,Canada,Thailand,17,9,,,,,,26
+2004,Canada,The former Yugoslav Republic of Macedonia,81,58,,,,,,139
+2004,Canada,Togo,242,40,,,,,,282
+2004,Canada,Trinidad and Tobago,21,128,,,,,,149
+2004,Canada,Tunisia,103,38,,,,,,141
+2004,Canada,Turkey,2632,331,,,,,,2963
+2004,Canada,Turkmenistan,6,9,,,,,,15
+2004,Canada,Turks and Caicos Islands,,1,,,,,,1
+2004,Canada,Uganda,225,61,,,,,,286
+2004,Canada,Ukraine,961,363,,,,,,1324
+2004,Canada,United Arab Emirates,6,2,,,,,,8
+2004,Canada,United Kingdom,21,,,,,,,21
+2004,Canada,United Rep. of Tanzania,342,27,,,,,,369
+2004,Canada,United States of America,232,266,,,,,,498
+2004,Canada,Uruguay,52,87,,,,,,139
+2004,Canada,Uzbekistan,165,44,,,,,,209
+2004,Canada,Various/Unknown,1125,151,,,,,,1276
+2004,Canada,Venezuela (Bolivarian Republic of),219,274,,,,,,493
+2004,Canada,Viet Nam,79,70,,,,,,149
+2004,Canada,Yemen,144,47,,,,,,191
+2004,Canada,Zambia,9,14,,,,,,23
+2004,Canada,Zimbabwe,1979,70,,,,,,2049
+2005,Canada,Afghanistan,15535,224,,,,,,15759
+2005,Canada,Albania,1403,377,,,,,,1780
+2005,Canada,Algeria,763,49,,,,,,812
+2005,Canada,Angola,892,28,,,,,,920
+2005,Canada,Antigua and Barbuda,13,7,,,,,,20
+2005,Canada,Argentina,297,30,,,,,,327
+2005,Canada,Armenia,83,23,,,,,,106
+2005,Canada,Australia,2,2,,,,,,4
+2005,Canada,Azerbaijan,585,45,,,,,,630
+2005,Canada,Bahamas,1,,,,,,,1
+2005,Canada,Bahrain,1,2,,,,,,3
+2005,Canada,Bangladesh,1352,299,,,,,,1651
+2005,Canada,Barbados,8,18,,,,,,26
+2005,Canada,Belarus,199,36,,,,,,235
+2005,Canada,Belgium,1,1,,,,,,2
+2005,Canada,Belize,1,3,,,,,,4
+2005,Canada,Benin,39,2,,,,,,41
+2005,Canada,Bhutan,4,,,,,,,4
+2005,Canada,Bolivia (Plurinational State of),79,6,,,,,,85
+2005,Canada,Bosnia and Herzegovina,794,35,11,,,,,840
+2005,Canada,Botswana,2,8,,,,,,10
+2005,Canada,Brazil,79,89,,,,,,168
+2005,Canada,Bulgaria,794,67,,,,,,861
+2005,Canada,Burkina Faso,72,6,,,,,,78
+2005,Canada,Burundi,2064,129,,,,,,2193
+2005,Canada,Cambodia,82,20,,,,,,102
+2005,Canada,Cameroon,334,70,,,,,,404
+2005,Canada,Central African Rep.,43,17,,,,,,60
+2005,Canada,Chad,350,58,,,,,,408
+2005,Canada,Chile,94,33,,,,,,127
+2005,Canada,China,9953,1890,,,,,,11843
+2005,Canada,"China, Hong Kong SAR",,9,,,,,,9
+2005,Canada,Colombia,13511,1461,,,,,,14972
+2005,Canada,Comoros,5,2,,,,,,7
+2005,Canada,Congo,365,21,,,,,,386
+2005,Canada,Costa Rica,149,107,,,,,,256
+2005,Canada,Croatia,349,28,,,,,,377
+2005,Canada,Cuba,964,125,,,,,,1089
+2005,Canada,Cyprus,1,2,,,,,,3
+2005,Canada,Czech Rep.,151,14,,,,,,165
+2005,Canada,Cote d'Ivoire,204,61,,,,,,265
+2005,Canada,Dem. People's Rep. of Korea,4,1,,,,,,5
+2005,Canada,Dem. Rep. of the Congo,5124,336,,,,,,5460
+2005,Canada,Denmark,,5,,,,,,5
+2005,Canada,Djibouti,195,7,,,,,,202
+2005,Canada,Dominica,30,41,,,,,,71
+2005,Canada,Dominican Rep.,32,12,,,,,,44
+2005,Canada,Ecuador,106,42,,,,,,148
+2005,Canada,Egypt,1208,100,,,,,,1308
+2005,Canada,El Salvador,399,193,,,,,,592
+2005,Canada,Equatorial Guinea,5,1,,,,,,6
+2005,Canada,Eritrea,1197,115,,,,,,1312
+2005,Canada,Estonia,12,5,,,,,,17
+2005,Canada,Ethiopia,3986,160,,,,,,4146
+2005,Canada,Fiji,455,36,,,,,,491
+2005,Canada,France,16,19,,,,,,35
+2005,Canada,Gabon,27,4,,,,,,31
+2005,Canada,Gambia,16,3,,,,,,19
+2005,Canada,Georgia,290,69,,,,,,359
+2005,Canada,Germany,18,32,,,,,,50
+2005,Canada,Ghana,241,65,,,,,,306
+2005,Canada,Greece,3,12,,,,,,15
+2005,Canada,Grenada,151,101,,,,,,252
+2005,Canada,Guatemala,332,134,,,,,,466
+2005,Canada,Guinea,714,81,,,,,,795
+2005,Canada,Guinea-Bissau,14,3,,,,,,17
+2005,Canada,Guyana,311,252,,,,,,563
+2005,Canada,Haiti,632,321,,,,,,953
+2005,Canada,Honduras,164,157,,,,,,321
+2005,Canada,Hungary,829,149,,,,,,978
+2005,Canada,India,3512,692,,,,,,4204
+2005,Canada,Indonesia,294,137,,,,,,431
+2005,Canada,Iran (Islamic Rep. of),5695,331,,,,,,6026
+2005,Canada,Iraq,4789,102,,,,,,4891
+2005,Canada,Ireland,3,,,,,,,3
+2005,Canada,Israel,292,290,,,,,,582
+2005,Canada,Italy,5,11,,,,,,16
+2005,Canada,Jamaica,158,162,,,,,,320
+2005,Canada,Japan,5,2,,,,,,7
+2005,Canada,Jordan,141,60,,,,,,201
+2005,Canada,Kazakhstan,185,20,,,,,,205
+2005,Canada,Kenya,474,80,,,,,,554
+2005,Canada,Kiribati,1,,,,,,,1
+2005,Canada,Kuwait,50,1,,,,,,51
+2005,Canada,Kyrgyzstan,241,24,,,,,,265
+2005,Canada,Lao People's Dem. Rep.,4,2,,,,,,6
+2005,Canada,Latvia,39,9,,,,,,48
+2005,Canada,Lebanon,591,165,,,,,,756
+2005,Canada,Liberia,1151,15,,,,,,1166
+2005,Canada,Libya,199,34,,,,,,233
+2005,Canada,Lithuania,76,14,,,,,,90
+2005,Canada,Madagascar,5,1,,,,,,6
+2005,Canada,Malawi,9,1,,,,,,10
+2005,Canada,Malaysia,201,72,,,,,,273
+2005,Canada,Maldives,,1,,,,,,1
+2005,Canada,Mali,80,1,,,,,,81
+2005,Canada,Malta,2,,,,,,,2
+2005,Canada,Mauritania,129,82,,,,,,211
+2005,Canada,Mauritius,5,3,,,,,,8
+2005,Canada,Mexico,1807,3174,,,,,,4981
+2005,Canada,Mongolia,40,26,,,,,,66
+2005,Canada,Morocco,69,45,,,,,,114
+2005,Canada,Mozambique,,1,,,,,,1
+2005,Canada,Myanmar,613,29,,,,,,642
+2005,Canada,Namibia,5,11,,,,,,16
+2005,Canada,Nepal,178,44,,,,,,222
+2005,Canada,Netherlands,4,26,,,,,,30
+2005,Canada,New Zealand,1,4,,,,,,5
+2005,Canada,Nicaragua,75,29,,,,,,104
+2005,Canada,Niger,23,8,,,,,,31
+2005,Canada,Nigeria,1413,476,,,,,,1889
+2005,Canada,Norway,1,,,,,,,1
+2005,Canada,Oman,4,1,,,,,,5
+2005,Canada,Pakistan,10642,1004,,,,,,11646
+2005,Canada,Palestinian,312,37,,,,,,349
+2005,Canada,Panama,19,28,,,,,,47
+2005,Canada,Papua New Guinea,,1,,,,,,1
+2005,Canada,Paraguay,12,11,,,,,,23
+2005,Canada,Peru,1335,222,,,,,,1557
+2005,Canada,Philippines,131,113,,,,,,244
+2005,Canada,Poland,365,47,,,,,,412
+2005,Canada,Portugal,3,78,,,,,,81
+2005,Canada,Qatar,2,1,,,,,,3
+2005,Canada,Rep. of Korea,169,255,,,,,,424
+2005,Canada,Rep. of Moldova,103,31,,,,,,134
+2005,Canada,Romania,697,118,,,,,,815
+2005,Canada,Russian Federation,2073,203,,,,,,2276
+2005,Canada,Rwanda,1223,121,,,,,,1344
+2005,Canada,Saint Kitts and Nevis,,1,,,,,,1
+2005,Canada,Saint Lucia,96,195,,,,,,291
+2005,Canada,Saint Vincent and the Grenadines,279,353,,,,,,632
+2005,Canada,Saudi Arabia,64,19,,,,,,83
+2005,Canada,Senegal,74,22,,,,,,96
+2005,Canada,Serbia and Kosovo (S/RES/1244 (1999)),2129,95,,,,,,2224
+2005,Canada,Seychelles,1,1,,,,,,2
+2005,Canada,Sierra Leone,1557,22,,,,,,1579
+2005,Canada,Singapore,7,11,,,,,,18
+2005,Canada,Slovakia,12,12,,,,,,24
+2005,Canada,Slovenia,4,6,,,,,,10
+2005,Canada,Solomon Islands,4,10,,,,,,14
+2005,Canada,Somalia,4491,169,,,,,,4660
+2005,Canada,South Africa,20,14,,,,,,34
+2005,Canada,Spain,1,6,,,,,,7
+2005,Canada,Sri Lanka,11076,1081,,,,,,12157
+2005,Canada,Stateless,1891,4,,,,,,1895
+2005,Canada,Sudan,6230,48,1,,,,,6279
+2005,Canada,Suriname,2,,,,,,,2
+2005,Canada,Swaziland,7,2,,,,,,9
+2005,Canada,Sweden,6,3,,,,,,9
+2005,Canada,Switzerland,,1,,,,,,1
+2005,Canada,Syrian Arab Rep.,397,64,,,,,,461
+2005,Canada,Tajikistan,91,6,,,,,,97
+2005,Canada,Thailand,22,14,,,,,,36
+2005,Canada,The former Yugoslav Republic of Macedonia,74,35,,,,,,109
+2005,Canada,Togo,265,34,,,,,,299
+2005,Canada,Trinidad and Tobago,42,163,,,,,,205
+2005,Canada,Tunisia,123,31,,,,,,154
+2005,Canada,Turkey,3468,321,,,,,,3789
+2005,Canada,Turkmenistan,39,4,,,,,,43
+2005,Canada,Uganda,362,42,,,,,,404
+2005,Canada,Ukraine,1100,315,,,,,,1415
+2005,Canada,United Arab Emirates,9,1,,,,,,10
+2005,Canada,United Kingdom,29,1,,,,,,30
+2005,Canada,United Rep. of Tanzania,413,16,,,,,,429
+2005,Canada,United States of America,567,244,,,,,,811
+2005,Canada,Uruguay,80,17,,,,,,97
+2005,Canada,Uzbekistan,276,44,,,,,,320
+2005,Canada,Various/Unknown,949,14,,,,,,963
+2005,Canada,Venezuela (Bolivarian Republic of),346,91,,,,,,437
+2005,Canada,Viet Nam,144,40,,,,,,184
+2005,Canada,Yemen,183,28,,,,,,211
+2005,Canada,Zambia,24,11,,,,,,35
+2005,Canada,Zimbabwe,2433,625,,,,,,3058
+2006,Canada,Afghanistan,14419,294,,,,,,14713
+2006,Canada,Albania,1327,297,,,,,,1624
+2006,Canada,Algeria,545,73,,,,,,618
+2006,Canada,Angola,836,18,,,,,,854
+2006,Canada,Antigua and Barbuda,18,8,,,,,,26
+2006,Canada,Argentina,271,24,,,,,,295
+2006,Canada,Armenia,110,48,,,,,,158
+2006,Canada,Australia,3,1,,,,,,4
+2006,Canada,Austria,,6,,,,,,6
+2006,Canada,Azerbaijan,652,31,,,,,,683
+2006,Canada,Bahamas,2,4,,,,,,6
+2006,Canada,Bahrain,2,2,,,,,,4
+2006,Canada,Bangladesh,1575,195,,,,,,1770
+2006,Canada,Barbados,13,37,,,,,,50
+2006,Canada,Belarus,201,46,,,,,,247
+2006,Canada,Belgium,1,6,,,,,,7
+2006,Canada,Belize,1,2,,,,,,3
+2006,Canada,Benin,41,8,,,,,,49
+2006,Canada,Bhutan,10,4,,,,,,14
+2006,Canada,Bolivia (Plurinational State of),107,17,,,,,,124
+2006,Canada,Bosnia and Herzegovina,274,33,10,,,,,317
+2006,Canada,Botswana,3,27,,,,,,30
+2006,Canada,Brazil,110,54,,,,,,164
+2006,Canada,Bulgaria,835,47,,,,,,882
+2006,Canada,Burkina Faso,95,11,,,,,,106
+2006,Canada,Burundi,2148,391,2,,,,,2541
+2006,Canada,Cambodia,105,26,,,,,,131
+2006,Canada,Cameroon,379,118,,,,,,497
+2006,Canada,Central African Rep.,55,2,,,,,,57
+2006,Canada,Chad,340,84,,,,,,424
+2006,Canada,Chile,91,28,,,,,,119
+2006,Canada,China,11072,1983,,,,,,13055
+2006,Canada,"China, Hong Kong SAR",1,13,,,,,,14
+2006,Canada,Colombia,17378,1412,,,,,,18790
+2006,Canada,Comoros,3,,,,,,,3
+2006,Canada,Congo,400,32,,,,,,432
+2006,Canada,Costa Rica,198,54,,,,,,252
+2006,Canada,Croatia,160,16,,,,,,176
+2006,Canada,Cuba,969,145,,,,,,1114
+2006,Canada,Cyprus,1,,,,,,,1
+2006,Canada,Czech Rep.,113,4,,,,,,117
+2006,Canada,Cote d'Ivoire,236,44,,,,,,280
+2006,Canada,Dem. People's Rep. of Korea,4,26,,,,,,30
+2006,Canada,Dem. Rep. of the Congo,5212,431,,,,,,5643
+2006,Canada,Denmark,,5,,,,,,5
+2006,Canada,Djibouti,163,13,,,,,,176
+2006,Canada,Dominica,33,7,,,,,,40
+2006,Canada,Dominican Rep.,63,50,,,,,,113
+2006,Canada,Ecuador,145,38,,,,,,183
+2006,Canada,Egypt,1004,77,,,,,,1081
+2006,Canada,El Salvador,459,266,,,,,,725
+2006,Canada,Equatorial Guinea,7,1,,,,,,8
+2006,Canada,Eritrea,1619,133,,,,,,1752
+2006,Canada,Estonia,10,4,,,,,,14
+2006,Canada,Ethiopia,4753,211,,,,,,4964
+2006,Canada,Fiji,458,37,,,,,,495
+2006,Canada,Finland,,1,,,,,,1
+2006,Canada,France,18,13,,,,,,31
+2006,Canada,Gabon,28,8,,,,,,36
+2006,Canada,Gambia,31,7,,,,,,38
+2006,Canada,Georgia,297,88,,,,,,385
+2006,Canada,Germany,28,38,,,,,,66
+2006,Canada,Ghana,259,66,,,,,,325
+2006,Canada,Greece,4,1,,,,,,5
+2006,Canada,Grenada,199,41,,,,,,240
+2006,Canada,Guatemala,339,182,,,,,,521
+2006,Canada,Guinea,747,65,,,,,,812
+2006,Canada,Guinea-Bissau,18,2,,,,,,20
+2006,Canada,Guyana,407,204,,,,,,611
+2006,Canada,Haiti,783,686,,,,,,1469
+2006,Canada,Honduras,188,181,,,,,,369
+2006,Canada,Hungary,722,71,,,,,,793
+2006,Canada,India,3750,775,,,,,,4525
+2006,Canada,Indonesia,402,88,,,,,,490
+2006,Canada,Iran (Islamic Rep. of),4978,278,,,,,,5256
+2006,Canada,Iraq,3990,175,,,,,,4165
+2006,Canada,Ireland,3,,,,,,,3
+2006,Canada,Israel,440,547,,,,,,987
+2006,Canada,Italy,3,7,,,,,,10
+2006,Canada,Jamaica,197,139,,,,,,336
+2006,Canada,Japan,11,4,,,,,,15
+2006,Canada,Jordan,217,81,,,,,,298
+2006,Canada,Kazakhstan,148,25,,,,,,173
+2006,Canada,Kenya,567,117,,,,,,684
+2006,Canada,Kiribati,1,,,,,,,1
+2006,Canada,Kuwait,48,5,,,,,,53
+2006,Canada,Kyrgyzstan,244,24,,,,,,268
+2006,Canada,Lao People's Dem. Rep.,4,4,,,,,,8
+2006,Canada,Latvia,35,5,,,,,,40
+2006,Canada,Lebanon,684,357,,,,,,1041
+2006,Canada,Liberia,1436,32,,,,,,1468
+2006,Canada,Libya,156,40,,,,,,196
+2006,Canada,Lithuania,92,10,,,,,,102
+2006,Canada,Madagascar,9,2,,,,,,11
+2006,Canada,Malawi,9,1,,,,,,10
+2006,Canada,Malaysia,194,58,,,,,,252
+2006,Canada,Mali,87,20,,,,,,107
+2006,Canada,Malta,2,1,,,,,,3
+2006,Canada,Mauritania,229,30,,,,,,259
+2006,Canada,Mauritius,6,6,,,,,,12
+2006,Canada,Mexico,2310,4839,,,,,,7149
+2006,Canada,Mongolia,48,39,,,,,,87
+2006,Canada,Morocco,97,49,,,,,,146
+2006,Canada,Mozambique,1,,,,,,,1
+2006,Canada,Myanmar,1429,23,,,,,,1452
+2006,Canada,Namibia,12,9,,,,,,21
+2006,Canada,Nepal,319,114,,,,,,433
+2006,Canada,Netherlands,4,10,,,,,,14
+2006,Canada,New Zealand,1,2,,,,,,3
+2006,Canada,Nicaragua,71,20,,,,,,91
+2006,Canada,Niger,37,10,,,,,,47
+2006,Canada,Nigeria,1722,691,,,,,,2413
+2006,Canada,Norway,1,,,,,,,1
+2006,Canada,Oman,5,1,,,,,,6
+2006,Canada,Pakistan,10888,710,,,,,,11598
+2006,Canada,Palestinian,396,56,,,,,,452
+2006,Canada,Panama,26,8,,,,,,34
+2006,Canada,Paraguay,25,21,,,,,,46
+2006,Canada,Peru,1589,218,,,,,,1807
+2006,Canada,Philippines,177,112,,,,,,289
+2006,Canada,Poland,344,44,,,,,,388
+2006,Canada,Portugal,3,27,,,,,,30
+2006,Canada,Qatar,2,1,,,,,,3
+2006,Canada,Rep. of Korea,182,246,,,,,,428
+2006,Canada,Rep. of Moldova,108,27,,,,,,135
+2006,Canada,Romania,654,116,,,,,,770
+2006,Canada,Russian Federation,1916,233,,,,,,2149
+2006,Canada,Rwanda,1226,231,,,,,,1457
+2006,Canada,Saint Kitts and Nevis,,4,,,,,,4
+2006,Canada,Saint Lucia,151,139,,,,,,290
+2006,Canada,Saint Vincent and the Grenadines,386,318,,,,,,704
+2006,Canada,Saudi Arabia,80,5,,,,,,85
+2006,Canada,Senegal,98,32,,,,,,130
+2006,Canada,Serbia and Kosovo (S/RES/1244 (1999)),546,119,7,,,,,672
+2006,Canada,Seychelles,4,1,,,,,,5
+2006,Canada,Sierra Leone,1323,21,,,,,,1344
+2006,Canada,Singapore,6,3,,,,,,9
+2006,Canada,Slovakia,11,5,,,,,,16
+2006,Canada,Slovenia,3,6,,,,,,9
+2006,Canada,Solomon Islands,10,26,,,,,,36
+2006,Canada,Somalia,4507,238,,,,,,4745
+2006,Canada,South Africa,16,22,,,,,,38
+2006,Canada,Spain,2,3,,,,,,5
+2006,Canada,Sri Lanka,9877,1086,4,,,,,10967
+2006,Canada,Stateless,1248,2,,,,,,1250
+2006,Canada,Sudan,6258,51,,,,,,6309
+2006,Canada,Suriname,3,8,,,,,,11
+2006,Canada,Swaziland,11,4,,,,,,15
+2006,Canada,Sweden,6,8,,,,,,14
+2006,Canada,Switzerland,3,,,,,,,3
+2006,Canada,Syrian Arab Rep.,415,41,,,,,,456
+2006,Canada,Tajikistan,113,2,,,,,,115
+2006,Canada,Thailand,24,10,,,,,,34
+2006,Canada,The former Yugoslav Republic of Macedonia,76,24,,,,,,100
+2006,Canada,Togo,259,24,,,,,,283
+2006,Canada,Tonga,,1,,,,,,1
+2006,Canada,Trinidad and Tobago,91,111,,,,,,202
+2006,Canada,Tunisia,129,37,,,,,,166
+2006,Canada,Turkey,3474,370,,,,,,3844
+2006,Canada,Turkmenistan,51,2,,,,,,53
+2006,Canada,Uganda,445,156,,,,,,601
+2006,Canada,Ukraine,1177,283,,,,,,1460
+2006,Canada,United Arab Emirates,10,2,,,,,,12
+2006,Canada,United Kingdom,32,11,,,,,,43
+2006,Canada,United Rep. of Tanzania,456,14,,,,,,470
+2006,Canada,United States of America,976,378,,,,,,1354
+2006,Canada,Uruguay,109,27,,,,,,136
+2006,Canada,Uzbekistan,346,46,,,,,,392
+2006,Canada,Various/Unknown,919,10,,,,,,929
+2006,Canada,Venezuela (Bolivarian Republic of),456,99,,,,,,555
+2006,Canada,Viet Nam,205,31,,,,,,236
+2006,Canada,Yemen,180,14,,,,,,194
+2006,Canada,Zambia,28,5,,,,,,33
+2006,Canada,Zimbabwe,2674,508,,,,,,3182
+2007,Canada,Afghanistan,3470,405,,,,,,3875
+2007,Canada,Albania,2509,372,,,,,,2881
+2007,Canada,Algeria,2806,118,,,,,,2924
+2007,Canada,Angola,1085,15,,,,,,1100
+2007,Canada,Antigua and Barbuda,24,,,,,,,24
+2007,Canada,Argentina,421,37,,,,,,458
+2007,Canada,Armenia,171,59,,,,,,230
+2007,Canada,Australia,2,1,,,,,,3
+2007,Canada,Austria,2,4,,,,,,6
+2007,Canada,Azerbaijan,727,27,,,,,,754
+2007,Canada,Bahamas,2,15,,,,,,17
+2007,Canada,Bahrain,7,2,,,,,,9
+2007,Canada,Bangladesh,3214,173,,,,,,3387
+2007,Canada,Barbados,25,30,,,,,,55
+2007,Canada,Belarus,293,62,,,,,,355
+2007,Canada,Belgium,2,5,,,,,,7
+2007,Canada,Belize,1,10,,,,,,11
+2007,Canada,Benin,53,14,,,,,,67
+2007,Canada,Bhutan,2,6,,,,,,8
+2007,Canada,Bolivia (Plurinational State of),149,35,,,,,,184
+2007,Canada,Bosnia and Herzegovina,132,61,3,,,,,196
+2007,Canada,Botswana,6,48,,,,,,54
+2007,Canada,Brazil,165,96,,,,,,261
+2007,Canada,Bulgaria,1552,67,,,,,,1619
+2007,Canada,Burkina Faso,115,15,,,,,,130
+2007,Canada,Burundi,1498,432,,,,,,1930
+2007,Canada,Cabo Verde,1,,,,,,,1
+2007,Canada,Cambodia,182,42,,,,,,224
+2007,Canada,Cameroon,660,205,,,,,,865
+2007,Canada,Canada,,46,,,,,,46
+2007,Canada,Central African Rep.,60,8,,,,,,68
+2007,Canada,Chad,745,122,,,,,,867
+2007,Canada,Chile,290,52,,,,,,342
+2007,Canada,China,14970,2322,,,,,,17292
+2007,Canada,"China, Hong Kong SAR",1,25,,,,,,26
+2007,Canada,Colombia,11843,3079,,,,,,14922
+2007,Canada,Comoros,7,,,,,,,7
+2007,Canada,Congo,308,39,,,,,,347
+2007,Canada,Costa Rica,315,43,,,,,,358
+2007,Canada,Croatia,93,24,,,,,,117
+2007,Canada,Cuba,2014,214,,,,,,2228
+2007,Canada,Cyprus,1,,,,,,,1
+2007,Canada,Czech Rep.,796,82,,,,,,878
+2007,Canada,Cote d'Ivoire,401,61,,,,,,462
+2007,Canada,Dem. People's Rep. of Korea,4,126,,,,,,130
+2007,Canada,Dem. Rep. of the Congo,5997,532,,,,,,6529
+2007,Canada,Denmark,3,1,,,,,,4
+2007,Canada,Djibouti,431,27,,,,,,458
+2007,Canada,Dominica,43,8,,,,,,51
+2007,Canada,Dominican Rep.,116,84,,,,,,200
+2007,Canada,Ecuador,261,57,,,,,,318
+2007,Canada,Egypt,640,84,,,,,,724
+2007,Canada,El Salvador,758,400,,,,,,1158
+2007,Canada,Equatorial Guinea,15,,,,,,,15
+2007,Canada,Eritrea,717,180,,,,,,897
+2007,Canada,Estonia,22,1,,,,,,23
+2007,Canada,Ethiopia,1652,201,,,,,,1853
+2007,Canada,Fiji,515,57,,,,,,572
+2007,Canada,Finland,,,,,,,,0
+2007,Canada,France,43,34,,,,,,77
+2007,Canada,Gabon,41,6,,,,,,47
+2007,Canada,Gambia,40,16,,,,,,56
+2007,Canada,Georgia,471,102,,,,,,573
+2007,Canada,Germany,41,57,,,,,,98
+2007,Canada,Ghana,495,90,,,,,,585
+2007,Canada,Greece,10,5,,,,,,15
+2007,Canada,Grenada,293,63,,,,,,356
+2007,Canada,Guatemala,689,275,,,,,,964
+2007,Canada,Guinea,1173,103,,,,,,1276
+2007,Canada,Guinea-Bissau,23,2,,,,,,25
+2007,Canada,Guyana,537,197,,,,,,734
+2007,Canada,Haiti,1295,4181,,,,,,5476
+2007,Canada,Holy See (the),,3,,,,,,3
+2007,Canada,Honduras,452,262,,,,,,714
+2007,Canada,Hungary,1183,68,,,,,,1251
+2007,Canada,India,7114,981,,,,,,8095
+2007,Canada,Indonesia,409,120,,,,,,529
+2007,Canada,Iran (Islamic Rep. of),6221,364,,,,,,6585
+2007,Canada,Iraq,1968,359,,,,,,2327
+2007,Canada,Ireland,9,,,,,,,9
+2007,Canada,Israel,645,744,,,,,,1389
+2007,Canada,Italy,8,10,,,,,,18
+2007,Canada,Jamaica,267,173,,,,,,440
+2007,Canada,Japan,13,5,,,,,,18
+2007,Canada,Jordan,300,128,,,,,,428
+2007,Canada,Kazakhstan,491,39,,,,,,530
+2007,Canada,Kenya,760,115,,,,,,875
+2007,Canada,Kiribati,1,,,,,,,1
+2007,Canada,Kuwait,143,7,,,,,,150
+2007,Canada,Kyrgyzstan,203,16,,,,,,219
+2007,Canada,Lao People's Dem. Rep.,4,5,,,,,,9
+2007,Canada,Latvia,76,5,,,,,,81
+2007,Canada,Lebanon,1218,467,,,,,,1685
+2007,Canada,Lesotho,1,,,,,,,1
+2007,Canada,Liberia,123,48,,,,,,171
+2007,Canada,Libya,308,46,,,,,,354
+2007,Canada,Lithuania,115,15,,,,,,130
+2007,Canada,Madagascar,14,,,,,,,14
+2007,Canada,Malawi,15,,,,,,,15
+2007,Canada,Malaysia,263,31,,,,,,294
+2007,Canada,Maldives,1,,,,,,,1
+2007,Canada,Mali,133,24,,,,,,157
+2007,Canada,Malta,3,1,,,,,,4
+2007,Canada,Mauritania,231,27,,,,,,258
+2007,Canada,Mauritius,6,5,,,,,,11
+2007,Canada,Mexico,4281,8243,,,,,,12524
+2007,Canada,Mongolia,87,51,,,,,,138
+2007,Canada,Montenegro,2,122,,,,,,124
+2007,Canada,Morocco,167,62,,,,,,229
+2007,Canada,Mozambique,5,,,,,,,5
+2007,Canada,Myanmar,205,26,,,,,,231
+2007,Canada,Namibia,15,16,,,,,,31
+2007,Canada,Nepal,513,161,,,,,,674
+2007,Canada,Netherlands,12,12,,,,,,24
+2007,Canada,New Zealand,1,1,,,,,,2
+2007,Canada,Nicaragua,238,57,,,,,,295
+2007,Canada,Niger,58,12,,,,,,70
+2007,Canada,Nigeria,2911,1157,,,,,,4068
+2007,Canada,Norway,1,5,,,,,,6
+2007,Canada,Oman,8,3,,,,,,11
+2007,Canada,Pakistan,15820,663,,,,,,16483
+2007,Canada,Palestinian,498,104,,,,,,602
+2007,Canada,Panama,43,24,,,,,,67
+2007,Canada,Paraguay,30,27,,,,,,57
+2007,Canada,Peru,2522,233,,,,,,2755
+2007,Canada,Philippines,235,149,,,,,,384
+2007,Canada,Poland,567,52,,,,,,619
+2007,Canada,Portugal,8,35,,,,,,43
+2007,Canada,Qatar,2,1,,,,,,3
+2007,Canada,Rep. of Korea,275,322,,,,,,597
+2007,Canada,Rep. of Moldova,248,46,,,,,,294
+2007,Canada,Romania,1286,127,,,,,,1413
+2007,Canada,Russian Federation,2960,310,,,,,,3270
+2007,Canada,Rwanda,1697,361,,,,,,2058
+2007,Canada,Saint Kitts and Nevis,,8,,,,,,8
+2007,Canada,Saint Lucia,216,179,,,,,,395
+2007,Canada,Saint Vincent and the Grenadines,644,504,,,,,,1148
+2007,Canada,Saudi Arabia,99,8,,,,,,107
+2007,Canada,Senegal,149,25,,,,,,174
+2007,Canada,Serbia and Kosovo (S/RES/1244 (1999)),1159,,1,,,,,1160
+2007,Canada,Seychelles,8,8,,,,,,16
+2007,Canada,Sierra Leone,254,35,,,,,,289
+2007,Canada,Singapore,19,7,,,,,,26
+2007,Canada,Slovakia,31,8,,,,,,39
+2007,Canada,Slovenia,6,9,,,,,,15
+2007,Canada,Solomon Islands,15,22,,,,,,37
+2007,Canada,Somalia,7206,331,,,,,,7537
+2007,Canada,South Africa,33,17,,,,,,50
+2007,Canada,Spain,6,6,,,,,,12
+2007,Canada,Sri Lanka,21279,1073,,,,,,22352
+2007,Canada,Stateless,1828,1,,,,,,1829
+2007,Canada,Sudan,1915,60,,,,,,1975
+2007,Canada,Suriname,3,9,,,,,,12
+2007,Canada,Swaziland,16,6,,,,,,22
+2007,Canada,Sweden,7,5,,,,,,12
+2007,Canada,Switzerland,3,,,,,,,3
+2007,Canada,Syrian Arab Rep.,624,88,,,,,,712
+2007,Canada,Tajikistan,34,4,,,,,,38
+2007,Canada,Thailand,32,142,,,,,,174
+2007,Canada,The former Yugoslav Republic of Macedonia,136,22,,,,,,158
+2007,Canada,Togo,280,21,,,,,,301
+2007,Canada,Tonga,,1,,,,,,1
+2007,Canada,Trinidad and Tobago,145,146,,,,,,291
+2007,Canada,Tunisia,236,67,,,,,,303
+2007,Canada,Turkey,4753,327,,,,,,5080
+2007,Canada,Turkmenistan,21,,,,,,,21
+2007,Canada,Uganda,491,156,,,,,,647
+2007,Canada,Ukraine,1911,332,,,,,,2243
+2007,Canada,United Arab Emirates,13,3,,,,,,16
+2007,Canada,United Kingdom,59,10,,,,,,69
+2007,Canada,United Rep. of Tanzania,546,24,,,,,,570
+2007,Canada,United States of America,1537,1090,,,,,,2627
+2007,Canada,Uruguay,145,18,,,,,,163
+2007,Canada,Uzbekistan,227,53,,,,,,280
+2007,Canada,Various/Unknown,349,148,,,,,,497
+2007,Canada,Venezuela (Bolivarian Republic of),823,178,,,,,,1001
+2007,Canada,Viet Nam,169,28,,,,,,197
+2007,Canada,Yemen,364,23,,,,,,387
+2007,Canada,Zambia,36,23,,,,,,59
+2007,Canada,Zimbabwe,3076,476,,,,,,3552
+2008,Canada,Afghanistan,3147,613,,,,,,3760
+2008,Canada,Albania,2496,659,,,,,,3155
+2008,Canada,Algeria,2295,140,,,,,,2435
+2008,Canada,Angola,1080,10,,,,,,1090
+2008,Canada,Antigua and Barbuda,25,25,,,,,,50
+2008,Canada,Argentina,410,57,,,,,,467
+2008,Canada,Armenia,172,73,,,,,,245
+2008,Canada,Australia,2,9,,,,,,11
+2008,Canada,Austria,2,1,,,,,,3
+2008,Canada,Azerbaijan,719,18,,,,,,737
+2008,Canada,Bahamas,2,21,,,,,,23
+2008,Canada,Bahrain,8,2,,,,,,10
+2008,Canada,Bangladesh,2768,208,,,,,,2976
+2008,Canada,Barbados,27,45,,,,,,72
+2008,Canada,Belarus,307,63,,,,,,370
+2008,Canada,Belgium,7,17,,,,,,24
+2008,Canada,Belize,4,8,,,,,,12
+2008,Canada,Benin,54,16,,,,,,70
+2008,Canada,Bhutan,8,3,,,,,,11
+2008,Canada,Bolivia (Plurinational State of),162,33,,,,,,195
+2008,Canada,Bosnia and Herzegovina,119,61,18,,,,,198
+2008,Canada,Botswana,14,148,,,,,,162
+2008,Canada,Brazil,176,154,,,,,,330
+2008,Canada,Bulgaria,1414,79,,,,,,1493
+2008,Canada,Burkina Faso,123,26,,,,,,149
+2008,Canada,Burundi,1650,387,,,,,,2037
+2008,Canada,Cabo Verde,1,1,,,,,,2
+2008,Canada,Cambodia,179,38,,,,,,217
+2008,Canada,Cameroon,680,278,,,,,,958
+2008,Canada,Canada,,46,,,,,,46
+2008,Canada,Central African Rep.,60,6,,,,,,66
+2008,Canada,Chad,771,103,,,,,,874
+2008,Canada,Chile,250,75,,,,,,325
+2008,Canada,China,15585,3044,,,,,,18629
+2008,Canada,"China, Hong Kong SAR",1,49,,,,,,50
+2008,Canada,Colombia,13080,4671,,,,,,17751
+2008,Canada,Comoros,7,3,,,,,,10
+2008,Canada,Congo,326,72,,,,,,398
+2008,Canada,Costa Rica,309,56,,,,,,365
+2008,Canada,Croatia,85,33,,,,,,118
+2008,Canada,Cuba,2041,258,,,,,,2299
+2008,Canada,Cyprus,1,1,,,,,,2
+2008,Canada,Czech Rep.,776,746,,,,,,1522
+2008,Canada,Cote d'Ivoire,424,72,,,,,,496
+2008,Canada,Dem. People's Rep. of Korea,4,126,,,,,,130
+2008,Canada,Dem. Rep. of the Congo,5687,729,,,,,,6416
+2008,Canada,Denmark,3,6,,,,,,9
+2008,Canada,Djibouti,429,55,,,,,,484
+2008,Canada,Dominica,44,19,,,,,,63
+2008,Canada,Dominican Rep.,126,110,,,,,,236
+2008,Canada,Ecuador,256,87,,,,,,343
+2008,Canada,Egypt,640,100,,,,,,740
+2008,Canada,El Salvador,849,803,,,,,,1652
+2008,Canada,Equatorial Guinea,15,6,,,,,,21
+2008,Canada,Eritrea,792,321,,,,,,1113
+2008,Canada,Estonia,23,,,,,,,23
+2008,Canada,Ethiopia,1732,318,,,,,,2050
+2008,Canada,Fiji,523,68,,,,,,591
+2008,Canada,France,46,45,,,,,,91
+2008,Canada,Gabon,49,8,,,,,,57
+2008,Canada,Gambia,45,24,,,,,,69
+2008,Canada,Georgia,486,158,,,,,,644
+2008,Canada,Germany,73,81,,,,,,154
+2008,Canada,Ghana,444,112,,,,,,556
+2008,Canada,Greece,11,10,,,,,,21
+2008,Canada,Grenada,305,65,,,,,,370
+2008,Canada,Guatemala,693,438,,,,,,1131
+2008,Canada,Guinea,1169,147,,,,,,1316
+2008,Canada,Guinea-Bissau,23,5,,,,,,28
+2008,Canada,Guyana,569,240,,,,,,809
+2008,Canada,Haiti,1410,8362,,,,,,9772
+2008,Canada,Holy See (the),,3,,,,,,3
+2008,Canada,Honduras,455,604,,,,,,1059
+2008,Canada,Hungary,1221,274,,,,,,1495
+2008,Canada,India,6718,1129,,,,,,7847
+2008,Canada,Indonesia,429,112,,,,,,541
+2008,Canada,Iran (Islamic Rep. of),5200,493,,,,,,5693
+2008,Canada,Iraq,1865,465,,,,,,2330
+2008,Canada,Ireland,7,1,,,,,,8
+2008,Canada,Israel,622,875,,,,,,1497
+2008,Canada,Italy,11,22,,,,,,33
+2008,Canada,Jamaica,303,337,,,,,,640
+2008,Canada,Japan,16,13,,,,,,29
+2008,Canada,Jordan,308,193,,,,,,501
+2008,Canada,Kazakhstan,353,34,,,,,,387
+2008,Canada,Kenya,820,172,,,,,,992
+2008,Canada,Kiribati,1,1,,,,,,2
+2008,Canada,Kuwait,130,13,,,,,,143
+2008,Canada,Kyrgyzstan,203,21,,,,,,224
+2008,Canada,Lao People's Dem. Rep.,5,19,,,,,,24
+2008,Canada,Latvia,71,14,,,,,,85
+2008,Canada,Lebanon,1190,443,,,,,,1633
+2008,Canada,Lesotho,1,2,,,,,,3
+2008,Canada,Liberia,115,70,,,,,,185
+2008,Canada,Libya,323,49,,,,,,372
+2008,Canada,Lithuania,117,19,,,,,,136
+2008,Canada,Madagascar,10,3,,,,,,13
+2008,Canada,Malawi,17,7,,,,,,24
+2008,Canada,Malaysia,271,41,,,,,,312
+2008,Canada,Maldives,1,,,,,,,1
+2008,Canada,Mali,132,28,,,,,,160
+2008,Canada,Malta,3,,,,,,,3
+2008,Canada,Mauritania,254,31,,,,,,285
+2008,Canada,Mauritius,6,5,,,,,,11
+2008,Canada,Mexico,4757,10658,,,,,,15415
+2008,Canada,Mongolia,101,61,,,,,,162
+2008,Canada,Montenegro,2,4,,,,,,6
+2008,Canada,Morocco,168,74,,,,,,242
+2008,Canada,Mozambique,6,1,,,,,,7
+2008,Canada,Myanmar,235,30,,,,,,265
+2008,Canada,Namibia,20,23,,,,,,43
+2008,Canada,Nepal,730,202,,,,,,932
+2008,Canada,Netherlands,23,14,,,,,,37
+2008,Canada,New Zealand,1,2,,,,,,3
+2008,Canada,Nicaragua,211,72,,,,,,283
+2008,Canada,Niger,61,19,,,,,,80
+2008,Canada,Nigeria,2882,1539,,,,,,4421
+2008,Canada,Norway,1,,,,,,,1
+2008,Canada,Oman,8,2,,,,,,10
+2008,Canada,Pakistan,15798,743,,,,,,16541
+2008,Canada,Palestinian,528,174,,,,,,702
+2008,Canada,Panama,45,31,,,,,,76
+2008,Canada,Papua New Guinea,,2,,,,,,2
+2008,Canada,Paraguay,31,22,,,,,,53
+2008,Canada,Peru,2421,333,,,,,,2754
+2008,Canada,Philippines,274,231,,,,,,505
+2008,Canada,Poland,545,127,,,,,,672
+2008,Canada,Portugal,15,33,,,,,,48
+2008,Canada,Qatar,4,1,,,,,,5
+2008,Canada,Rep. of Korea,283,395,,,,,,678
+2008,Canada,Rep. of Moldova,224,95,,,,,,319
+2008,Canada,Romania,1203,134,,,,,,1337
+2008,Canada,Russian Federation,2770,386,,,,,,3156
+2008,Canada,Rwanda,1680,450,,,,,,2130
+2008,Canada,Saint Kitts and Nevis,2,8,,,,,,10
+2008,Canada,Saint Lucia,278,336,,,,,,614
+2008,Canada,Saint Vincent and the Grenadines,748,744,,,,,,1492
+2008,Canada,Sao Tome and Principe,,,,,,,,0
+2008,Canada,Saudi Arabia,128,12,,,,,,140
+2008,Canada,Senegal,159,44,,,,,,203
+2008,Canada,Serbia and Kosovo (S/RES/1244 (1999)),1006,189,1,,,,,1196
+2008,Canada,Seychelles,8,8,,,,,,16
+2008,Canada,Sierra Leone,258,45,,,,,,303
+2008,Canada,Singapore,24,6,,,,,,30
+2008,Canada,Slovakia,35,50,,,,,,85
+2008,Canada,Slovenia,10,12,,,,,,22
+2008,Canada,Solomon Islands,19,,,,,,,19
+2008,Canada,Somalia,6209,636,,,,,,6845
+2008,Canada,South Africa,33,27,,,,,,60
+2008,Canada,Spain,9,17,,,,,,26
+2008,Canada,Sri Lanka,20442,1025,,,,,,21467
+2008,Canada,Stateless,1669,22,,,,,,1691
+2008,Canada,Sudan,1739,71,,,,,,1810
+2008,Canada,Suriname,3,11,,,,,,14
+2008,Canada,Swaziland,17,37,,,,,,54
+2008,Canada,Sweden,6,14,,,,,,20
+2008,Canada,Switzerland,9,2,,,,,,11
+2008,Canada,Syrian Arab Rep.,603,133,,,,,,736
+2008,Canada,Tajikistan,40,11,,,,,,51
+2008,Canada,Thailand,34,177,,,,,,211
+2008,Canada,The former Yugoslav Republic of Macedonia,140,40,,,,,,180
+2008,Canada,Tibetan,58,,,,,,,58
+2008,Canada,Togo,281,36,,,,,,317
+2008,Canada,Tonga,,1,,,,,,1
+2008,Canada,Trinidad and Tobago,164,220,,,,,,384
+2008,Canada,Tunisia,238,71,,,,,,309
+2008,Canada,Turkey,4691,423,,,,,,5114
+2008,Canada,Turkmenistan,22,2,,,,,,24
+2008,Canada,Uganda,542,134,,,,,,676
+2008,Canada,Ukraine,1904,401,,,,,,2305
+2008,Canada,United Arab Emirates,28,8,,,,,,36
+2008,Canada,United Kingdom,61,2,,,,,,63
+2008,Canada,United Rep. of Tanzania,561,49,,,,,,610
+2008,Canada,United States of America,1746,1735,,,,,,3481
+2008,Canada,Uruguay,150,41,,,,,,191
+2008,Canada,Uzbekistan,238,45,,,,,,283
+2008,Canada,Vanuatu,,,,,,,,0
+2008,Canada,Various/Unknown,161,154,,,,,,315
+2008,Canada,Venezuela (Bolivarian Republic of),764,294,,,,,,1058
+2008,Canada,Viet Nam,171,29,,,,,,200
+2008,Canada,Yemen,331,30,,,,,,361
+2008,Canada,Zambia,39,27,,,,,,66
+2008,Canada,Zimbabwe,3455,601,,,,,,4056
+2009,Canada,Afghanistan,3015,690,,,,,,3705
+2009,Canada,Albania,2340,611,,,,,,2951
+2009,Canada,Algeria,1580,197,,,,,,1777
+2009,Canada,Angola,1067,23,,,,,,1090
+2009,Canada,Antigua and Barbuda,27,41,,,,,,68
+2009,Canada,Argentina,394,68,,,,,,462
+2009,Canada,Armenia,173,58,,,,,,231
+2009,Canada,Australia,2,9,,,,,,11
+2009,Canada,Austria,1,,,,,,,1
+2009,Canada,Azerbaijan,723,36,,,,,,759
+2009,Canada,Bahamas,2,27,,,,,,29
+2009,Canada,Bahrain,6,,,,,,,6
+2009,Canada,Bangladesh,2445,251,,,,,,2696
+2009,Canada,Barbados,28,66,,,,,,94
+2009,Canada,Belarus,312,50,,,,,,362
+2009,Canada,Belgium,12,14,,,,,,26
+2009,Canada,Belize,5,7,,,,,,12
+2009,Canada,Benin,54,18,,,,,,72
+2009,Canada,Bermuda,,,,,,,,0
+2009,Canada,Bhutan,10,,,,,,,10
+2009,Canada,Bolivia (Plurinational State of),160,39,,,,,,199
+2009,Canada,Bosnia and Herzegovina,110,54,6,,,,,170
+2009,Canada,Botswana,22,190,,,,,,212
+2009,Canada,Brazil,168,178,,,,,,346
+2009,Canada,Bulgaria,1238,70,,,,,,1308
+2009,Canada,Burkina Faso,126,39,,,,,,165
+2009,Canada,Burundi,1827,246,,,,,,2073
+2009,Canada,Cabo Verde,1,1,,,,,,2
+2009,Canada,Cambodia,174,37,,,,,,211
+2009,Canada,Cameroon,708,289,,,,,,997
+2009,Canada,Central African Rep.,58,2,,,,,,60
+2009,Canada,Chad,708,89,,,,,,797
+2009,Canada,Chile,211,110,,,,,,321
+2009,Canada,China,16075,2971,,,,,,19046
+2009,Canada,"China, Hong Kong SAR",1,66,,,,,,67
+2009,Canada,Colombia,14300,3725,,,,,,18025
+2009,Canada,Comoros,7,2,,,,,,9
+2009,Canada,Congo,331,102,,,,,,433
+2009,Canada,Costa Rica,314,67,,,,,,381
+2009,Canada,Croatia,86,79,,,,,,165
+2009,Canada,Cuba,1988,381,,,,,,2369
+2009,Canada,Cyprus,1,1,,,,,,2
+2009,Canada,Czech Rep.,489,2057,,,,,,2546
+2009,Canada,Cote d'Ivoire,425,90,,,,,,515
+2009,Canada,Dem. People's Rep. of Korea,4,59,,,,,,63
+2009,Canada,Dem. Rep. of the Congo,5284,695,,,,,,5979
+2009,Canada,Denmark,3,,,,,,,3
+2009,Canada,Djibouti,364,130,,,,,,494
+2009,Canada,Dominica,44,18,,,,,,62
+2009,Canada,Dominican Rep.,132,165,,,,,,297
+2009,Canada,Ecuador,264,114,,,,,,378
+2009,Canada,Egypt,607,101,,,,,,708
+2009,Canada,El Salvador,889,1107,,,,,,1996
+2009,Canada,Equatorial Guinea,15,11,,,,,,26
+2009,Canada,Eritrea,918,274,,,,,,1192
+2009,Canada,Estonia,21,7,,,,,,28
+2009,Canada,Ethiopia,1742,312,,,,,,2054
+2009,Canada,Fiji,528,76,,,,,,604
+2009,Canada,Finland,,2,,,,,,2
+2009,Canada,France,40,59,,,,,,99
+2009,Canada,Gabon,50,8,,,,,,58
+2009,Canada,Gambia,41,25,,,,,,66
+2009,Canada,Georgia,501,165,,,,,,666
+2009,Canada,Germany,81,69,,,,,,150
+2009,Canada,Ghana,418,129,,,,,,547
+2009,Canada,Greece,15,16,,,,,,31
+2009,Canada,Grenada,325,88,,,,,,413
+2009,Canada,Guatemala,686,560,,,,,,1246
+2009,Canada,Guinea,1152,175,,,,,,1327
+2009,Canada,Guinea-Bissau,23,7,,,,,,30
+2009,Canada,Guyana,591,279,,,,,,870
+2009,Canada,Haiti,1662,7506,,,,,,9168
+2009,Canada,Honduras,467,599,,,,,,1066
+2009,Canada,Hungary,1158,2434,,,,,,3592
+2009,Canada,Iceland,,1,,,,,,1
+2009,Canada,India,6245,1039,,,,,,7284
+2009,Canada,Indonesia,419,72,,,,,,491
+2009,Canada,Iran (Islamic Rep. of),4499,557,,,,,,5056
+2009,Canada,Iraq,1760,419,,,,,,2179
+2009,Canada,Ireland,7,3,,,,,,10
+2009,Canada,Israel,636,921,,,,,,1557
+2009,Canada,Italy,13,21,,,,,,34
+2009,Canada,Jamaica,337,502,,,,,,839
+2009,Canada,Japan,16,15,,,,,,31
+2009,Canada,Jordan,304,190,,,,,,494
+2009,Canada,Kazakhstan,300,33,,,,,,333
+2009,Canada,Kenya,849,201,,,,,,1050
+2009,Canada,Kiribati,1,,,,,,,1
+2009,Canada,Kuwait,104,16,,,,,,120
+2009,Canada,Kyrgyzstan,196,17,,,,,,213
+2009,Canada,Lao People's Dem. Rep.,5,39,,,,,,44
+2009,Canada,Latvia,67,61,,,,,,128
+2009,Canada,Lebanon,1128,323,,,,,,1451
+2009,Canada,Lesotho,5,3,,,,,,8
+2009,Canada,Liberia,103,92,,,,,,195
+2009,Canada,Libya,305,61,,,,,,366
+2009,Canada,Lithuania,113,64,,,,,,177
+2009,Canada,Madagascar,10,10,,,,,,20
+2009,Canada,Malawi,21,12,,,,,,33
+2009,Canada,Malaysia,265,42,,,,,,307
+2009,Canada,Maldives,1,,,,,,,1
+2009,Canada,Mali,125,26,,,,,,151
+2009,Canada,Malta,3,,,,,,,3
+2009,Canada,Mauritania,268,44,,,,,,312
+2009,Canada,Mauritius,7,5,,,,,,12
+2009,Canada,Mexico,5000,13873,,,,,,18873
+2009,Canada,Mongolia,108,53,,,,,,161
+2009,Canada,Montenegro,2,17,,,,,,19
+2009,Canada,Morocco,174,88,,,,,,262
+2009,Canada,Mozambique,5,1,,,,,,6
+2009,Canada,Myanmar,257,15,,,,,,272
+2009,Canada,Namibia,22,43,,,,,,65
+2009,Canada,Nepal,809,269,,,,,,1078
+2009,Canada,Netherlands,27,13,,,,,,40
+2009,Canada,New Zealand,1,,,,,,,1
+2009,Canada,Nicaragua,172,79,,,,,,251
+2009,Canada,Niger,56,32,,,,,,88
+2009,Canada,Nigeria,2962,1633,,,,,,4595
+2009,Canada,Norway,1,5,,,,,,6
+2009,Canada,Oman,10,5,,,,,,15
+2009,Canada,Pakistan,15346,739,,,,,,16085
+2009,Canada,Palau,,,,,,,,0
+2009,Canada,Palestinian,537,175,,,,,,712
+2009,Canada,Panama,44,36,,,,,,80
+2009,Canada,Papua New Guinea,,2,,,,,,2
+2009,Canada,Paraguay,36,20,,,,,,56
+2009,Canada,Peru,2303,364,,,,,,2667
+2009,Canada,Philippines,294,302,,,,,,596
+2009,Canada,Poland,519,156,,,,,,675
+2009,Canada,Portugal,12,41,,,,,,53
+2009,Canada,Puerto Rico,,,,,,,,0
+2009,Canada,Qatar,4,3,,,,,,7
+2009,Canada,Rep. of Korea,290,261,,,,,,551
+2009,Canada,Rep. of Moldova,185,122,,,,,,307
+2009,Canada,Romania,1088,168,,,,,,1256
+2009,Canada,Russian Federation,2612,389,,,,,,3001
+2009,Canada,Rwanda,1550,373,,,,,,1923
+2009,Canada,Saint Kitts and Nevis,2,11,,,,,,13
+2009,Canada,Saint Lucia,312,597,,,,,,909
+2009,Canada,Saint Vincent and the Grenadines,847,1072,,,,,,1919
+2009,Canada,San Marino,,,,,,,,0
+2009,Canada,Saudi Arabia,126,18,,,,,,144
+2009,Canada,Senegal,172,72,,,,,,244
+2009,Canada,Serbia and Kosovo (S/RES/1244 (1999)),763,225,1,,,,,989
+2009,Canada,Seychelles,10,7,,,,,,17
+2009,Canada,Sierra Leone,254,33,,,,,,287
+2009,Canada,Singapore,25,4,,,,,,29
+2009,Canada,Slovakia,35,325,,,,,,360
+2009,Canada,Slovenia,9,16,,,,,,25
+2009,Canada,Solomon Islands,33,,,,,,,33
+2009,Canada,Somalia,5150,935,,,,,,6085
+2009,Canada,South Africa,38,44,,,,,,82
+2009,Canada,Spain,15,33,,,,,,48
+2009,Canada,Sri Lanka,19143,763,,,,,,19906
+2009,Canada,Stateless,1677,6,,,,,,1683
+2009,Canada,Sudan,1615,59,,,,,,1674
+2009,Canada,Suriname,6,7,,,,,,13
+2009,Canada,Swaziland,17,53,,,,,,70
+2009,Canada,Sweden,6,12,,,,,,18
+2009,Canada,Switzerland,9,3,,,,,,12
+2009,Canada,Syrian Arab Rep.,577,183,,,,,,760
+2009,Canada,Tajikistan,45,13,,,,,,58
+2009,Canada,Thailand,37,214,,,,,,251
+2009,Canada,The former Yugoslav Republic of Macedonia,137,56,,,,,,193
+2009,Canada,Tibetan,58,,,,,,,58
+2009,Canada,Togo,282,44,,,,,,326
+2009,Canada,Tonga,,,,,,,,0
+2009,Canada,Trinidad and Tobago,186,248,,,,,,434
+2009,Canada,Tunisia,225,85,,,,,,310
+2009,Canada,Turkey,4611,486,,,,,,5097
+2009,Canada,Turkmenistan,23,4,,,,,,27
+2009,Canada,Uganda,616,121,,,,,,737
+2009,Canada,Ukraine,1914,378,,,,,,2292
+2009,Canada,United Arab Emirates,30,22,,,,,,52
+2009,Canada,United Kingdom,57,20,,,,,,77
+2009,Canada,United Rep. of Tanzania,569,68,,,,,,637
+2009,Canada,United States of America,2019,1419,,,,,,3438
+2009,Canada,Uruguay,150,54,,,,,,204
+2009,Canada,Uzbekistan,243,44,,,,,,287
+2009,Canada,Vanuatu,,1,,,,,,1
+2009,Canada,Various/Unknown,143,26,,,,,,169
+2009,Canada,Venezuela (Bolivarian Republic of),721,405,,,,,,1126
+2009,Canada,Viet Nam,171,43,,,,,,214
+2009,Canada,Yemen,286,33,,,,,,319
+2009,Canada,Zambia,43,23,,,,,,66
+2009,Canada,Zimbabwe,3740,578,,,,,,4318
+2010,Canada,Afghanistan,2727,592,,,,,,3319
+2010,Canada,Albania,2166,507,,,,,,2673
+2010,Canada,Algeria,877,256,,,,,,1133
+2010,Canada,Angola,1030,23,,,,,,1053
+2010,Canada,Antigua and Barbuda,28,27,,,,,,55
+2010,Canada,Argentina,363,63,,,,,,426
+2010,Canada,Armenia,179,40,,,,,,219
+2010,Canada,Aruba,,1,,,,,,1
+2010,Canada,Australia,3,10,,,,,,13
+2010,Canada,Austria,,1,,,,,,1
+2010,Canada,Azerbaijan,714,37,,,,,,751
+2010,Canada,Bahamas,3,28,,,,,,31
+2010,Canada,Bahrain,5,6,,,,,,11
+2010,Canada,Bangladesh,2213,251,,,,,,2464
+2010,Canada,Barbados,29,63,,,,,,92
+2010,Canada,Belarus,327,40,,,,,,367
+2010,Canada,Belgium,16,6,,,,,,22
+2010,Canada,Belize,5,5,,,,,,10
+2010,Canada,Benin,61,10,,,,,,71
+2010,Canada,Bermuda,,1,,,,,,1
+2010,Canada,Bhutan,18,2,,,,,,20
+2010,Canada,Bolivia (Plurinational State of),165,28,,,,,,193
+2010,Canada,Bosnia and Herzegovina,104,63,7,,,,,174
+2010,Canada,Botswana,38,170,,,,,,208
+2010,Canada,Brazil,168,179,,,,,,347
+2010,Canada,Bulgaria,1119,71,,,,,,1190
+2010,Canada,Burkina Faso,140,25,,,,,,165
+2010,Canada,Burundi,1968,212,,,,,,2180
+2010,Canada,Cabo Verde,,1,,,,,,1
+2010,Canada,Cambodia,161,25,,,,,,186
+2010,Canada,Cameroon,746,246,,,,,,992
+2010,Canada,Central African Rep.,60,2,,,,,,62
+2010,Canada,Chad,617,51,,,,,,668
+2010,Canada,Chile,162,110,,,,,,272
+2010,Canada,China,16451,2971,,,,,,19422
+2010,Canada,"China, Hong Kong SAR",6,81,,,,,,87
+2010,Canada,Colombia,16054,2692,,,,,,18746
+2010,Canada,Comoros,6,1,,,,,,7
+2010,Canada,Congo,348,87,,,,,,435
+2010,Canada,Costa Rica,320,74,,,,,,394
+2010,Canada,Croatia,69,252,,,,,,321
+2010,Canada,Cuba,1821,264,,,,,,2085
+2010,Canada,Cyprus,1,1,,,,,,2
+2010,Canada,Czech Rep.,275,1123,,,,,,1398
+2010,Canada,Cote d'Ivoire,421,86,,,,,,507
+2010,Canada,Dem. People's Rep. of Korea,23,179,,,,,,202
+2010,Canada,Dem. Rep. of the Congo,4725,682,,,,,,5407
+2010,Canada,Denmark,6,1,,,,,,7
+2010,Canada,Djibouti,275,193,,,,,,468
+2010,Canada,Dominica,43,16,,,,,,59
+2010,Canada,Dominican Rep.,129,175,,,,,,304
+2010,Canada,Ecuador,226,91,,,,,,317
+2010,Canada,Egypt,573,164,,,,,,737
+2010,Canada,El Salvador,912,1117,,,,,,2029
+2010,Canada,Equatorial Guinea,11,10,,,,,,21
+2010,Canada,Eritrea,1136,247,,,,,,1383
+2010,Canada,Estonia,17,15,,,,,,32
+2010,Canada,Ethiopia,1761,245,,,,,,2006
+2010,Canada,Fiji,542,79,,,,,,621
+2010,Canada,Finland,,2,,,,,,2
+2010,Canada,France,36,33,,,,,,69
+2010,Canada,Gabon,54,15,,,,,,69
+2010,Canada,Gambia,49,32,,,,,,81
+2010,Canada,Georgia,495,177,,,,,,672
+2010,Canada,Germany,80,25,,,,,,105
+2010,Canada,Ghana,379,117,,,,,,496
+2010,Canada,Greece,12,31,,,,,,43
+2010,Canada,Grenada,325,63,,,,,,388
+2010,Canada,Guatemala,678,619,,,,,,1297
+2010,Canada,Guinea,1094,185,,,,,,1279
+2010,Canada,Guinea-Bissau,23,7,,,,,,30
+2010,Canada,Guyana,602,160,,,,,,762
+2010,Canada,Haiti,2906,3936,,,,,,6842
+2010,Canada,Honduras,492,612,,,,,,1104
+2010,Canada,Hungary,1081,3534,,,,,,4615
+2010,Canada,Iceland,,2,,,,,,2
+2010,Canada,India,5954,1144,,,,,,7098
+2010,Canada,Indonesia,374,56,,,,,,430
+2010,Canada,Iran (Islamic Rep. of),3819,517,,,,,,4336
+2010,Canada,Iraq,1730,291,,,,,,2021
+2010,Canada,Ireland,7,2,,,,,,9
+2010,Canada,Israel,622,650,,,,,,1272
+2010,Canada,Italy,13,42,,,,,,55
+2010,Canada,Jamaica,348,520,,,,,,868
+2010,Canada,Japan,15,3,,,,,,18
+2010,Canada,Jordan,322,135,,,,,,457
+2010,Canada,Kazakhstan,229,46,,,,,,275
+2010,Canada,Kenya,882,153,,,,,,1035
+2010,Canada,Kiribati,1,1,,,,,,2
+2010,Canada,Kuwait,73,32,,,,,,105
+2010,Canada,Kyrgyzstan,185,22,,,,,,207
+2010,Canada,Lao People's Dem. Rep.,5,39,,,,,,44
+2010,Canada,Latvia,51,167,,,,,,218
+2010,Canada,Lebanon,1133,272,,,,,,1405
+2010,Canada,Lesotho,5,3,,,,,,8
+2010,Canada,Liberia,99,73,,,,,,172
+2010,Canada,Libya,292,74,,,,,,366
+2010,Canada,Lithuania,114,103,,,,,,217
+2010,Canada,Madagascar,10,8,,,,,,18
+2010,Canada,Malawi,21,14,,,,,,35
+2010,Canada,Malaysia,265,20,,,,,,285
+2010,Canada,Maldives,1,,,,,,,1
+2010,Canada,Mali,119,24,,,,,,143
+2010,Canada,Malta,2,1,,,,,,3
+2010,Canada,Mauritania,284,56,,,,,,340
+2010,Canada,Mauritius,7,2,,,,,,9
+2010,Canada,Mexico,5281,9322,,,,,,14603
+2010,Canada,Mongolia,113,48,,,,,,161
+2010,Canada,Montenegro,2,23,,,,,,25
+2010,Canada,Morocco,167,96,,,,,,263
+2010,Canada,Mozambique,6,1,,,,,,7
+2010,Canada,Myanmar,265,19,,,,,,284
+2010,Canada,Namibia,26,335,,,,,,361
+2010,Canada,Nepal,863,222,,,,,,1085
+2010,Canada,Netherlands,29,16,,,,,,45
+2010,Canada,New Zealand,2,1,,,,,,3
+2010,Canada,Nicaragua,132,87,,,,,,219
+2010,Canada,Niger,57,29,,,,,,86
+2010,Canada,Nigeria,3171,1552,,,,,,4723
+2010,Canada,Norway,1,,,,,,,1
+2010,Canada,Oman,10,6,,,,,,16
+2010,Canada,Pakistan,14526,821,,,,,,15347
+2010,Canada,Palestinian,584,109,,,,,,693
+2010,Canada,Panama,45,41,,,,,,86
+2010,Canada,Papua New Guinea,,1,,,,,,1
+2010,Canada,Paraguay,40,11,,,,,,51
+2010,Canada,Peru,2209,257,,,,,,2466
+2010,Canada,Philippines,300,272,,,,,,572
+2010,Canada,Poland,477,132,,,,,,609
+2010,Canada,Portugal,12,60,,,,,,72
+2010,Canada,Qatar,4,7,,,,,,11
+2010,Canada,Rep. of Korea,296,188,,,,,,484
+2010,Canada,Rep. of Moldova,161,119,,,,,,280
+2010,Canada,Romania,952,208,,,,,,1160
+2010,Canada,Russian Federation,2311,364,,,,,,2675
+2010,Canada,Rwanda,1494,275,,,,,,1769
+2010,Canada,Saint Kitts and Nevis,4,12,,,,,,16
+2010,Canada,Saint Lucia,328,683,,,,,,1011
+2010,Canada,Saint Vincent and the Grenadines,941,1047,,,,,,1988
+2010,Canada,San Marino,1,,,,,,,1
+2010,Canada,Saudi Arabia,122,35,,,,,,157
+2010,Canada,Senegal,172,82,,,,,,254
+2010,Canada,Serbia and Kosovo (S/RES/1244 (1999)),573,263,,,,,,836
+2010,Canada,Seychelles,10,2,,,,,,12
+2010,Canada,Sierra Leone,233,17,,,,,,250
+2010,Canada,Singapore,26,10,,,,,,36
+2010,Canada,Slovakia,28,419,,,,,,447
+2010,Canada,Slovenia,9,15,,,,,,24
+2010,Canada,Solomon Islands,38,,,,,,,38
+2010,Canada,Somalia,4149,875,,,,,,5024
+2010,Canada,South Africa,37,53,,,,,,90
+2010,Canada,Spain,13,40,,,,,,53
+2010,Canada,Sri Lanka,16967,1283,,,,,,18250
+2010,Canada,Stateless,1738,2,,,,,,1740
+2010,Canada,Sudan,1431,59,,,,,,1490
+2010,Canada,Suriname,10,4,,,,,,14
+2010,Canada,Swaziland,19,45,,,,,,64
+2010,Canada,Sweden,7,23,,,,,,30
+2010,Canada,Switzerland,10,1,,,,,,11
+2010,Canada,Syrian Arab Rep.,545,221,,,,,,766
+2010,Canada,Tajikistan,44,13,,,,,,57
+2010,Canada,Thailand,37,93,,,,,,130
+2010,Canada,The former Yugoslav Republic of Macedonia,123,57,,,,,,180
+2010,Canada,Tibetan,58,,,,,,,58
+2010,Canada,Togo,274,33,,,,,,307
+2010,Canada,Trinidad and Tobago,192,141,,,,,,333
+2010,Canada,Tunisia,223,84,,,,,,307
+2010,Canada,Turkey,4465,523,,,,,,4988
+2010,Canada,Turkmenistan,23,5,,,,,,28
+2010,Canada,Turks and Caicos Islands,,2,,,,,,2
+2010,Canada,US Virgin Islands,,,,,,,,0
+2010,Canada,Uganda,682,108,,,,,,790
+2010,Canada,Ukraine,1871,341,,,,,,2212
+2010,Canada,United Arab Emirates,30,19,,,,,,49
+2010,Canada,United Kingdom,57,32,,,,,,89
+2010,Canada,United Rep. of Tanzania,568,50,,,,,,618
+2010,Canada,United States of America,2637,818,,,,,,3455
+2010,Canada,Uruguay,147,44,,,,,,191
+2010,Canada,Uzbekistan,247,65,,,,,,312
+2010,Canada,Vanuatu,,1,,,,,,1
+2010,Canada,Various/Unknown,118,5,,,,,,123
+2010,Canada,Venezuela (Bolivarian Republic of),680,354,,,,,,1034
+2010,Canada,Viet Nam,163,33,,,,,,196
+2010,Canada,Yemen,274,30,,,,,,304
+2010,Canada,Zambia,52,17,,,,,,69
+2010,Canada,Zimbabwe,3986,326,,,,,,4312
+2011,Canada,Afghanistan,2659,450,,,,,,3109
+2011,Canada,Albania,1900,443,,,,,,2343
+2011,Canada,Algeria,628,283,,,,,,911
+2011,Canada,Angola,893,10,,,,,,903
+2011,Canada,Antigua and Barbuda,27,32,,,,,,59
+2011,Canada,Argentina,312,38,,,,,,350
+2011,Canada,Armenia,192,55,,,,,,247
+2011,Canada,Aruba,,,,,,,,0
+2011,Canada,Australia,3,5,,,,,,8
+2011,Canada,Austria,,,,,,,,0
+2011,Canada,Azerbaijan,683,42,,,,,,725
+2011,Canada,Bahamas,10,35,,,,,,45
+2011,Canada,Bahrain,5,10,,,,,,15
+2011,Canada,Bangladesh,2076,223,,,,,,2299
+2011,Canada,Barbados,42,73,,,,,,115
+2011,Canada,Belarus,311,32,,,,,,343
+2011,Canada,Belgium,17,1,,,,,,18
+2011,Canada,Belize,5,9,,,,,,14
+2011,Canada,Benin,56,20,,,,,,76
+2011,Canada,Bermuda,,5,,,,,,5
+2011,Canada,Bhutan,18,,,,,,,18
+2011,Canada,Bolivia (Plurinational State of),159,22,,,,,,181
+2011,Canada,Bosnia and Herzegovina,93,106,3,,,,,202
+2011,Canada,Botswana,69,150,,,,,,219
+2011,Canada,Brazil,169,95,,,,,,264
+2011,Canada,Brunei Darussalam,,1,,,,,,1
+2011,Canada,Bulgaria,1011,69,,,,,,1080
+2011,Canada,Burkina Faso,149,25,,,,,,174
+2011,Canada,Burundi,2148,222,,,,,,2370
+2011,Canada,Cabo Verde,,,,,,,,0
+2011,Canada,Cambodia,174,57,,,,,,231
+2011,Canada,Cameroon,798,187,,,,,,985
+2011,Canada,Cayman Islands,,2,,,,,,2
+2011,Canada,Central African Rep.,63,5,,,,,,68
+2011,Canada,Chad,568,31,,,,,,599
+2011,Canada,Chile,134,78,,,,,,212
+2011,Canada,China,17024,3165,,,,,,20189
+2011,Canada,"China, Hong Kong SAR",6,,,,,,,6
+2011,Canada,Colombia,17243,1882,,,,,,19125
+2011,Canada,Comoros,4,1,,,,,,5
+2011,Canada,Congo,312,88,,,,,,400
+2011,Canada,Costa Rica,289,34,,,,,,323
+2011,Canada,Croatia,61,647,,,,,,708
+2011,Canada,Cuba,1739,198,,,,,,1937
+2011,Canada,Cyprus,1,2,,,,,,3
+2011,Canada,Czech Rep.,237,651,,,,,,888
+2011,Canada,Cote d'Ivoire,427,132,,,,,,559
+2011,Canada,Dem. People's Rep. of Korea,64,393,,,,,,457
+2011,Canada,Dem. Rep. of the Congo,4381,630,,,,,,5011
+2011,Canada,Denmark,6,,,,,,,6
+2011,Canada,Djibouti,246,209,,,,,,455
+2011,Canada,Dominica,39,6,,,,,,45
+2011,Canada,Dominican Rep.,134,174,,,,,,308
+2011,Canada,Ecuador,229,61,,,,,,290
+2011,Canada,Egypt,555,193,,,,,,748
+2011,Canada,El Salvador,1023,830,,,,,,1853
+2011,Canada,Equatorial Guinea,12,2,,,,,,14
+2011,Canada,Eritrea,1350,150,,,,,,1500
+2011,Canada,Estonia,15,25,,,,,,40
+2011,Canada,Ethiopia,1928,177,,,,,,2105
+2011,Canada,Fiji,527,43,,,,,,570
+2011,Canada,Finland,1,4,,,,,,5
+2011,Canada,France,35,46,,,,,,81
+2011,Canada,Gabon,52,19,,,,,,71
+2011,Canada,Gambia,51,20,,,,,,71
+2011,Canada,Georgia,506,131,,,,,,637
+2011,Canada,Germany,84,17,,,,,,101
+2011,Canada,Ghana,370,104,,,,,,474
+2011,Canada,Greece,13,33,,,,,,46
+2011,Canada,Grenada,303,36,,,,,,339
+2011,Canada,Guatemala,707,480,,,,,,1187
+2011,Canada,Guinea,1018,173,,,,,,1191
+2011,Canada,Guinea-Bissau,23,4,,,,,,27
+2011,Canada,Guyana,626,85,,,,,,711
+2011,Canada,Haiti,4963,1369,,,,,,6332
+2011,Canada,Honduras,538,499,,,,,,1037
+2011,Canada,Hungary,893,5975,,,,,,6868
+2011,Canada,Iceland,,1,,,,,,1
+2011,Canada,India,5621,1173,,,,,,6794
+2011,Canada,Indonesia,368,47,,,,,,415
+2011,Canada,Iran (Islamic Rep. of),3440,429,,,,,,3869
+2011,Canada,Iraq,1712,165,615,,,,,2492
+2011,Canada,Ireland,7,4,,,,,,11
+2011,Canada,Israel,646,386,,,,,,1032
+2011,Canada,Italy,13,32,,,,,,45
+2011,Canada,Jamaica,408,417,,,,,,825
+2011,Canada,Japan,19,31,,,,,,50
+2011,Canada,Jordan,366,109,,,,,,475
+2011,Canada,Kazakhstan,189,61,,,,,,250
+2011,Canada,Kenya,942,80,,,,,,1022
+2011,Canada,Kiribati,1,,,,,,,1
+2011,Canada,Kuwait,70,34,,,,,,104
+2011,Canada,Kyrgyzstan,165,20,,,,,,185
+2011,Canada,Lao People's Dem. Rep.,5,11,,,,,,16
+2011,Canada,Latvia,47,134,,,,,,181
+2011,Canada,Lebanon,1104,212,,,,,,1316
+2011,Canada,Lesotho,5,1,,,,,,6
+2011,Canada,Liberia,106,32,,,,,,138
+2011,Canada,Libya,246,178,,,,,,424
+2011,Canada,Lithuania,109,98,,,,,,207
+2011,Canada,Madagascar,10,6,,,,,,16
+2011,Canada,Malawi,23,8,,,,,,31
+2011,Canada,Malaysia,235,32,,,,,,267
+2011,Canada,Maldives,1,,,,,,,1
+2011,Canada,Mali,109,29,,,,,,138
+2011,Canada,Malta,2,,,,,,,2
+2011,Canada,Mauritania,292,45,,,,,,337
+2011,Canada,Mauritius,7,3,,,,,,10
+2011,Canada,Mexico,5574,3997,,,,,,9571
+2011,Canada,Mongolia,119,23,,,,,,142
+2011,Canada,Montenegro,3,14,,,,,,17
+2011,Canada,Morocco,174,91,,,,,,265
+2011,Canada,Mozambique,6,1,,,,,,7
+2011,Canada,Myanmar,277,9,,,,,,286
+2011,Canada,Namibia,31,1055,,,,,,1086
+2011,Canada,Nepal,986,77,,,,,,1063
+2011,Canada,Netherlands,34,27,,,,,,61
+2011,Canada,New Zealand,2,2,,,,,,4
+2011,Canada,Nicaragua,119,76,,,,,,195
+2011,Canada,Niger,71,23,,,,,,94
+2011,Canada,Nigeria,3608,913,,,,,,4521
+2011,Canada,Norway,1,5,,,,,,6
+2011,Canada,Oman,11,1,,,,,,12
+2011,Canada,Pakistan,13149,1069,,,,,,14218
+2011,Canada,Palestinian,636,59,,,,,,695
+2011,Canada,Panama,45,31,,,,,,76
+2011,Canada,Papua New Guinea,,,,,,,,0
+2011,Canada,Paraguay,44,6,,,,,,50
+2011,Canada,Peru,2048,241,,,,,,2289
+2011,Canada,Philippines,310,165,,,,,,475
+2011,Canada,Poland,421,330,,,,,,751
+2011,Canada,Portugal,12,67,,,,,,79
+2011,Canada,Puerto Rico,,,,,,,,0
+2011,Canada,Qatar,4,7,,,,,,11
+2011,Canada,Rep. of Korea,290,126,,,,,,416
+2011,Canada,Rep. of Moldova,168,80,,,,,,248
+2011,Canada,Romania,800,369,,,,,,1169
+2011,Canada,Russian Federation,1931,307,,,,,,2238
+2011,Canada,Rwanda,1537,202,,,,,,1739
+2011,Canada,Saint Kitts and Nevis,7,14,,,,,,21
+2011,Canada,Saint Lucia,423,679,,,,,,1102
+2011,Canada,Saint Vincent and the Grenadines,1121,905,,,,,,2026
+2011,Canada,San Marino,1,,,,,,,1
+2011,Canada,Saudi Arabia,129,39,,,,,,168
+2011,Canada,Senegal,177,84,,,,,,261
+2011,Canada,Serbia and Kosovo (S/RES/1244 (1999)),443,213,,,,,,656
+2011,Canada,Seychelles,10,1,,,,,,11
+2011,Canada,Sierra Leone,221,22,,,,,,243
+2011,Canada,Singapore,27,13,,,,,,40
+2011,Canada,Sint Maarten (Dutch part),,,,,,,,0
+2011,Canada,Slovakia,24,526,,,,,,550
+2011,Canada,Slovenia,9,7,,,,,,16
+2011,Canada,Solomon Islands,43,,,,,,,43
+2011,Canada,Somalia,3629,442,,,,,,4071
+2011,Canada,South Africa,30,38,,,,,,68
+2011,Canada,Spain,14,64,,,,,,78
+2011,Canada,Sri Lanka,15174,1432,,,,,,16606
+2011,Canada,Stateless,1737,2,,,,,,1739
+2011,Canada,Sudan,1238,71,,,,,,1309
+2011,Canada,Suriname,10,2,,,,,,12
+2011,Canada,Swaziland,25,46,,,,,,71
+2011,Canada,Sweden,8,13,,,,,,21
+2011,Canada,Switzerland,10,1,,,,,,11
+2011,Canada,Syrian Arab Rep.,547,251,,,,,,798
+2011,Canada,Tajikistan,43,15,,,,,,58
+2011,Canada,Thailand,35,37,,,,,,72
+2011,Canada,The former Yugoslav Republic of Macedonia,117,52,,,,,,169
+2011,Canada,Tibetan,58,,,,,,,58
+2011,Canada,Togo,262,35,,,,,,297
+2011,Canada,Trinidad and Tobago,221,67,,,,,,288
+2011,Canada,Tunisia,201,120,,,,,,321
+2011,Canada,Turkey,4255,513,,,,,,4768
+2011,Canada,Turkmenistan,17,5,,,,,,22
+2011,Canada,Turks and Caicos Islands,,6,,,,,,6
+2011,Canada,Uganda,749,70,,,,,,819
+2011,Canada,Ukraine,1788,283,,,,,,2071
+2011,Canada,United Arab Emirates,30,6,,,,,,36
+2011,Canada,United Kingdom,64,32,,,,,,96
+2011,Canada,United Rep. of Tanzania,560,20,,,,,,580
+2011,Canada,United States of America,3384,541,,,,,,3925
+2011,Canada,Uruguay,147,41,,,,,,188
+2011,Canada,Uzbekistan,259,58,,,,,,317
+2011,Canada,Vanuatu,,1,,,,,,1
+2011,Canada,Various/Unknown,105,32,,,,,,137
+2011,Canada,Venezuela (Bolivarian Republic of),742,252,,,,,,994
+2011,Canada,Viet Nam,161,33,,,,,,194
+2011,Canada,Yemen,266,28,,,,,,294
+2011,Canada,Zambia,53,12,,,,,,65
+2011,Canada,Zimbabwe,4223,73,,,,,,4296
+2012,Canada,Afghanistan,2609,411,,,,,,3020
+2012,Canada,Albania,1764,579,,,,,,2343
+2012,Canada,Algeria,513,284,,,,,,797
+2012,Canada,Angola,753,21,,,,,,774
+2012,Canada,Antigua and Barbuda,40,30,,,,,,70
+2012,Canada,Argentina,258,19,,,,,,277
+2012,Canada,Armenia,200,36,,,,,,236
+2012,Canada,Australia,6,4,,,,,,10
+2012,Canada,Austria,,4,,,,,,4
+2012,Canada,Azerbaijan,598,42,,,,,,640
+2012,Canada,Bahamas,15,32,,,,,,47
+2012,Canada,Bahrain,5,4,,,,,,9
+2012,Canada,Bangladesh,1917,235,,,,,,2152
+2012,Canada,Barbados,50,56,,,,,,106
+2012,Canada,Belarus,300,23,,,,,,323
+2012,Canada,Belgium,17,13,,,,,,30
+2012,Canada,Belize,6,1,,,,,,7
+2012,Canada,Benin,56,12,,,,,,68
+2012,Canada,Bermuda,,4,,,,,,4
+2012,Canada,Bhutan,19,,,,,,,19
+2012,Canada,Bolivia (Plurinational State of),160,17,,,,,,177
+2012,Canada,Bosnia and Herzegovina,91,58,3,,,,,152
+2012,Canada,Botswana,109,99,,,,,,208
+2012,Canada,Brazil,175,73,,,,,,248
+2012,Canada,Brunei Darussalam,,,,,,,,0
+2012,Canada,Bulgaria,928,62,,,,,,990
+2012,Canada,Burkina Faso,141,20,,,,,,161
+2012,Canada,Burundi,2315,179,,,,,,2494
+2012,Canada,Cabo Verde,,1,,,,,,1
+2012,Canada,Cambodia,176,65,,,,,,241
+2012,Canada,Cameroon,864,157,,,,,,1021
+2012,Canada,Cayman Islands,,,,,,,,0
+2012,Canada,Central African Rep.,63,5,,,,,,68
+2012,Canada,Chad,543,22,,,,,,565
+2012,Canada,Chile,124,32,,,,,,156
+2012,Canada,China,16813,3165,,,,,,19978
+2012,Canada,"China, Hong Kong SAR",12,56,,,,,,68
+2012,Canada,Colombia,17563,1254,,,,,,18817
+2012,Canada,Comoros,4,3,,,,,,7
+2012,Canada,Congo,287,46,,,,,,333
+2012,Canada,Costa Rica,282,18,,,,,,300
+2012,Canada,Croatia,57,1172,,,,,,1229
+2012,Canada,Cuba,1708,166,,,,,,1874
+2012,Canada,Cyprus,1,1,,,,,,2
+2012,Canada,Czech Rep.,222,188,,,,,,410
+2012,Canada,Cote d'Ivoire,420,92,,,,,,512
+2012,Canada,Dem. People's Rep. of Korea,119,822,,,,,,941
+2012,Canada,Dem. Rep. of the Congo,4211,470,,,,,,4681
+2012,Canada,Denmark,6,,,,,,,6
+2012,Canada,Djibouti,233,145,,,,,,378
+2012,Canada,Dominica,41,7,,,,,,48
+2012,Canada,Dominican Rep.,148,102,,,,,,250
+2012,Canada,Ecuador,216,41,,,,,,257
+2012,Canada,Egypt,597,239,,,,,,836
+2012,Canada,El Salvador,1122,631,,,,,,1753
+2012,Canada,Equatorial Guinea,12,7,,,,,,19
+2012,Canada,Eritrea,1547,186,,,,,,1733
+2012,Canada,Estonia,12,17,,,,,,29
+2012,Canada,Ethiopia,2059,153,,,,,,2212
+2012,Canada,Fiji,395,19,,,,,,414
+2012,Canada,Finland,2,6,,,,,,8
+2012,Canada,France,40,33,,,,,,73
+2012,Canada,Gabon,55,11,,,,,,66
+2012,Canada,Gambia,59,34,,,,,,93
+2012,Canada,Georgia,504,136,,,,,,640
+2012,Canada,Germany,89,15,,,,,,104
+2012,Canada,Ghana,356,92,,,,,,448
+2012,Canada,Greece,14,107,,,,,,121
+2012,Canada,Grenada,292,28,,,,,,320
+2012,Canada,Guatemala,770,294,,,,,,1064
+2012,Canada,Guinea,914,142,,,,,,1056
+2012,Canada,Guinea-Bissau,24,2,,,,,,26
+2012,Canada,Guyana,638,55,,,,,,693
+2012,Canada,Haiti,6798,561,,,,,,7359
+2012,Canada,Honduras,596,414,,,,,,1010
+2012,Canada,Hungary,766,3697,,,,,,4463
+2012,Canada,Iceland,,,,,,,,0
+2012,Canada,India,5287,1284,,,,,,6571
+2012,Canada,Indonesia,351,39,,,,,,390
+2012,Canada,Iran (Islamic Rep. of),3212,396,,,,,,3608
+2012,Canada,Iraq,1745,170,545,,,,,2460
+2012,Canada,Ireland,7,10,,,,,,17
+2012,Canada,Israel,673,283,,,,,,956
+2012,Canada,Italy,15,41,,,,,,56
+2012,Canada,Jamaica,504,326,,,,,,830
+2012,Canada,Japan,20,27,,,,,,47
+2012,Canada,Jordan,402,114,,,,,,516
+2012,Canada,Kazakhstan,149,94,,,,,,243
+2012,Canada,Kenya,996,67,,,,,,1063
+2012,Canada,Kiribati,3,,,,,,,3
+2012,Canada,Kuwait,64,16,,,,,,80
+2012,Canada,Kyrgyzstan,128,13,,,,,,141
+2012,Canada,Lao People's Dem. Rep.,6,3,,,,,,9
+2012,Canada,Latvia,44,84,,,,,,128
+2012,Canada,Lebanon,1104,167,,,,,,1271
+2012,Canada,Lesotho,5,,,,,,,5
+2012,Canada,Liberia,120,11,,,,,,131
+2012,Canada,Libya,241,106,,,,,,347
+2012,Canada,Lithuania,103,68,,,,,,171
+2012,Canada,Luxembourg,,1,,,,,,1
+2012,Canada,Madagascar,10,11,,,,,,21
+2012,Canada,Malawi,23,2,,,,,,25
+2012,Canada,Malaysia,214,28,,,,,,242
+2012,Canada,Maldives,1,,,,,,,1
+2012,Canada,Mali,99,48,,,,,,147
+2012,Canada,Malta,2,,,,,,,2
+2012,Canada,Mauritania,299,23,,,,,,322
+2012,Canada,Mauritius,6,6,,,,,,12
+2012,Canada,Mexico,5995,1372,,,,,,7367
+2012,Canada,Mongolia,127,24,,,,,,151
+2012,Canada,Montenegro,14,6,,,,,,20
+2012,Canada,Morocco,169,76,,,,,,245
+2012,Canada,Mozambique,6,,,,,,,6
+2012,Canada,Myanmar,276,11,,,,,,287
+2012,Canada,Namibia,38,550,,,,,,588
+2012,Canada,Nepal,1128,60,,,,,,1188
+2012,Canada,Netherlands,34,23,,,,,,57
+2012,Canada,New Zealand,2,,,,,,,2
+2012,Canada,Nicaragua,138,54,,,,,,192
+2012,Canada,Niger,69,12,,,,,,81
+2012,Canada,Nigeria,3990,677,,,,,,4667
+2012,Canada,Norway,2,5,,,,,,7
+2012,Canada,Oman,12,1,,,,,,13
+2012,Canada,Pakistan,11605,1186,,,,,,12791
+2012,Canada,Palestinian,674,53,,,,,,727
+2012,Canada,Panama,47,26,,,,,,73
+2012,Canada,Papua New Guinea,,1,,,,,,1
+2012,Canada,Paraguay,48,3,,,,,,51
+2012,Canada,Peru,1905,178,,,,,,2083
+2012,Canada,Philippines,322,104,,,,,,426
+2012,Canada,Poland,359,259,,,,,,618
+2012,Canada,Portugal,12,39,,,,,,51
+2012,Canada,Qatar,4,5,,,,,,9
+2012,Canada,Rep. of Korea,282,92,,,,,,374
+2012,Canada,Rep. of Moldova,187,54,,,,,,241
+2012,Canada,Romania,690,511,,,,,,1201
+2012,Canada,Russian Federation,1756,288,,,,,,2044
+2012,Canada,Rwanda,1654,124,,,,,,1778
+2012,Canada,Saint Kitts and Nevis,10,20,,,,,,30
+2012,Canada,Saint Lucia,551,512,,,,,,1063
+2012,Canada,Saint Vincent and the Grenadines,1305,486,,,,,,1791
+2012,Canada,San Marino,1,,,,,,,1
+2012,Canada,Saudi Arabia,131,33,,,,,,164
+2012,Canada,Senegal,183,67,,,,,,250
+2012,Canada,Serbia and Kosovo (S/RES/1244 (1999)),400,175,,,,,,575
+2012,Canada,Seychelles,10,,,,,,,10
+2012,Canada,Sierra Leone,206,13,,,,,,219
+2012,Canada,Singapore,27,10,,,,,,37
+2012,Canada,Slovakia,22,534,,,,,,556
+2012,Canada,Slovenia,9,12,,,,,,21
+2012,Canada,Solomon Islands,39,,,,,,,39
+2012,Canada,Somalia,3459,387,,,,,,3846
+2012,Canada,South Africa,35,34,,,,,,69
+2012,Canada,Spain,16,65,,,,,,81
+2012,Canada,Sri Lanka,13705,1189,,,,,,14894
+2012,Canada,Stateless,1738,3,,,,,,1741
+2012,Canada,Sudan,1100,105,,,,,,1205
+2012,Canada,Suriname,9,1,,,,,,10
+2012,Canada,Swaziland,39,61,,,,,,100
+2012,Canada,Sweden,3,15,,,,,,18
+2012,Canada,Switzerland,11,4,,,,,,15
+2012,Canada,Syrian Arab Rep.,533,404,,,,,,937
+2012,Canada,Tajikistan,50,13,,,,,,63
+2012,Canada,Thailand,35,15,,,,,,50
+2012,Canada,The former Yugoslav Republic of Macedonia,97,32,,,,,,129
+2012,Canada,Togo,251,25,,,,,,276
+2012,Canada,Trinidad and Tobago,241,46,,,,,,287
+2012,Canada,Tunisia,204,111,,,,,,315
+2012,Canada,Turkey,3838,534,,,,,,4372
+2012,Canada,Turkmenistan,18,3,,,,,,21
+2012,Canada,Turks and Caicos Islands,,9,,,,,,9
+2012,Canada,Uganda,809,57,,,,,,866
+2012,Canada,Ukraine,1737,310,,,,,,2047
+2012,Canada,United Arab Emirates,28,7,,,,,,35
+2012,Canada,United Kingdom,69,14,,,,,,83
+2012,Canada,United Rep. of Tanzania,513,30,,,,,,543
+2012,Canada,United States of America,4045,363,,,,,,4408
+2012,Canada,Uruguay,139,28,,,,,,167
+2012,Canada,Uzbekistan,274,42,,,,,,316
+2012,Canada,Vanuatu,,,,,,,,0
+2012,Canada,Various/Unknown,87,106,,,,,,193
+2012,Canada,Venezuela (Bolivarian Republic of),797,175,,,,,,972
+2012,Canada,Viet Nam,148,25,,,,,,173
+2012,Canada,Yemen,240,36,,,,,,276
+2012,Canada,Zambia,56,6,,,,,,62
+2012,Canada,Zimbabwe,4341,67,,,,,,4408
+2013,Canada,Afghanistan,2700,385,,,,,,3085
+2013,Canada,Albania,1706,431,,,,,,2137
+2013,Canada,Algeria,443,174,,,,,,617
+2013,Canada,Angola,650,20,,,,,,670
+2013,Canada,Antigua and Barbuda,45,28,,,,,,73
+2013,Canada,Argentina,239,11,,,,,,250
+2013,Canada,Armenia,190,16,,,,,,206
+2013,Canada,Australia,6,4,,,,,,10
+2013,Canada,Austria,,5,,,,,,5
+2013,Canada,Azerbaijan,550,20,,,,,,570
+2013,Canada,Bahamas,23,17,,,,,,40
+2013,Canada,Bahrain,6,8,,,,,,14
+2013,Canada,Bangladesh,1764,245,,,,,,2009
+2013,Canada,Barbados,63,34,,,,,,97
+2013,Canada,Belarus,268,12,,,,,,280
+2013,Canada,Belgium,16,8,,,,,,24
+2013,Canada,Belize,7,2,,,,,,9
+2013,Canada,Benin,46,6,,,,,,52
+2013,Canada,Bermuda,,1,,,,,,1
+2013,Canada,Bhutan,22,,,,,,,22
+2013,Canada,Bolivia (Plurinational State of),152,7,,,,,,159
+2013,Canada,Bosnia and Herzegovina,85,21,,,,,,106
+2013,Canada,Botswana,149,69,,,,,,218
+2013,Canada,Brazil,177,25,,,,,,202
+2013,Canada,Bulgaria,813,38,,,,,,851
+2013,Canada,Burkina Faso,146,10,,,,,,156
+2013,Canada,Burundi,2278,125,,,,,,2403
+2013,Canada,Cabo Verde,,,,,,,,0
+2013,Canada,Cambodia,186,51,,,,,,237
+2013,Canada,Cameroon,932,151,,,,,,1083
+2013,Canada,Central African Rep.,64,5,,,,,,69
+2013,Canada,Chad,519,29,,,,,,548
+2013,Canada,Chile,130,13,,,,,,143
+2013,Canada,China,15344,2470,,,,,,17814
+2013,Canada,"China, Hong Kong SAR",19,34,,,,,,53
+2013,Canada,Colombia,17381,806,,,,,,18187
+2013,Canada,Comoros,4,2,,,,,,6
+2013,Canada,Congo,265,28,,,,,,293
+2013,Canada,Costa Rica,267,8,,,,,,275
+2013,Canada,Croatia,70,869,,,,,,939
+2013,Canada,Cuba,1674,147,,,,,,1821
+2013,Canada,Cyprus,1,1,,,,,,2
+2013,Canada,Czech Rep.,238,88,,,,,,326
+2013,Canada,Cote d'Ivoire,423,56,,,,,,479
+2013,Canada,Dem. People's Rep. of Korea,127,710,,,,,,837
+2013,Canada,Dem. Rep. of the Congo,3874,315,,,,,,4189
+2013,Canada,Denmark,6,,,,,,,6
+2013,Canada,Djibouti,289,114,,,,,,403
+2013,Canada,Dominica,30,5,,,,,,35
+2013,Canada,Dominican Rep.,167,64,,,,,,231
+2013,Canada,Ecuador,216,29,,,,,,245
+2013,Canada,Egypt,638,214,,,,,,852
+2013,Canada,El Salvador,1223,355,,,,,,1578
+2013,Canada,Equatorial Guinea,12,4,,,,,,16
+2013,Canada,Eritrea,1676,183,,,,,,1859
+2013,Canada,Estonia,14,,,,,,,14
+2013,Canada,Ethiopia,2163,153,,,,,,2316
+2013,Canada,Fiji,273,5,,,,,,278
+2013,Canada,Finland,2,3,,,,,,5
+2013,Canada,France,36,16,,,,,,52
+2013,Canada,Gabon,55,5,,,,,,60
+2013,Canada,Gambia,72,29,,,,,,101
+2013,Canada,Georgia,485,109,,,,,,594
+2013,Canada,Germany,90,10,,,,,,100
+2013,Canada,Ghana,361,95,,,,,,456
+2013,Canada,Greece,18,79,,,,,,97
+2013,Canada,Grenada,304,21,,,,,,325
+2013,Canada,Guatemala,864,153,,,,,,1017
+2013,Canada,Guinea,839,115,,,,,,954
+2013,Canada,Guinea-Bissau,20,1,,,,,,21
+2013,Canada,Guyana,640,46,,,,,,686
+2013,Canada,Haiti,7872,348,,,,,,8220
+2013,Canada,Honduras,679,234,,,,,,913
+2013,Canada,Hungary,765,1902,,,,,,2667
+2013,Canada,India,4988,1008,,,,,,5996
+2013,Canada,Indonesia,358,18,,,,,,376
+2013,Canada,Iran (Islamic Rep. of),3033,309,,,,,,3342
+2013,Canada,Iraq,1730,205,295,,,,,2230
+2013,Canada,Ireland,7,15,,,,,,22
+2013,Canada,Israel,687,143,,,,,,830
+2013,Canada,Italy,17,38,,,,,,55
+2013,Canada,Jamaica,621,233,,,,,,854
+2013,Canada,Japan,26,14,,,,,,40
+2013,Canada,Jordan,414,65,,,,,,479
+2013,Canada,Kazakhstan,149,73,,,,,,222
+2013,Canada,Kenya,1019,56,,,,,,1075
+2013,Canada,Kiribati,3,,,,,,,3
+2013,Canada,Kuwait,51,26,,,,,,77
+2013,Canada,Kyrgyzstan,120,9,,,,,,129
+2013,Canada,Lao People's Dem. Rep.,6,1,,,,,,7
+2013,Canada,Latvia,55,34,,,,,,89
+2013,Canada,Lebanon,1103,152,,,,,,1255
+2013,Canada,Lesotho,5,,,,,,,5
+2013,Canada,Liberia,134,5,,,,,,139
+2013,Canada,Libya,230,70,,,,,,300
+2013,Canada,Lithuania,108,38,,,,,,146
+2013,Canada,Luxembourg,,1,,,,,,1
+2013,Canada,Madagascar,16,11,,,,,,27
+2013,Canada,Malawi,28,1,,,,,,29
+2013,Canada,Malaysia,193,16,,,,,,209
+2013,Canada,Maldives,1,,,,,,,1
+2013,Canada,Mali,87,39,,,,,,126
+2013,Canada,Malta,2,,,,,,,2
+2013,Canada,Mauritania,294,19,,,,,,313
+2013,Canada,Mauritius,7,6,,,,,,13
+2013,Canada,Mexico,6512,450,,,,,,6962
+2013,Canada,Mongolia,127,22,,,,,,149
+2013,Canada,Montenegro,18,4,,,,,,22
+2013,Canada,Morocco,173,39,,,,,,212
+2013,Canada,Mozambique,6,,,,,,,6
+2013,Canada,Myanmar,283,6,,,,,,289
+2013,Canada,Namibia,106,254,,,,,,360
+2013,Canada,Nepal,1212,49,,,,,,1261
+2013,Canada,Netherlands,34,12,,,,,,46
+2013,Canada,New Zealand,2,,,,,,,2
+2013,Canada,Nicaragua,132,14,,,,,,146
+2013,Canada,Niger,81,6,,,,,,87
+2013,Canada,Nigeria,4441,691,,,,,,5132
+2013,Canada,Norway,3,,,,,,,3
+2013,Canada,Oman,15,1,,,,,,16
+2013,Canada,Pakistan,10641,858,,,,,,11499
+2013,Canada,Palestinian,682,53,,,,,,735
+2013,Canada,Panama,48,10,,,,,,58
+2013,Canada,Papua New Guinea,,,,,,,,0
+2013,Canada,Paraguay,47,,,,,,,47
+2013,Canada,Peru,1757,98,,,,,,1855
+2013,Canada,Philippines,321,57,,,,,,378
+2013,Canada,Poland,325,133,,,,,,458
+2013,Canada,Portugal,12,26,,,,,,38
+2013,Canada,Qatar,5,,,,,,,5
+2013,Canada,Rep. of Korea,280,45,,,,,,325
+2013,Canada,Rep. of Moldova,198,32,,,,,,230
+2013,Canada,Romania,577,325,,,,,,902
+2013,Canada,Russian Federation,1527,200,,,,,,1727
+2013,Canada,Rwanda,1655,96,,,,,,1751
+2013,Canada,Saint Kitts and Nevis,12,21,,,,,,33
+2013,Canada,Saint Lucia,697,244,,,,,,941
+2013,Canada,Saint Vincent and the Grenadines,1524,223,,,,,,1747
+2013,Canada,San Marino,1,,,,,,,1
+2013,Canada,Saudi Arabia,135,28,,,,,,163
+2013,Canada,Senegal,197,55,,,,,,252
+2013,Canada,Serbia and Kosovo (S/RES/1244 (1999)),418,122,,,,,,540
+2013,Canada,Seychelles,10,,,,,,,10
+2013,Canada,Sierra Leone,187,9,,,,,,196
+2013,Canada,Singapore,28,7,,,,,,35
+2013,Canada,Slovakia,30,364,,,,,,394
+2013,Canada,Slovenia,9,11,,,,,,20
+2013,Canada,Solomon Islands,39,,,,,,,39
+2013,Canada,Somalia,3225,306,,,,,,3531
+2013,Canada,South Africa,45,22,,,,,,67
+2013,Canada,Spain,20,33,,,,,,53
+2013,Canada,Sri Lanka,12326,863,,,,,,13189
+2013,Canada,Stateless,1708,2,,,,,,1710
+2013,Canada,Sudan,905,100,,,,,,1005
+2013,Canada,Suriname,8,,,,,,,8
+2013,Canada,Swaziland,71,30,,,,,,101
+2013,Canada,Sweden,3,3,,,,,,6
+2013,Canada,Switzerland,11,,,,,,,11
+2013,Canada,Syrian Arab Rep.,592,435,,,,,,1027
+2013,Canada,Tajikistan,54,12,,,,,,66
+2013,Canada,Thailand,38,4,,,,,,42
+2013,Canada,The former Yugoslav Republic of Macedonia,100,12,,,,,,112
+2013,Canada,Tibetan,58,,,,,,,58
+2013,Canada,Togo,248,25,,,,,,273
+2013,Canada,Trinidad and Tobago,244,30,,,,,,274
+2013,Canada,Tunisia,202,79,,,,,,281
+2013,Canada,Turkey,3464,345,,,,,,3809
+2013,Canada,Turkmenistan,21,3,,,,,,24
+2013,Canada,Turks and Caicos Islands,,5,,,,,,5
+2013,Canada,Uganda,844,46,,,,,,890
+2013,Canada,Ukraine,1605,243,,,,,,1848
+2013,Canada,United Arab Emirates,28,13,,,,,,41
+2013,Canada,United Kingdom,69,10,,,,,,79
+2013,Canada,United Rep. of Tanzania,421,26,,,,,,447
+2013,Canada,United States of America,4451,205,,,,,,4656
+2013,Canada,Uruguay,126,7,,,,,,133
+2013,Canada,Uzbekistan,273,39,,,,,,312
+2013,Canada,Various/Unknown,70,60,,,,,,130
+2013,Canada,Venezuela (Bolivarian Republic of),837,105,,,,,,942
+2013,Canada,Viet Nam,132,23,,,,,,155
+2013,Canada,Yemen,251,43,,,,,,294
+2013,Canada,Zambia,60,5,,,,,,65
+2013,Canada,Zimbabwe,3969,47,,,,,,4016
+2014,Canada,Afghanistan,2704,190,,,,,,2894
+2014,Canada,Albania,1530,80,,,,,,1610
+2014,Canada,Algeria,346,53,,,,,,399
+2014,Canada,Angola,445,13,,,,,,458
+2014,Canada,Antigua and Barbuda,48,6,,,,,,54
+2014,Canada,Argentina,191,4,,,,,,195
+2014,Canada,Armenia,189,2,,,,,,191
+2014,Canada,Aruba,,,,,,,,0
+2014,Canada,Australia,6,1,,,,,,7
+2014,Canada,Austria,,1,,,,,,1
+2014,Canada,Azerbaijan,455,4,,,,,,459
+2014,Canada,Bahamas,26,13,,,,,,39
+2014,Canada,Bahrain,10,2,,,,,,12
+2014,Canada,Bangladesh,1483,164,,,,,,1647
+2014,Canada,Barbados,82,9,,,,,,91
+2014,Canada,Belarus,227,3,,,,,,230
+2014,Canada,Belgium,16,,,,,,,16
+2014,Canada,Belize,9,,,,,,,9
+2014,Canada,Benin,50,11,,,,,,61
+2014,Canada,Bermuda,,,,,,,,0
+2014,Canada,Bhutan,22,,,,,,,22
+2014,Canada,Bolivia (Plurinational State of),126,4,,,,,,130
+2014,Canada,Bosnia and Herzegovina,83,7,1,,,,,91
+2014,Canada,Botswana,218,,,,,,,218
+2014,Canada,Brazil,172,7,,,,,,179
+2014,Canada,Bulgaria,668,8,,,,,,676
+2014,Canada,Burkina Faso,136,6,,,,,,142
+2014,Canada,Burundi,2114,49,,,,,,2163
+2014,Canada,Cambodia,162,8,,,,,,170
+2014,Canada,Cameroon,985,82,,,,,,1067
+2014,Canada,Central African Rep.,67,9,,,,,,76
+2014,Canada,Chad,474,43,,,,,,517
+2014,Canada,Chile,124,2,,,,,,126
+2014,Canada,China,13231,680,,,,,,13911
+2014,Canada,"China, Hong Kong SAR",20,1,,,,,,21
+2014,Canada,Colombia,16428,274,,,,,,16702
+2014,Canada,Comoros,4,,,,,,,4
+2014,Canada,Congo,229,20,,,,,,249
+2014,Canada,Costa Rica,229,1,,,,,,230
+2014,Canada,Croatia,88,39,,,,,,127
+2014,Canada,Cuba,1618,82,,,,,,1700
+2014,Canada,Cyprus,1,,,,,,,1
+2014,Canada,Czech Rep.,254,59,,,,,,313
+2014,Canada,Cote d'Ivoire,431,16,,,,,,447
+2014,Canada,Dem. People's Rep. of Korea,126,3,,,,,,129
+2014,Canada,Dem. Rep. of the Congo,3544,180,,,,,,3724
+2014,Canada,Denmark,6,,,,,,,6
+2014,Canada,Djibouti,310,29,,,,,,339
+2014,Canada,Dominica,23,,,,,,,23
+2014,Canada,Dominican Rep.,169,17,,,,,,186
+2014,Canada,Ecuador,208,13,,,,,,221
+2014,Canada,Egypt,684,97,,,,,,781
+2014,Canada,El Salvador,1301,64,,,,,,1365
+2014,Canada,Equatorial Guinea,11,3,,,,,,14
+2014,Canada,Eritrea,1750,116,,,,,,1866
+2014,Canada,Estonia,15,,,,,,,15
+2014,Canada,Ethiopia,2155,108,,,,,,2263
+2014,Canada,Fiji,157,3,,,,,,160
+2014,Canada,Finland,2,,,,,,,2
+2014,Canada,France,36,3,,,,,,39
+2014,Canada,Gabon,56,3,,,,,,59
+2014,Canada,Gambia,78,15,,,,,,93
+2014,Canada,Georgia,474,51,,,,,,525
+2014,Canada,Germany,87,3,,,,,,90
+2014,Canada,Ghana,352,50,,,,,,402
+2014,Canada,Greece,24,3,,,,,,27
+2014,Canada,Grenada,294,5,,,,,,299
+2014,Canada,Guadeloupe,,,,,,,,0
+2014,Canada,Guatemala,907,34,,,,,,941
+2014,Canada,Guinea,700,32,,,,,,732
+2014,Canada,Guinea-Bissau,18,3,,,,,,21
+2014,Canada,Guyana,563,4,,,,,,567
+2014,Canada,Haiti,8422,205,,,,,,8627
+2014,Canada,Honduras,808,74,,,,,,882
+2014,Canada,Hungary,828,247,,,,,,1075
+2014,Canada,Iceland,,,,,,,,0
+2014,Canada,India,4292,187,,,,,,4479
+2014,Canada,Indonesia,336,3,,,,,,339
+2014,Canada,Iran (Islamic Rep. of),2834,86,,,,,,2920
+2014,Canada,Iraq,1643,294,39,,,,,1976
+2014,Canada,Ireland,7,6,,,,,,13
+2014,Canada,Israel,628,18,,,,,,646
+2014,Canada,Italy,16,22,,,,,,38
+2014,Canada,Jamaica,733,78,,,,,,811
+2014,Canada,Japan,23,3,,,,,,26
+2014,Canada,Jordan,402,36,,,,,,438
+2014,Canada,Kazakhstan,135,4,,,,,,139
+2014,Canada,Kenya,937,21,,,,,,958
+2014,Canada,Kiribati,3,,,,,,,3
+2014,Canada,Kuwait,38,2,,,,,,40
+2014,Canada,Kyrgyzstan,96,9,,,,,,105
+2014,Canada,Lao People's Dem. Rep.,3,,,,,,,3
+2014,Canada,Latvia,68,,,,,,,68
+2014,Canada,Lebanon,1024,66,,,,,,1090
+2014,Canada,Lesotho,6,,,,,,,6
+2014,Canada,Liberia,153,6,,,,,,159
+2014,Canada,Libya,243,90,,,,,,333
+2014,Canada,Lithuania,91,,,,,,,91
+2014,Canada,Luxembourg,,,,,,,,0
+2014,Canada,Madagascar,16,4,,,,,,20
+2014,Canada,Malawi,31,1,,,,,,32
+2014,Canada,Malaysia,149,1,,,,,,150
+2014,Canada,Maldives,1,,,,,,,1
+2014,Canada,Mali,73,30,,,,,,103
+2014,Canada,Malta,2,,,,,,,2
+2014,Canada,Mauritania,265,11,,,,,,276
+2014,Canada,Mauritius,4,1,,,,,,5
+2014,Canada,Mexico,6762,16,,,,,,6778
+2014,Canada,Mongolia,130,14,,,,,,144
+2014,Canada,Montenegro,19,1,,,,,,20
+2014,Canada,Morocco,168,18,,,,,,186
+2014,Canada,Mozambique,6,,,,,,,6
+2014,Canada,Myanmar,264,4,,,,,,268
+2014,Canada,Namibia,207,1,,,,,,208
+2014,Canada,Nepal,1223,20,,,,,,1243
+2014,Canada,Netherlands,38,6,,,,,,44
+2014,Canada,New Zealand,1,,,,,,,1
+2014,Canada,Nicaragua,141,,,,,,,141
+2014,Canada,Niger,84,1,,,,,,85
+2014,Canada,Nigeria,4683,362,,,,,,5045
+2014,Canada,Norway,3,,,,,,,3
+2014,Canada,Oman,14,,,,,,,14
+2014,Canada,Pakistan,8613,330,,,,,,8943
+2014,Canada,Palestinian,634,42,,,,,,676
+2014,Canada,Panama,40,6,,,,,,46
+2014,Canada,Papua New Guinea,,,,,,,,0
+2014,Canada,Paraguay,43,,,,,,,43
+2014,Canada,Peru,1505,6,,,,,,1511
+2014,Canada,Philippines,301,10,,,,,,311
+2014,Canada,Poland,259,10,,,,,,269
+2014,Canada,Portugal,10,,,,,,,10
+2014,Canada,Qatar,8,1,,,,,,9
+2014,Canada,Rep. of Korea,239,4,,,,,,243
+2014,Canada,Rep. of Moldova,195,1,,,,,,196
+2014,Canada,Romania,460,12,,,,,,472
+2014,Canada,Russian Federation,1315,40,,,,,,1355
+2014,Canada,Rwanda,1647,30,,,,,,1677
+2014,Canada,R?ion,,,,,,,,0
+2014,Canada,Saint Kitts and Nevis,15,7,,,,,,22
+2014,Canada,Saint Lucia,906,16,,,,,,922
+2014,Canada,Saint Vincent and the Grenadines,1723,33,,,,,,1756
+2014,Canada,Saint-Pierre-et-Miquelon,,,,,,,,0
+2014,Canada,San Marino,1,,,,,,,1
+2014,Canada,Saudi Arabia,119,10,,,,,,129
+2014,Canada,Senegal,216,27,,,,,,243
+2014,Canada,Serbia and Kosovo (S/RES/1244 (1999)),429,41,,,,,,470
+2014,Canada,Seychelles,10,,,,,,,10
+2014,Canada,Sierra Leone,158,1,,,,,,159
+2014,Canada,Singapore,29,1,,,,,,30
+2014,Canada,Slovakia,39,296,,,,,,335
+2014,Canada,Slovenia,9,,,,,,,9
+2014,Canada,Solomon Islands,39,,,,,,,39
+2014,Canada,Somalia,2821,204,,,,,,3025
+2014,Canada,South Africa,51,13,,,,,,64
+2014,Canada,South Sudan,,2,,,,,,2
+2014,Canada,Spain,22,6,,,,,,28
+2014,Canada,Sri Lanka,10745,126,,,,,,10871
+2014,Canada,Stateless,1583,83,,,,,,1666
+2014,Canada,Sudan,671,46,,,,,,717
+2014,Canada,Suriname,8,,,,,,,8
+2014,Canada,Swaziland,101,,,,,,,101
+2014,Canada,Sweden,4,1,,,,,,5
+2014,Canada,Switzerland,11,,,,,,,11
+2014,Canada,Syrian Arab Rep.,705,184,,,,,,889
+2014,Canada,Tajikistan,59,,,,,,,59
+2014,Canada,Thailand,36,3,,,,,,39
+2014,Canada,The former Yugoslav Republic of Macedonia,100,,,,,,,100
+2014,Canada,Tibetan,58,,,,,,,58
+2014,Canada,Togo,224,12,,,,,,236
+2014,Canada,Trinidad and Tobago,264,17,,,,,,281
+2014,Canada,Tunisia,199,28,,,,,,227
+2014,Canada,Turkey,2863,111,,,,,,2974
+2014,Canada,Turkmenistan,22,,,,,,,22
+2014,Canada,Turks and Caicos Islands,,,,,,,,0
+2014,Canada,Uganda,804,27,,,,,,831
+2014,Canada,Ukraine,1468,158,,,,,,1626
+2014,Canada,United Arab Emirates,31,3,,,,,,34
+2014,Canada,United Kingdom,63,,,,,,,63
+2014,Canada,United Rep. of Tanzania,320,7,,,,,,327
+2014,Canada,United States of America,4687,60,,,,,,4747
+2014,Canada,Uruguay,106,1,,,,,,107
+2014,Canada,Uzbekistan,271,10,,,,,,281
+2014,Canada,Various/Unknown,59,9783,,,,,,9842
+2014,Canada,Venezuela (Bolivarian Republic of),849,92,,,,,,941
+2014,Canada,Viet Nam,126,3,,,,,,129
+2014,Canada,Yemen,239,32,,,,,,271
+2014,Canada,Zambia,60,,,,,,,60
+2014,Canada,Zimbabwe,2767,35,,,,,,2802
+2015,Canada,Afghanistan,2890,368,,,,,,3258
+2015,Canada,Albania,1243,135,,,,,,1378
+2015,Canada,Algeria,355,45,,,,,,400
+2015,Canada,Angola,226,9,,,,,,235
+2015,Canada,Antigua and Barbuda,51,7,,,,,,58
+2015,Canada,Argentina,85,6,,,,,,91
+2015,Canada,Armenia,180,3,,,,,,183
+2015,Canada,Australia,6,,,,,,,6
+2015,Canada,Austria,,1,,,,,,1
+2015,Canada,Azerbaijan,291,20,,,,,,311
+2015,Canada,Bahamas,31,47,,,,,,78
+2015,Canada,Bahrain,15,7,,,,,,22
+2015,Canada,Bangladesh,1112,204,,,,,,1316
+2015,Canada,Barbados,95,16,,,,,,111
+2015,Canada,Belarus,182,3,,,,,,185
+2015,Canada,Belgium,16,12,,,,,,28
+2015,Canada,Belize,10,1,,,,,,11
+2015,Canada,Benin,46,8,,,,,,54
+2015,Canada,Bhutan,22,1,,,,,,23
+2015,Canada,Bolivia (Plurinational State of),105,4,,,,,,109
+2015,Canada,Bosnia and Herzegovina,64,,,,,,,64
+2015,Canada,Botswana,284,,,,,,,284
+2015,Canada,Brazil,124,30,,,,,,154
+2015,Canada,Bulgaria,432,4,,,,,,436
+2015,Canada,Burkina Faso,124,11,,,,,,135
+2015,Canada,Burundi,2074,186,,,,,,2260
+2015,Canada,Cambodia,153,2,,,,,,155
+2015,Canada,Cameroon,1103,126,,,,,,1229
+2015,Canada,Central African Rep.,53,6,,,,,,59
+2015,Canada,Chad,415,67,,,,,,482
+2015,Canada,Chile,102,18,,,,,,120
+2015,Canada,China,11415,1068,,,,,,12483
+2015,Canada,"China, Hong Kong SAR",28,4,,,,,,32
+2015,Canada,Colombia,13666,457,,,,,,14123
+2015,Canada,Comoros,3,,,,,,,3
+2015,Canada,Congo,201,60,,,,,,261
+2015,Canada,Costa Rica,190,2,,,,,,192
+2015,Canada,Croatia,96,20,,,,,,116
+2015,Canada,Cuba,1512,46,,,,,,1558
+2015,Canada,Cyprus,,2,,,,,,2
+2015,Canada,Czech Rep.,259,85,,,,,,344
+2015,Canada,Cote d'Ivoire,398,22,,,,,,420
+2015,Canada,Dem. People's Rep. of Korea,126,2,,,,,,128
+2015,Canada,Dem. Rep. of the Congo,3316,219,,,,,,3535
+2015,Canada,Denmark,6,,,,,,,6
+2015,Canada,Djibouti,350,46,,,,,,396
+2015,Canada,Dominica,18,,,,,,,18
+2015,Canada,Dominican Rep.,172,15,,,,,,187
+2015,Canada,Ecuador,176,4,,,,,,180
+2015,Canada,Egypt,752,99,,,,,,851
+2015,Canada,El Salvador,1403,107,,,,,,1510
+2015,Canada,Equatorial Guinea,8,,,,,,,8
+2015,Canada,Eritrea,1811,149,,,,,,1960
+2015,Canada,Estonia,10,,,,,,,10
+2015,Canada,Ethiopia,2047,206,,,,,,2253
+2015,Canada,Fiji,127,,,,,,,127
+2015,Canada,Finland,3,1,,,,,,4
+2015,Canada,France,42,9,,,,,,51
+2015,Canada,Gabon,47,2,,,,,,49
+2015,Canada,Gambia,82,17,,,,,,99
+2015,Canada,Georgia,449,97,,,,,,546
+2015,Canada,Germany,81,1,,,,,,82
+2015,Canada,Ghana,301,79,,,,,,380
+2015,Canada,Greece,24,9,,,,,,33
+2015,Canada,Grenada,239,5,,,,,,244
+2015,Canada,Guatemala,935,37,,,,,,972
+2015,Canada,Guinea,648,32,,,,,,680
+2015,Canada,Guinea-Bissau,15,6,,,,,,21
+2015,Canada,Guyana,391,31,,,,,,422
+2015,Canada,Haiti,8807,205,,,,,,9012
+2015,Canada,Honduras,889,80,,,,,,969
+2015,Canada,Hungary,973,597,,,,,,1570
+2015,Canada,India,3712,338,,,,,,4050
+2015,Canada,Indonesia,308,13,,,,,,321
+2015,Canada,Iran (Islamic Rep. of),2639,107,,,,,,2746
+2015,Canada,Iraq,1892,351,24,,,,,2267
+2015,Canada,Ireland,4,6,,,,,,10
+2015,Canada,Israel,494,19,,,,,,513
+2015,Canada,Italy,18,42,,,,,,60
+2015,Canada,Jamaica,813,120,,,,,,933
+2015,Canada,Japan,23,4,,,,,,27
+2015,Canada,Jordan,383,64,,,,,,447
+2015,Canada,Kazakhstan,114,13,,,,,,127
+2015,Canada,Kenya,815,42,,,,,,857
+2015,Canada,Kiribati,2,,,,,,,2
+2015,Canada,Kuwait,38,3,,,,,,41
+2015,Canada,Kyrgyzstan,82,20,,,,,,102
+2015,Canada,Lao People's Dem. Rep.,5,,,,,,,5
+2015,Canada,Latvia,62,,,,,,,62
+2015,Canada,Lebanon,867,126,,,,,,993
+2015,Canada,Lesotho,6,,,,,,,6
+2015,Canada,Liberia,139,5,,,,,,144
+2015,Canada,Libya,230,255,,,,,,485
+2015,Canada,Lithuania,62,,,,,,,62
+2015,Canada,Madagascar,16,2,,,,,,18
+2015,Canada,Malawi,29,2,,,,,,31
+2015,Canada,Malaysia,91,2,,,,,,93
+2015,Canada,Maldives,1,,,,,,,1
+2015,Canada,Mali,74,84,,,,,,158
+2015,Canada,Mauritania,248,33,,,,,,281
+2015,Canada,Mauritius,3,5,,,,,,8
+2015,Canada,Mexico,6414,57,,,,,,6471
+2015,Canada,Mongolia,131,18,,,,,,149
+2015,Canada,Montenegro,21,3,,,,,,24
+2015,Canada,Morocco,167,25,,,,,,192
+2015,Canada,Mozambique,6,1,,,,,,7
+2015,Canada,Myanmar,223,3,,,,,,226
+2015,Canada,Namibia,282,1,,,,,,283
+2015,Canada,Nepal,1304,75,,,,,,1379
+2015,Canada,Netherlands,44,2,,,,,,46
+2015,Canada,New Zealand,1,,,,,,,1
+2015,Canada,Nicaragua,142,4,,,,,,146
+2015,Canada,Niger,85,4,,,,,,89
+2015,Canada,Nigeria,4502,623,,,,,,5125
+2015,Canada,Norway,2,4,,,,,,6
+2015,Canada,Oman,13,,,,,,,13
+2015,Canada,Pakistan,7207,546,,,,,,7753
+2015,Canada,Palestinian,534,96,,,,,,630
+2015,Canada,Panama,39,7,,,,,,46
+2015,Canada,Paraguay,42,,,,,,,42
+2015,Canada,Peru,1080,27,,,,,,1107
+2015,Canada,Philippines,277,14,,,,,,291
+2015,Canada,Poland,175,15,,,,,,190
+2015,Canada,Portugal,9,8,,,,,,17
+2015,Canada,Qatar,6,,,,,,,6
+2015,Canada,Rep. of Korea,174,12,,,,,,186
+2015,Canada,Rep. of Moldova,179,3,,,,,,182
+2015,Canada,Romania,334,4,,,,,,338
+2015,Canada,Russian Federation,1178,67,,,,,,1245
+2015,Canada,Rwanda,1620,47,,,,,,1667
+2015,Canada,Saint Kitts and Nevis,20,5,,,,,,25
+2015,Canada,Saint Lucia,992,15,,,,,,1007
+2015,Canada,Saint Vincent and the Grenadines,1778,32,,,,,,1810
+2015,Canada,San Marino,1,,,,,,,1
+2015,Canada,Saudi Arabia,101,28,,,,,,129
+2015,Canada,Senegal,241,27,,,,,,268
+2015,Canada,Serbia and Kosovo (S/RES/1244 (1999)),398,37,,,,,,435
+2015,Canada,Seychelles,9,4,,,,,,13
+2015,Canada,Sierra Leone,121,8,,,,,,129
+2015,Canada,Singapore,27,5,,,,,,32
+2015,Canada,Slovakia,63,502,,,,,,565
+2015,Canada,Slovenia,9,,,,,,,9
+2015,Canada,Solomon Islands,39,,,,,,,39
+2015,Canada,Somalia,2531,413,,,,,,2944
+2015,Canada,South Africa,52,21,,,,,,73
+2015,Canada,South Sudan,,2,,,,,,2
+2015,Canada,Spain,25,8,,,,,,33
+2015,Canada,Sri Lanka,8807,159,,,,,,8966
+2015,Canada,Stateless,1503,124,,,,,,1627
+2015,Canada,Sudan,509,59,,,,,,568
+2015,Canada,Suriname,8,,,,,,,8
+2015,Canada,Swaziland,134,,,,,,,134
+2015,Canada,Sweden,3,3,,,,,,6
+2015,Canada,Switzerland,11,,,,,,,11
+2015,Canada,Syrian Arab Rep.,1513,235,,,,,,1748
+2015,Canada,Tajikistan,53,5,,,,,,58
+2015,Canada,Thailand,33,9,,,,,,42
+2015,Canada,The former Yugoslav Republic of Macedonia,92,1,,,,,,93
+2015,Canada,Tibetan,58,,,,,,,58
+2015,Canada,Togo,188,19,,,,,,207
+2015,Canada,Trinidad and Tobago,243,12,,,,,,255
+2015,Canada,Tunisia,199,26,,,,,,225
+2015,Canada,Turkey,1991,248,,,,,,2239
+2015,Canada,Turkmenistan,18,,,,,,,18
+2015,Canada,Uganda,713,54,,,,,,767
+2015,Canada,Ukraine,1314,236,,,,,,1550
+2015,Canada,United Arab Emirates,29,3,,,,,,32
+2015,Canada,United Kingdom,60,,,,,,,60
+2015,Canada,United Rep. of Tanzania,257,25,,,,,,282
+2015,Canada,United States of America,4573,91,,,,,,4664
+2015,Canada,Uruguay,73,1,,,,,,74
+2015,Canada,Uzbekistan,271,25,,,,,,296
+2015,Canada,Vanuatu,,1,,,,,,1
+2015,Canada,Various/Unknown,88,8406,,,,,,8494
+2015,Canada,Venezuela (Bolivarian Republic of),729,173,,,,,,902
+2015,Canada,Viet Nam,114,4,,,,,,118
+2015,Canada,Yemen,215,81,,,,,,296
+2015,Canada,Zambia,48,2,,,,,,50
+2015,Canada,Zimbabwe,2368,43,,,,,,2411
+2016,Canada,Afghanistan,3177,456,,,,,,3633
+2016,Canada,Albania,863,211,,,,,,1074
+2016,Canada,Algeria,360,70,,,,,,430
+2016,Canada,Angola,84,43,,,,,,127
+2016,Canada,Antigua and Barbuda,77,20,,,,,,97
+2016,Canada,Argentina,27,7,,,,,,34
+2016,Canada,Armenia,88,9,,,,,,97
+2016,Canada,Australia,,5,,,,,,5
+2016,Canada,Austria,,4,,,,,,4
+2016,Canada,Azerbaijan,164,170,,,,,,334
+2016,Canada,Bahamas,113,65,,,,,,178
+2016,Canada,Bahrain,35,12,,,,,,47
+2016,Canada,Bangladesh,799,290,,,,,,1089
+2016,Canada,Barbados,144,32,,,,,,176
+2016,Canada,Belarus,99,11,,,,,,110
+2016,Canada,Belgium,7,4,,,,,,11
+2016,Canada,Belize,13,4,,,,,,17
+2016,Canada,Benin,50,10,,,,,,60
+2016,Canada,Bermuda,,1,,,,,,1
+2016,Canada,Bhutan,8,,,,,,,8
+2016,Canada,Bolivia (Plurinational State of),51,13,,,,,,64
+2016,Canada,Bosnia and Herzegovina,34,11,,,,,,45
+2016,Canada,Botswana,248,46,,,,,,294
+2016,Canada,Brazil,63,49,,,,,,112
+2016,Canada,Bulgaria,132,26,,,,,,158
+2016,Canada,Burkina Faso,92,9,,,,,,101
+2016,Canada,Burundi,1715,418,,,,,,2133
+2016,Canada,Cambodia,67,21,,,,,,88
+2016,Canada,Cameroon,975,139,,,,,,1114
+2016,Canada,Cayman Islands,1,,,,,,,1
+2016,Canada,Central African Rep.,64,4,,,,,,68
+2016,Canada,Chad,345,97,,,,,,442
+2016,Canada,Chile,49,36,,,,,,85
+2016,Canada,China,7356,2110,,,,,,9466
+2016,Canada,"China, Hong Kong SAR",5,21,,,,,,26
+2016,Canada,Colombia,8228,957,,,,,,9185
+2016,Canada,Comoros,2,,,,,,,2
+2016,Canada,Congo,248,46,,,,,,294
+2016,Canada,Costa Rica,20,3,,,,,,23
+2016,Canada,Croatia,158,287,,,,,,445
+2016,Canada,Cuba,869,72,,,,,,941
+2016,Canada,Cyprus,,2,,,,,,2
+2016,Canada,Czech Rep.,382,193,,,,,,575
+2016,Canada,Cote d'Ivoire,254,27,,,,,,281
+2016,Canada,Dem. People's Rep. of Korea,485,313,,,,,,798
+2016,Canada,Dem. Rep. of the Congo,1837,325,,,,,,2162
+2016,Canada,Djibouti,587,159,,,,,,746
+2016,Canada,Dominica,6,3,,,,,,9
+2016,Canada,Dominican Rep.,109,30,,,,,,139
+2016,Canada,Ecuador,61,28,,,,,,89
+2016,Canada,Egypt,1155,244,,,,,,1399
+2016,Canada,El Salvador,1230,213,,,,,,1443
+2016,Canada,Equatorial Guinea,14,4,,,,,,18
+2016,Canada,Eritrea,1806,610,,,,,,2416
+2016,Canada,Estonia,7,,,,,,,7
+2016,Canada,Ethiopia,1470,315,,,,,,1785
+2016,Canada,Fiji,62,6,,,,,,68
+2016,Canada,Finland,,4,,,,,,4
+2016,Canada,France,7,13,,,,,,20
+2016,Canada,Gabon,23,12,,,,,,35
+2016,Canada,Gambia,73,41,,,,,,114
+2016,Canada,Georgia,257,205,,,,,,462
+2016,Canada,Germany,9,9,,,,,,18
+2016,Canada,Ghana,269,120,,,,,,389
+2016,Canada,Greece,13,19,,,,,,32
+2016,Canada,Grenada,67,13,,,,,,80
+2016,Canada,Guatemala,585,67,,,,,,652
+2016,Canada,Guinea,423,61,,,,,,484
+2016,Canada,Guinea-Bissau,9,2,,,,,,11
+2016,Canada,Guyana,159,56,,,,,,215
+2016,Canada,Haiti,6774,387,,,,,,7161
+2016,Canada,Honduras,872,124,,,,,,996
+2016,Canada,Hungary,2473,1502,,,,,,3975
+2016,Canada,India,1144,597,,,,,,1741
+2016,Canada,Indonesia,121,30,,,,,,151
+2016,Canada,Iran (Islamic Rep. of),1986,288,,,,,,2274
+2016,Canada,Iraq,2421,678,,,,,,3099
+2016,Canada,Ireland,,6,,,,,,6
+2016,Canada,Israel,202,75,,,,,,277
+2016,Canada,Italy,1,19,,,,,,20
+2016,Canada,Jamaica,832,180,,,,,,1012
+2016,Canada,Japan,1,7,,,,,,8
+2016,Canada,Jordan,298,103,,,,,,401
+2016,Canada,Kazakhstan,106,59,,,,,,165
+2016,Canada,Kenya,453,82,,,,,,535
+2016,Canada,Kiribati,1,,,,,,,1
+2016,Canada,Kuwait,82,6,,,,,,88
+2016,Canada,Kyrgyzstan,63,17,,,,,,80
+2016,Canada,Lao People's Dem. Rep.,5,,,,,,,5
+2016,Canada,Latvia,72,13,,,,,,85
+2016,Canada,Lebanon,741,296,,,,,,1037
+2016,Canada,Lesotho,1,,,,,,,1
+2016,Canada,Liberia,82,13,,,,,,95
+2016,Canada,Libya,869,272,,,,,,1141
+2016,Canada,Lithuania,22,14,,,,,,36
+2016,Canada,Madagascar,16,3,,,,,,19
+2016,Canada,Malawi,15,4,,,,,,19
+2016,Canada,Malaysia,37,13,,,,,,50
+2016,Canada,Mali,125,51,,,,,,176
+2016,Canada,Mauritania,124,56,,,,,,180
+2016,Canada,Mauritius,2,4,,,,,,6
+2016,Canada,Mexico,4102,300,,,,,,4402
+2016,Canada,Mongolia,147,27,,,,,,174
+2016,Canada,Montenegro,36,4,,,,,,40
+2016,Canada,Morocco,158,30,,,,,,188
+2016,Canada,Mozambique,,3,,,,,,3
+2016,Canada,Myanmar,70,5,,,,,,75
+2016,Canada,Namibia,358,59,,,,,,417
+2016,Canada,Nepal,566,144,,,,,,710
+2016,Canada,Netherlands,3,2,,,,,,5
+2016,Canada,Nicaragua,80,7,,,,,,87
+2016,Canada,Niger,54,7,,,,,,61
+2016,Canada,Nigeria,4068,1526,,,,,,5594
+2016,Canada,Norway,,5,,,,,,5
+2016,Canada,Oman,8,,,,,,,8
+2016,Canada,Pakistan,4564,1076,,,,,,5640
+2016,Canada,Palestinian,489,321,,,,,,810
+2016,Canada,Panama,18,8,,,,,,26
+2016,Canada,Papua New Guinea,3,,,,,,,3
+2016,Canada,Paraguay,22,,,,,,,22
+2016,Canada,Peru,316,51,,,,,,367
+2016,Canada,Philippines,110,35,,,,,,145
+2016,Canada,Poland,129,47,,,,,,176
+2016,Canada,Portugal,5,14,,,,,,19
+2016,Canada,Qatar,10,1,,,,,,11
+2016,Canada,Rep. of Korea,98,26,,,,,,124
+2016,Canada,Rep. of Moldova,123,18,,,,,,141
+2016,Canada,Romania,188,295,,,,,,483
+2016,Canada,Russian Federation,849,134,,,,,,983
+2016,Canada,Rwanda,1048,70,,,,,,1118
+2016,Canada,Saint Kitts and Nevis,38,9,,,,,,47
+2016,Canada,Saint Lucia,968,168,,,,,,1136
+2016,Canada,Saint Vincent and the Grenadines,1285,117,,,,,,1402
+2016,Canada,Saint-Pierre-et-Miquelon,1,,,,,,,1
+2016,Canada,San Marino,1,,,,,,,1
+2016,Canada,Saudi Arabia,190,151,,,,,,341
+2016,Canada,Senegal,228,31,,,,,,259
+2016,Canada,Serbia and Kosovo (S/RES/1244 (1999)),266,96,,,,,,362
+2016,Canada,Seychelles,5,,,,,,,5
+2016,Canada,Sierra Leone,67,19,,,,,,86
+2016,Canada,Singapore,13,6,,,,,,19
+2016,Canada,Slovakia,566,559,,,,,,1125
+2016,Canada,Slovenia,8,6,,,,,,14
+2016,Canada,Solomon Islands,37,,,,,,,37
+2016,Canada,Somalia,2775,697,,,,,,3472
+2016,Canada,South Africa,53,34,,,,,,87
+2016,Canada,South Sudan,7,3,,,,,,10
+2016,Canada,Spain,5,14,,,,,,19
+2016,Canada,Sri Lanka,4648,788,,,,,,5436
+2016,Canada,Stateless,163,,,,,,,163
+2016,Canada,Sudan,465,334,,,,,,799
+2016,Canada,Suriname,8,,,,,,,8
+2016,Canada,Swaziland,134,26,,,,,,160
+2016,Canada,Sweden,1,4,,,,,,5
+2016,Canada,Switzerland,,2,,,,,,2
+2016,Canada,Syrian Arab Rep.,2757,380,,,,,,3137
+2016,Canada,Tajikistan,37,11,,,,,,48
+2016,Canada,Thailand,17,6,,,,,,23
+2016,Canada,The former Yugoslav Republic of Macedonia,48,8,,,,,,56
+2016,Canada,Togo,112,14,,,,,,126
+2016,Canada,Trinidad and Tobago,144,25,,,,,,169
+2016,Canada,Tunisia,180,26,,,,,,206
+2016,Canada,Turkey,1609,998,,,,,,2607
+2016,Canada,Turkmenistan,5,3,,,,,,8
+2016,Canada,Turks and Caicos Islands,2,3,,,,,,5
+2016,Canada,Uganda,486,91,,,,,,577
+2016,Canada,Ukraine,1077,338,,,,,,1415
+2016,Canada,United Arab Emirates,34,4,,,,,,38
+2016,Canada,United Kingdom,11,2,,,,,,13
+2016,Canada,United Rep. of Tanzania,132,51,,,,,,183
+2016,Canada,United States of America,51,122,,,,,,173
+2016,Canada,Uruguay,13,2,,,,,,15
+2016,Canada,Uzbekistan,165,49,,,,,,214
+2016,Canada,Vanuatu,1,,,,,,,1
+2016,Canada,Various/Unknown,86,45,,,,,,131
+2016,Canada,Venezuela (Bolivarian Republic of),963,355,,,,,,1318
+2016,Canada,Viet Nam,41,15,,,,,,56
+2016,Canada,Yemen,390,231,,,,,,621
+2016,Canada,Zambia,26,6,,,,,,32
+2016,Canada,Zimbabwe,1261,89,,,,,,1350
+2017,Canada,Afghanistan,3356,717,,,,,,4073
+2017,Canada,Albania,853,261,,,,,,1114
+2017,Canada,Algeria,390,240,,,,,,630
+2017,Canada,Angola,99,267,,,,,,366
+2017,Canada,Antigua and Barbuda,94,41,,,,,,135
+2017,Canada,Argentina,26,21,,,,,,47
+2017,Canada,Armenia,85,17,,,,,,102
+2017,Canada,Australia,*,4,,,,,,5
+2017,Canada,Austria,,9,,,,,,9
+2017,Canada,Azerbaijan,297,424,,,,,,721
+2017,Canada,Bahamas,194,169,,,,,,363
+2017,Canada,Bahrain,46,19,,,,,,65
+2017,Canada,Bangladesh,905,578,,,,,,1483
+2017,Canada,Barbados,167,56,,,,,,223
+2017,Canada,Belarus,95,20,,,,,,115
+2017,Canada,Belgium,14,15,,,,,,29
+2017,Canada,Belize,16,8,,,,,,24
+2017,Canada,Benin,54,25,,,,,,79
+2017,Canada,Bhutan,7,,,,,,,7
+2017,Canada,Bolivia (Plurinational State of),50,*,,,,,,51
+2017,Canada,Bosnia and Herzegovina,35,10,,,,,,45
+2017,Canada,Botswana,255,29,,,,,,284
+2017,Canada,Brazil,64,378,,,,,,442
+2017,Canada,Bulgaria,135,28,,,,,,163
+2017,Canada,Burkina Faso,95,52,,,,,,147
+2017,Canada,Burundi,2022,591,,,,,,2613
+2017,Canada,Cambodia,71,24,,,,,,95
+2017,Canada,Cameroon,1039,297,,,,,,1336
+2017,Canada,Cayman Islands,*,,,,,,,*
+2017,Canada,Central African Rep.,70,12,,,,,,82
+2017,Canada,Chad,427,303,,,,,,730
+2017,Canada,Chile,52,97,,,,,,149
+2017,Canada,China,7180,2216,,,,,,9396
+2017,Canada,"China, Hong Kong SAR",6,21,,,,,,27
+2017,Canada,Colombia,8049,1567,,,,,,9616
+2017,Canada,Comoros,*,,,,,,,*
+2017,Canada,Congo,281,89,,,,,,370
+2017,Canada,Costa Rica,15,12,,,,,,27
+2017,Canada,Croatia,204,217,,,,,,421
+2017,Canada,Cuba,836,100,,,,,,936
+2017,Canada,Cyprus,,11,,,,,,11
+2017,Canada,Czech Rep.,420,273,,,,,,693
+2017,Canada,Cote d'Ivoire,253,89,,,,,,342
+2017,Canada,Dem. People's Rep. of Korea,484,409,,,,,,893
+2017,Canada,Dem. Rep. of the Congo,1816,668,,,,,,2484
+2017,Canada,Denmark,,*,,,,,,*
+2017,Canada,Djibouti,801,477,,,,,,1278
+2017,Canada,Dominica,5,10,,,,,,15
+2017,Canada,Dominican Rep.,124,67,,,,,,191
+2017,Canada,Ecuador,59,30,,,,,,89
+2017,Canada,Egypt,1329,734,,,,,,2063
+2017,Canada,El Salvador,1354,629,,,,,,1983
+2017,Canada,Equatorial Guinea,13,7,,,,,,20
+2017,Canada,Eritrea,2131,865,,,,,,2996
+2017,Canada,Estonia,5,,,,,,,5
+2017,Canada,Ethiopia,1631,633,,,,,,2264
+2017,Canada,Fiji,60,10,,,,,,70
+2017,Canada,Finland,,4,,,,,,4
+2017,Canada,France,10,25,,,,,,35
+2017,Canada,Gabon,36,10,,,,,,46
+2017,Canada,Gambia,82,55,,,,,,137
+2017,Canada,Georgia,276,297,,,,,,573
+2017,Canada,Germany,*,18,,,,,,20
+2017,Canada,Ghana,298,277,,,,,,575
+2017,Canada,Greece,14,29,,,,,,43
+2017,Canada,Grenada,64,11,,,,,,75
+2017,Canada,Guatemala,554,225,,,,,,779
+2017,Canada,Guinea,442,132,,,,,,574
+2017,Canada,Guinea-Bissau,9,*,,,,,,12
+2017,Canada,Guyana,148,102,,,,,,250
+2017,Canada,Haiti,6874,7097,,,,,,13971
+2017,Canada,Honduras,934,280,,,,,,1214
+2017,Canada,Hungary,2912,1463,,,,,,4375
+2017,Canada,India,1281,1767,,,,,,3048
+2017,Canada,Indonesia,119,56,,,,,,175
+2017,Canada,Iran (Islamic Rep. of),2197,647,,,,,,2844
+2017,Canada,Iraq,2792,890,,,,,,3682
+2017,Canada,Ireland,,10,,,,,,10
+2017,Canada,Israel,181,112,,,,,,293
+2017,Canada,Italy,*,55,,,,,,56
+2017,Canada,Jamaica,893,238,,,,,,1131
+2017,Canada,Japan,*,10,,,,,,11
+2017,Canada,Jordan,353,295,,,,,,648
+2017,Canada,Kazakhstan,126,70,,,,,,196
+2017,Canada,Kenya,463,155,,,,,,618
+2017,Canada,Kiribati,*,,,,,,,*
+2017,Canada,Kuwait,86,10,,,,,,96
+2017,Canada,Kyrgyzstan,61,22,,,,,,83
+2017,Canada,Lao People's Dem. Rep.,5,,,,,,,5
+2017,Canada,Latvia,75,10,,,,,,85
+2017,Canada,Lebanon,838,402,,,,,,1240
+2017,Canada,Lesotho,*,*,,,,,,*
+2017,Canada,Liberia,91,28,,,,,,119
+2017,Canada,Libya,1118,405,,,,,,1523
+2017,Canada,Lithuania,20,17,,,,,,37
+2017,Canada,Madagascar,16,10,,,,,,26
+2017,Canada,Malawi,16,15,,,,,,31
+2017,Canada,Malaysia,32,15,,,,,,47
+2017,Canada,Mali,142,92,,,,,,234
+2017,Canada,Mauritania,151,59,,,,,,210
+2017,Canada,Mauritius,5,9,,,,,,14
+2017,Canada,Mexico,3846,1408,,,,,,5254
+2017,Canada,Mongolia,143,36,,,,,,179
+2017,Canada,Montenegro,19,8,,,,,,27
+2017,Canada,Morocco,151,59,,,,,,210
+2017,Canada,Mozambique,,*,,,,,,*
+2017,Canada,Myanmar,60,5,,,,,,65
+2017,Canada,Namibia,360,54,,,,,,414
+2017,Canada,Nepal,557,188,,,,,,745
+2017,Canada,Netherlands,4,19,,,,,,23
+2017,Canada,Nicaragua,82,21,,,,,,103
+2017,Canada,Niger,57,27,,,,,,84
+2017,Canada,Nigeria,4800,5632,,,,,,10432
+2017,Canada,Norway,,4,,,,,,4
+2017,Canada,Oman,9,,,,,,,9
+2017,Canada,Pakistan,4971,1991,,,,,,6962
+2017,Canada,Palestinian,777,626,,,,,,1403
+2017,Canada,Panama,16,23,,,,,,39
+2017,Canada,Papua New Guinea,*,,,,,,,*
+2017,Canada,Paraguay,21,,,,,,,21
+2017,Canada,Peru,252,108,,,,,,360
+2017,Canada,Philippines,96,63,,,,,,159
+2017,Canada,Poland,125,111,,,,,,236
+2017,Canada,Portugal,*,12,,,,,,14
+2017,Canada,Qatar,12,*,,,,,,14
+2017,Canada,Rep. of Korea,102,35,,,,,,137
+2017,Canada,Rep. of Moldova,121,23,,,,,,144
+2017,Canada,Romania,193,229,,,,,,422
+2017,Canada,Russian Federation,877,202,,,,,,1079
+2017,Canada,Rwanda,1013,197,,,,,,1210
+2017,Canada,Saint Kitts and Nevis,40,11,,,,,,51
+2017,Canada,Saint Lucia,967,140,,,,,,1107
+2017,Canada,Saint Vincent and the Grenadines,1253,109,,,,,,1362
+2017,Canada,Saint-Pierre-et-Miquelon,*,,,,,,,*
+2017,Canada,San Marino,*,,,,,,,*
+2017,Canada,Saudi Arabia,277,176,,,,,,453
+2017,Canada,Senegal,238,60,,,,,,298
+2017,Canada,Serbia and Kosovo (S/RES/1244 (1999)),288,34,,,,,,322
+2017,Canada,Seychelles,5,,,,,,,5
+2017,Canada,Sierra Leone,72,25,,,,,,97
+2017,Canada,Singapore,15,5,,,,,,20
+2017,Canada,Slovakia,696,665,,,,,,1361
+2017,Canada,Slovenia,4,9,,,,,,13
+2017,Canada,Solomon Islands,28,,,,,,,28
+2017,Canada,Somalia,3035,948,,,,,,3983
+2017,Canada,South Africa,58,111,,,,,,169
+2017,Canada,South Sudan,12,*,,,,,,14
+2017,Canada,Spain,6,37,,,,,,43
+2017,Canada,Sri Lanka,4195,868,,,,,,5063
+2017,Canada,Stateless,307,207,,,,3790,,4304
+2017,Canada,Sudan,802,609,,,,,,1411
+2017,Canada,Suriname,8,*,,,,,,9
+2017,Canada,Swaziland,141,14,,,,,,155
+2017,Canada,Sweden,,*,,,,,,*
+2017,Canada,Switzerland,,*,,,,,,*
+2017,Canada,Syrian Arab Rep.,3095,806,,,,,,3901
+2017,Canada,Tajikistan,44,13,,,,,,57
+2017,Canada,Thailand,17,9,,,,,,26
+2017,Canada,The former Yugoslav Republic of Macedonia,43,8,,,,,,51
+2017,Canada,Timor-Leste,,*,,,,,,*
+2017,Canada,Togo,110,47,,,,,,157
+2017,Canada,Trinidad and Tobago,135,27,,,,,,162
+2017,Canada,Tunisia,189,67,,,,,,256
+2017,Canada,Turkey,2833,1778,,,,,,4611
+2017,Canada,Turkmenistan,13,8,,,,,,21
+2017,Canada,Turks and Caicos Islands,*,*,,,,,,5
+2017,Canada,Uganda,541,189,,,,,,730
+2017,Canada,Ukraine,1126,432,,,,,,1558
+2017,Canada,United Arab Emirates,35,11,,,,,,46
+2017,Canada,United Kingdom,11,*,,,,,,13
+2017,Canada,United Rep. of Tanzania,147,73,,,,,,220
+2017,Canada,United States of America,48,1939,,,,,,1987
+2017,Canada,Uruguay,7,4,,,,,,11
+2017,Canada,Uzbekistan,172,69,,,,,,241
+2017,Canada,Vanuatu,*,,,,,,,*
+2017,Canada,Various/Unknown,85,48,,,,,,133
+2017,Canada,Venezuela (Bolivarian Republic of),1345,1059,,,,,,2404
+2017,Canada,Viet Nam,44,37,,,,,,81
+2017,Canada,Western Sahara,*,,,,,,,*
+2017,Canada,Yemen,648,694,,,,,,1342
+2017,Canada,Zambia,28,11,,,,,,39
+2017,Canada,Zimbabwe,1146,142,,,,,,1288
